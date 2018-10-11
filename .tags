@@ -1,0 +1,964 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	0	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.8	//
+head	/Users/stars/Documents/Weiwei/website/weiweihsu.github.io/_includes/head.html	/^<head>$/;"	function	line:1
+meta	/Users/stars/Documents/Weiwei/website/weiweihsu.github.io/_includes/head.html	/^  <meta charset="UTF-8">$/;"	function	line:2
+meta	/Users/stars/Documents/Weiwei/website/weiweihsu.github.io/_includes/head.html	/^  <meta name="viewport" content="width=device-width, initial-scale=1.0">$/;"	function	line:3
+meta	/Users/stars/Documents/Weiwei/website/weiweihsu.github.io/_includes/head.html	/^    <meta name="description" content="{{ site.description }}">$/;"	function	line:5
+title	/Users/stars/Documents/Weiwei/website/weiweihsu.github.io/_includes/head.html	/^  <title>$/;"	function	line:8
+link	/Users/stars/Documents/Weiwei/website/weiweihsu.github.io/_includes/head.html	/^  <link rel="stylesheet" href="{{ "\/assets\/main.css" | relative_url }}">$/;"	function	line:17
+link	/Users/stars/Documents/Weiwei/website/weiweihsu.github.io/_includes/head.html	/^  <link rel="stylesheet" href="https:\/\/fonts.googleapis.com\/css?family=Libre+Baskerville:400,400i,700">$/;"	function	line:18
+link	/Users/stars/Documents/Weiwei/website/weiweihsu.github.io/_includes/head.html	/^  <link rel="icon" type="image\/png" sizes="32x32" href="{{ "\/assets\/favicon-32x32.png" | relative_url }}">$/;"	function	line:21
+link	/Users/stars/Documents/Weiwei/website/weiweihsu.github.io/_includes/head.html	/^  <link rel="icon" type="image\/png" sizes="16x16" href="{{ "\/assets\/favicon-16x16.png" | relative_url }}">$/;"	function	line:22
+link	/Users/stars/Documents/Weiwei/website/weiweihsu.github.io/_includes/head.html	/^  <link rel="apple-touch-icon" sizes="180x180" href="{{ "\/assets\/apple-touch-icon.png" | relative_url }}">$/;"	function	line:23
+script	/Users/stars/Documents/Weiwei/website/weiweihsu.github.io/_includes/randomize.html	/^<script>$/;"	function	line:1
+Contributor Covenant Code of Conduct	/Users/stars/Documents/Weiwei/website/weiweihsu.github.io/CODE_OF_CONDUCT.md	/^# Contributor Covenant Code of Conduct$/;"	function	line:1
+Our Pledge	/Users/stars/Documents/Weiwei/website/weiweihsu.github.io/CODE_OF_CONDUCT.md	/^## Our Pledge$/;"	function	line:3
+Our Standards	/Users/stars/Documents/Weiwei/website/weiweihsu.github.io/CODE_OF_CONDUCT.md	/^## Our Standards$/;"	function	line:7
+Our Responsibilities	/Users/stars/Documents/Weiwei/website/weiweihsu.github.io/CODE_OF_CONDUCT.md	/^## Our Responsibilities$/;"	function	line:25
+Scope	/Users/stars/Documents/Weiwei/website/weiweihsu.github.io/CODE_OF_CONDUCT.md	/^## Scope$/;"	function	line:31
+Enforcement	/Users/stars/Documents/Weiwei/website/weiweihsu.github.io/CODE_OF_CONDUCT.md	/^## Enforcement$/;"	function	line:35
+Attribution	/Users/stars/Documents/Weiwei/website/weiweihsu.github.io/CODE_OF_CONDUCT.md	/^## Attribution$/;"	function	line:41
+Headers	/Users/stars/Documents/Weiwei/website/weiweihsu.github.io/_posts/weeknotes/example-content.md	/^# Headers$/;"	function	line:9
+H1	/Users/stars/Documents/Weiwei/website/weiweihsu.github.io/_posts/weeknotes/example-content.md	/^# H1$/;"	function	line:11
+H2	/Users/stars/Documents/Weiwei/website/weiweihsu.github.io/_posts/weeknotes/example-content.md	/^## H2$/;"	function	line:12
+H3	/Users/stars/Documents/Weiwei/website/weiweihsu.github.io/_posts/weeknotes/example-content.md	/^### H3$/;"	function	line:13
+H4	/Users/stars/Documents/Weiwei/website/weiweihsu.github.io/_posts/weeknotes/example-content.md	/^#### H4$/;"	function	line:14
+H5	/Users/stars/Documents/Weiwei/website/weiweihsu.github.io/_posts/weeknotes/example-content.md	/^##### H5$/;"	function	line:15
+H6	/Users/stars/Documents/Weiwei/website/weiweihsu.github.io/_posts/weeknotes/example-content.md	/^###### H6$/;"	function	line:16
+H1	/Users/stars/Documents/Weiwei/website/weiweihsu.github.io/_posts/weeknotes/example-content.md	/^# H1$/;"	function	line:19
+H2	/Users/stars/Documents/Weiwei/website/weiweihsu.github.io/_posts/weeknotes/example-content.md	/^## H2$/;"	function	line:20
+H3	/Users/stars/Documents/Weiwei/website/weiweihsu.github.io/_posts/weeknotes/example-content.md	/^### H3$/;"	function	line:21
+H4	/Users/stars/Documents/Weiwei/website/weiweihsu.github.io/_posts/weeknotes/example-content.md	/^#### H4$/;"	function	line:22
+H5	/Users/stars/Documents/Weiwei/website/weiweihsu.github.io/_posts/weeknotes/example-content.md	/^##### H5$/;"	function	line:23
+H6	/Users/stars/Documents/Weiwei/website/weiweihsu.github.io/_posts/weeknotes/example-content.md	/^###### H6$/;"	function	line:24
+Text formatting	/Users/stars/Documents/Weiwei/website/weiweihsu.github.io/_posts/weeknotes/example-content.md	/^# Text formatting$/;"	function	line:26
+Lists	/Users/stars/Documents/Weiwei/website/weiweihsu.github.io/_posts/weeknotes/example-content.md	/^# Lists$/;"	function	line:47
+Links	/Users/stars/Documents/Weiwei/website/weiweihsu.github.io/_posts/weeknotes/example-content.md	/^# Links$/;"	function	line:66
+Images	/Users/stars/Documents/Weiwei/website/weiweihsu.github.io/_posts/weeknotes/example-content.md	/^# Images$/;"	function	line:73
+Code and Syntax Highlighting	/Users/stars/Documents/Weiwei/website/weiweihsu.github.io/_posts/weeknotes/example-content.md	/^# Code and Syntax Highlighting$/;"	function	line:86
+Sample python code	/Users/stars/Documents/Weiwei/website/weiweihsu.github.io/_posts/weeknotes/example-content.md	/^# Sample python code$/;"	function	line:96
+Blockquotes	/Users/stars/Documents/Weiwei/website/weiweihsu.github.io/_posts/weeknotes/example-content.md	/^# Blockquotes$/;"	function	line:109
+Horizontal Rule & Line Break	/Users/stars/Documents/Weiwei/website/weiweihsu.github.io/_posts/weeknotes/example-content.md	/^# Horizontal Rule & Line Break$/;"	function	line:117
+div	/Users/stars/Documents/Weiwei/website/weiweihsu.github.io/_layouts/post.html	/^<div class="post">$/;"	function	line:5
+div	/Users/stars/Documents/Weiwei/website/weiweihsu.github.io/_layouts/post.html	/^  <div class="post-info">$/;"	function	line:6
+br	/Users/stars/Documents/Weiwei/website/weiweihsu.github.io/_layouts/post.html	/^      <br>$/;"	function	line:15
+span	/Users/stars/Documents/Weiwei/website/weiweihsu.github.io/_layouts/post.html	/^      <span>during the week of&nbsp;<\/span><time datetime="{{ page.date }}">{{ page.date | date: "%B %d, %Y" }}<\/time>$/;"	function	line:16
+h	/Users/stars/Documents/Weiwei/website/weiweihsu.github.io/_layouts/post.html	/^  <h5 class="post-title">{{ page.title }}<\/h5>$/;"	function	line:20
+div	/Users/stars/Documents/Weiwei/website/weiweihsu.github.io/_layouts/post.html	/^  <div class="post-line"><\/div>$/;"	function	line:21
+div	/Users/stars/Documents/Weiwei/website/weiweihsu.github.io/_layouts/home.html	/^<div class="post">$/;"	function	line:4
+div	/Users/stars/Documents/Weiwei/website/weiweihsu.github.io/_layouts/home.html	/^<div class="post-line"><\/div>$/;"	function	line:6
+br	/Users/stars/Documents/Weiwei/website/weiweihsu.github.io/_layouts/home.html	/^<br><br>$/;"	function	line:10
+br	/Users/stars/Documents/Weiwei/website/weiweihsu.github.io/_layouts/home.html	/^<br><br>$/;"	function	line:14
+br	/Users/stars/Documents/Weiwei/website/weiweihsu.github.io/_layouts/home.html	/^<br><br>$/;"	function	line:18
+div	/Users/stars/Documents/Weiwei/website/weiweihsu.github.io/_layouts/home.html	/^<div class="pagination">$/;"	function	line:25
+mark	/Users/stars/Documents/Weiwei/website/weiweihsu.github.io/_layouts/home.html	/^<mark> &nbsp Blog &nbsp  <\/mark>$/;"	function	line:28
+br	/Users/stars/Documents/Weiwei/website/weiweihsu.github.io/_layouts/home.html	/^<br> <br>$/;"	function	line:29
+div	/Users/stars/Documents/Weiwei/website/weiweihsu.github.io/_layouts/home.html	/^<div class="article">$/;"	function	line:30
+a	/Users/stars/Documents/Weiwei/website/weiweihsu.github.io/_layouts/home.html	/^      <a href="{{ post.external-url }}" class="article-title">$/;"	function	line:35
+h	/Users/stars/Documents/Weiwei/website/weiweihsu.github.io/_layouts/home.html	/^          <h1 class="article-title">{{ post.title }} ↗<\/h1>$/;"	function	line:37
+div	/Users/stars/Documents/Weiwei/website/weiweihsu.github.io/_layouts/home.html	/^          <div class="article-line"><\/div>$/;"	function	line:38
+time	/Users/stars/Documents/Weiwei/website/weiweihsu.github.io/_layouts/home.html	/^          <time datetime="{{ post.date }}" class="article-time">{{ post.date | date: "%B %d, %Y" }}<\/time>$/;"	function	line:39
+time	/Users/stars/Documents/Weiwei/website/weiweihsu.github.io/_layouts/home.html	/^          <time class="article-reading-time">• {{ post.reading-time }} <\/time>$/;"	function	line:40
+br	/Users/stars/Documents/Weiwei/website/weiweihsu.github.io/_layouts/home.html	/^      <br>$/;"	function	line:42
+a	/Users/stars/Documents/Weiwei/website/weiweihsu.github.io/_layouts/home.html	/^      <a href="{{ post.url | prepend: site.baseurl }}" class="article-title">$/;"	function	line:45
+h	/Users/stars/Documents/Weiwei/website/weiweihsu.github.io/_layouts/home.html	/^          <h1 class="article-title">{{ post.title }}<\/h1>$/;"	function	line:47
+div	/Users/stars/Documents/Weiwei/website/weiweihsu.github.io/_layouts/home.html	/^          <div class="article-line"><\/div>$/;"	function	line:48
+time	/Users/stars/Documents/Weiwei/website/weiweihsu.github.io/_layouts/home.html	/^          <time datetime="{{ post.date }}" class="article-time">{{ post.date | date: "%B %d, %Y" }}<\/time>$/;"	function	line:49
+time	/Users/stars/Documents/Weiwei/website/weiweihsu.github.io/_layouts/home.html	/^          <time class="article-reading-time">• {{ post.reading-time }} <\/time>$/;"	function	line:50
+br	/Users/stars/Documents/Weiwei/website/weiweihsu.github.io/_layouts/home.html	/^      <br>$/;"	function	line:52
+div	/Users/stars/Documents/Weiwei/website/weiweihsu.github.io/_layouts/home.html	/^<div class="pagination">$/;"	function	line:61
+mark	/Users/stars/Documents/Weiwei/website/weiweihsu.github.io/_layouts/home.html	/^<mark> &nbsp Weeknotes &nbsp <\/mark>$/;"	function	line:66
+div	/Users/stars/Documents/Weiwei/website/weiweihsu.github.io/_layouts/home.html	/^<div class="catalogue">$/;"	function	line:68
+a	/Users/stars/Documents/Weiwei/website/weiweihsu.github.io/_layouts/home.html	/^  <a href="{{ post.url | prepend: site.baseurl }}" class="catalogue-item">$/;"	function	line:71
+div	/Users/stars/Documents/Weiwei/website/weiweihsu.github.io/_layouts/home.html	/^    <div>$/;"	function	line:72
+h	/Users/stars/Documents/Weiwei/website/weiweihsu.github.io/_layouts/home.html	/^      <h1 class="catalogue-title">{{ post.title }}<\/h1>$/;"	function	line:74
+div	/Users/stars/Documents/Weiwei/website/weiweihsu.github.io/_layouts/home.html	/^      <div class="catalogue-line"><\/div>$/;"	function	line:75
+p	/Users/stars/Documents/Weiwei/website/weiweihsu.github.io/_layouts/home.html	/^      <p>$/;"	function	line:77
+a	/Users/stars/Documents/Weiwei/website/weiweihsu.github.io/_layouts/home.html	/^    <a href="{{ post.url | prepend: site.baseurl }}" class="catalogue-item">$/;"	function	line:87
+div	/Users/stars/Documents/Weiwei/website/weiweihsu.github.io/_layouts/home.html	/^      <div>$/;"	function	line:88
+time	/Users/stars/Documents/Weiwei/website/weiweihsu.github.io/_layouts/home.html	/^        <time datetime="{{ post.date }}" class="catalogue-time">{{ post.date | date: "%B %d, %Y" }}<\/time>$/;"	function	line:89
+h	/Users/stars/Documents/Weiwei/website/weiweihsu.github.io/_layouts/home.html	/^        <h5 class="catalogue-title">{{ post.title }}<\/h5>$/;"	function	line:90
+div	/Users/stars/Documents/Weiwei/website/weiweihsu.github.io/_layouts/home.html	/^        <div class="catalogue-line"><\/div>$/;"	function	line:91
+p	/Users/stars/Documents/Weiwei/website/weiweihsu.github.io/_layouts/home.html	/^        <p>$/;"	function	line:93
+div	/Users/stars/Documents/Weiwei/website/weiweihsu.github.io/_layouts/home.html	/^<div class="pagination">$/;"	function	line:102
+html	/Users/stars/Documents/Weiwei/website/weiweihsu.github.io/_layouts/default.html	/^<html lang="en">$/;"	function	line:2
+body	/Users/stars/Documents/Weiwei/website/weiweihsu.github.io/_layouts/default.html	/^  <body>$/;"	function	line:6
+nav	/Users/stars/Documents/Weiwei/website/weiweihsu.github.io/_layouts/default.html	/^    <nav class="nav">$/;"	function	line:7
+div	/Users/stars/Documents/Weiwei/website/weiweihsu.github.io/_layouts/default.html	/^      <div class="nav-container">$/;"	function	line:8
+a	/Users/stars/Documents/Weiwei/website/weiweihsu.github.io/_layouts/default.html	/^        <a href="{{ site.baseurl }}\/">$/;"	function	line:9
+h	/Users/stars/Documents/Weiwei/website/weiweihsu.github.io/_layouts/default.html	/^          <h2 class="nav-title">{{ site.title }}<\/h2>$/;"	function	line:10
+ul	/Users/stars/Documents/Weiwei/website/weiweihsu.github.io/_layouts/default.html	/^        <ul>$/;"	function	line:12
+li	/Users/stars/Documents/Weiwei/website/weiweihsu.github.io/_layouts/default.html	/^          <li><a href="{{ '\/weeknotes' | prepend: site.baseurl }}">Weeknotes<\/a><\/li>$/;"	function	line:13
+li	/Users/stars/Documents/Weiwei/website/weiweihsu.github.io/_layouts/default.html	/^          <li><a href="{{ '\/collection' |prepend: site.baseurl }}\/">Collection<\/a><\/li>$/;"	function	line:14
+li	/Users/stars/Documents/Weiwei/website/weiweihsu.github.io/_layouts/default.html	/^          <li><a href="{{ '\/about' | prepend: site.baseurl }}">About<\/a><\/li>$/;"	function	line:15
+main	/Users/stars/Documents/Weiwei/website/weiweihsu.github.io/_layouts/default.html	/^    <main>$/;"	function	line:20
+footer	/Users/stars/Documents/Weiwei/website/weiweihsu.github.io/_layouts/default.html	/^    <footer>$/;"	function	line:24
+span	/Users/stars/Documents/Weiwei/website/weiweihsu.github.io/_layouts/default.html	/^      <span>$/;"	function	line:25
+div	/Users/stars/Documents/Weiwei/website/weiweihsu.github.io/_layouts/collection.html	/^<div class="post">$/;"	function	line:7
+div	/Users/stars/Documents/Weiwei/website/weiweihsu.github.io/_layouts/collection.html	/^  <div class="post-line"><\/div>$/;"	function	line:8
+br	/Users/stars/Documents/Weiwei/website/weiweihsu.github.io/_layouts/collection.html	/^<br> <br>$/;"	function	line:12
+mark	/Users/stars/Documents/Weiwei/website/weiweihsu.github.io/_layouts/collection.html	/^  <mark> &nbsp Podcasts: &nbsp  <\/mark> <br><br>$/;"	function	line:14
+div	/Users/stars/Documents/Weiwei/website/weiweihsu.github.io/_layouts/collection.html	/^    <div class="collection">$/;"	function	line:16
+a	/Users/stars/Documents/Weiwei/website/weiweihsu.github.io/_layouts/collection.html	/^      <a href="https:\/\/www.conversationswithtyler.com">Conversations with Tyler<\/a> <br>$/;"	function	line:17
+a	/Users/stars/Documents/Weiwei/website/weiweihsu.github.io/_layouts/collection.html	/^      <a href="https:\/\/fs.blog\/the-knowledge-project\/">The Knowledge Project<\/a> <br>$/;"	function	line:18
+a	/Users/stars/Documents/Weiwei/website/weiweihsu.github.io/_layouts/collection.html	/^      <a href="https:\/\/baike.baidu.com\/item\/时间的朋友\/20353715">時間的朋友<\/a> <br>$/;"	function	line:19
+br	/Users/stars/Documents/Weiwei/website/weiweihsu.github.io/_layouts/collection.html	/^      <br> <br>$/;"	function	line:20
+mark	/Users/stars/Documents/Weiwei/website/weiweihsu.github.io/_layouts/collection.html	/^  <mark> &nbsp Groups: &nbsp  <\/mark> <br><br>$/;"	function	line:23
+div	/Users/stars/Documents/Weiwei/website/weiweihsu.github.io/_layouts/collection.html	/^    <div class="collection">$/;"	function	line:24
+a	/Users/stars/Documents/Weiwei/website/weiweihsu.github.io/_layouts/collection.html	/^      <a href="http:\/\/www.dubberly.com">Dubberly Design Office<\/a><br>$/;"	function	line:25
+a	/Users/stars/Documents/Weiwei/website/weiweihsu.github.io/_layouts/collection.html	/^      <a href="https:\/\/dynamicland.org">Dynamicland<\/a><br>$/;"	function	line:26
+a	/Users/stars/Documents/Weiwei/website/weiweihsu.github.io/_layouts/collection.html	/^      <a href="https:\/\/newcomputers.group">New Computer Working Group<\/a><br>$/;"	function	line:27
+a	/Users/stars/Documents/Weiwei/website/weiweihsu.github.io/_layouts/collection.html	/^      <a href="http:\/\/skrekkogle.com">Skrekkogle<\/a> <br>$/;"	function	line:29
+a	/Users/stars/Documents/Weiwei/website/weiweihsu.github.io/_layouts/collection.html	/^      <a href="http:\/\/screenl.es">The Screenless Office<\/a><br>$/;"	function	line:30
+br	/Users/stars/Documents/Weiwei/website/weiweihsu.github.io/_layouts/collection.html	/^      <br> <br>$/;"	function	line:32
+mark	/Users/stars/Documents/Weiwei/website/weiweihsu.github.io/_layouts/collection.html	/^  <mark> &nbsp Books: &nbsp  <\/mark> <br><br>$/;"	function	line:35
+div	/Users/stars/Documents/Weiwei/website/weiweihsu.github.io/_layouts/collection.html	/^    <div class="collection">$/;"	function	line:36
+a	/Users/stars/Documents/Weiwei/website/weiweihsu.github.io/_layouts/collection.html	/^      <a href="https:\/\/press.stripe.com\/#the-dream-machine">The Dream Machine<\/a> by M. Mitchell Waldrop <br>$/;"	function	line:37
+a	/Users/stars/Documents/Weiwei/website/weiweihsu.github.io/_layouts/collection.html	/^      <a href="http:\/\/mitpress.mit.edu\/books\/architectural-intelligence">Architectural Intelligence<\/a>  by Molly Wright Steenson<br>$/;"	function	line:38
+br	/Users/stars/Documents/Weiwei/website/weiweihsu.github.io/_layouts/collection.html	/^      <br> <br>$/;"	function	line:40
+mark	/Users/stars/Documents/Weiwei/website/weiweihsu.github.io/_layouts/collection.html	/^  <mark> &nbsp Articles: &nbsp  <\/mark> <br> <br>$/;"	function	line:43
+div	/Users/stars/Documents/Weiwei/website/weiweihsu.github.io/_layouts/collection.html	/^    <div class="collection">$/;"	function	line:44
+a	/Users/stars/Documents/Weiwei/website/weiweihsu.github.io/_layouts/collection.html	/^      <a href="https:\/\/www.theatlantic.com\/technology\/archive\/2017\/09\/saving-the-world-from-code\/540393\/">The Coming Software Apocalypse<\/a>  by James Somers<br>$/;"	function	line:45
+div	/Users/stars/Documents/Weiwei/website/weiweihsu.github.io/_layouts/notes.html	/^<div class="post">$/;"	function	line:7
+div	/Users/stars/Documents/Weiwei/website/weiweihsu.github.io/_layouts/notes.html	/^  <div class="post-line"><\/div>$/;"	function	line:8
+br	/Users/stars/Documents/Weiwei/website/weiweihsu.github.io/_layouts/notes.html	/^  <br><br>$/;"	function	line:12
+br	/Users/stars/Documents/Weiwei/website/weiweihsu.github.io/_layouts/notes.html	/^  <br><br>$/;"	function	line:15
+a	/Users/stars/Documents/Weiwei/website/weiweihsu.github.io/_layouts/notes.html	/^<a href="{{ post.url | prepend: site.baseurl }}" class="catalogue-item">$/;"	function	line:22
+div	/Users/stars/Documents/Weiwei/website/weiweihsu.github.io/_layouts/notes.html	/^  <div>$/;"	function	line:23
+h	/Users/stars/Documents/Weiwei/website/weiweihsu.github.io/_layouts/notes.html	/^    <h1 class="catalogue-title">{{ post.title }}<\/h1>$/;"	function	line:25
+div	/Users/stars/Documents/Weiwei/website/weiweihsu.github.io/_layouts/notes.html	/^    <div class="catalogue-line"><\/div>$/;"	function	line:26
+p	/Users/stars/Documents/Weiwei/website/weiweihsu.github.io/_layouts/notes.html	/^    <p>$/;"	function	line:28
+a	/Users/stars/Documents/Weiwei/website/weiweihsu.github.io/_layouts/notes.html	/^    <a href="{{ post.url | prepend: site.baseurl }}" class="catalogue-item">$/;"	function	line:39
+div	/Users/stars/Documents/Weiwei/website/weiweihsu.github.io/_layouts/notes.html	/^      <div>$/;"	function	line:40
+time	/Users/stars/Documents/Weiwei/website/weiweihsu.github.io/_layouts/notes.html	/^        <time datetime="{{ post.date }}" class="catalogue-time">{{ post.date | date: "%B %d, %Y" }}<\/time>$/;"	function	line:41
+h	/Users/stars/Documents/Weiwei/website/weiweihsu.github.io/_layouts/notes.html	/^        <h1 class="catalogue-title">{{ post.title }}<\/h1>$/;"	function	line:42
+div	/Users/stars/Documents/Weiwei/website/weiweihsu.github.io/_layouts/notes.html	/^        <div class="catalogue-line"><\/div>$/;"	function	line:43
+p	/Users/stars/Documents/Weiwei/website/weiweihsu.github.io/_layouts/notes.html	/^        <p>$/;"	function	line:45
+h	/Users/stars/Documents/Weiwei/website/weiweihsu.github.io/_layouts/notes.html	/^  <h1><a href="{{ post.url }}">{{ post.title }}<\/a><\/h1>$/;"	function	line:56
+p	/Users/stars/Documents/Weiwei/website/weiweihsu.github.io/_layouts/notes.html	/^  <p class="author">$/;"	function	line:57
+span	/Users/stars/Documents/Weiwei/website/weiweihsu.github.io/_layouts/notes.html	/^    <span class="date">{{ post.date }}<\/span>$/;"	function	line:58
+div	/Users/stars/Documents/Weiwei/website/weiweihsu.github.io/_layouts/notes.html	/^  <div class="content">$/;"	function	line:60
+div	/Users/stars/Documents/Weiwei/website/weiweihsu.github.io/_layouts/notes.html	/^<div class="pagination">$/;"	function	line:66
+a	/Users/stars/Documents/Weiwei/website/weiweihsu.github.io/_layouts/notes.html	/^    <a href="{{ paginator.previous_page_path | prepend: site.baseurl }}" class="left arrow">&#8592;<\/a>$/;"	function	line:68
+a	/Users/stars/Documents/Weiwei/website/weiweihsu.github.io/_layouts/notes.html	/^    <a href="{{ paginator.next_page_path | prepend: site.baseurl }}" class="right arrow">&#8594;<\/a>$/;"	function	line:71
+span	/Users/stars/Documents/Weiwei/website/weiweihsu.github.io/_layouts/notes.html	/^  <span>{{ paginator.page }}<\/span>$/;"	function	line:74
+div	/Users/stars/Documents/Weiwei/website/weiweihsu.github.io/_layouts/description.html	/^<div class="post">$/;"	function	line:5
+div	/Users/stars/Documents/Weiwei/website/weiweihsu.github.io/_layouts/description.html	/^  <div class="post-line"><\/div>$/;"	function	line:6
+div	/Users/stars/Documents/Weiwei/website/weiweihsu.github.io/_layouts/description.html	/^<div class="pagination">$/;"	function	line:13
+a	/Users/stars/Documents/Weiwei/website/weiweihsu.github.io/_layouts/description.html	/^    <a href="{{ page.next.url | prepend: site.baseurl }}" class="left arrow">&#8592;<\/a>$/;"	function	line:15
+a	/Users/stars/Documents/Weiwei/website/weiweihsu.github.io/_layouts/description.html	/^    <a href="{{ page.previous.url | prepend: site.baseurl }}" class="right arrow">&#8594;<\/a>$/;"	function	line:18
+a	/Users/stars/Documents/Weiwei/website/weiweihsu.github.io/_layouts/description.html	/^  <a href="#" class="top">Top<\/a>$/;"	function	line:21
+Tale	/Users/stars/Documents/Weiwei/website/weiweihsu.github.io/README.md	/^# Tale$/;"	function	line:1
+Features	/Users/stars/Documents/Weiwei/website/weiweihsu.github.io/README.md	/^## Features$/;"	function	line:9
+Installation	/Users/stars/Documents/Weiwei/website/weiweihsu.github.io/README.md	/^## Installation$/;"	function	line:17
+Ruby Gem method	/Users/stars/Documents/Weiwei/website/weiweihsu.github.io/README.md	/^### Ruby Gem method$/;"	function	line:24
+GitHub Pages method	/Users/stars/Documents/Weiwei/website/weiweihsu.github.io/README.md	/^### GitHub Pages method$/;"	function	line:56
+Fork method	/Users/stars/Documents/Weiwei/website/weiweihsu.github.io/README.md	/^### Fork method$/;"	function	line:93
+Usage	/Users/stars/Documents/Weiwei/website/weiweihsu.github.io/README.md	/^## Usage$/;"	function	line:104
+Contributing	/Users/stars/Documents/Weiwei/website/weiweihsu.github.io/README.md	/^## Contributing$/;"	function	line:115
+License	/Users/stars/Documents/Weiwei/website/weiweihsu.github.io/README.md	/^## License$/;"	function	line:118
+Contributor Covenant Code of Conduct	/Users/stars/Documents/Weiwei/website/weiweihsu.github.io/_site/CODE_OF_CONDUCT.md	/^# Contributor Covenant Code of Conduct$/;"	function	line:1
+Our Pledge	/Users/stars/Documents/Weiwei/website/weiweihsu.github.io/_site/CODE_OF_CONDUCT.md	/^## Our Pledge$/;"	function	line:3
+Our Standards	/Users/stars/Documents/Weiwei/website/weiweihsu.github.io/_site/CODE_OF_CONDUCT.md	/^## Our Standards$/;"	function	line:7
+Our Responsibilities	/Users/stars/Documents/Weiwei/website/weiweihsu.github.io/_site/CODE_OF_CONDUCT.md	/^## Our Responsibilities$/;"	function	line:25
+Scope	/Users/stars/Documents/Weiwei/website/weiweihsu.github.io/_site/CODE_OF_CONDUCT.md	/^## Scope$/;"	function	line:31
+Enforcement	/Users/stars/Documents/Weiwei/website/weiweihsu.github.io/_site/CODE_OF_CONDUCT.md	/^## Enforcement$/;"	function	line:35
+Attribution	/Users/stars/Documents/Weiwei/website/weiweihsu.github.io/_site/CODE_OF_CONDUCT.md	/^## Attribution$/;"	function	line:41
+html	/Users/stars/Documents/Weiwei/website/weiweihsu.github.io/_site/2018-10-05/weeknote-4.html	/^<html lang="en">$/;"	function	line:2
+head	/Users/stars/Documents/Weiwei/website/weiweihsu.github.io/_site/2018-10-05/weeknote-4.html	/^  <head>$/;"	function	line:4
+meta	/Users/stars/Documents/Weiwei/website/weiweihsu.github.io/_site/2018-10-05/weeknote-4.html	/^  <meta charset="UTF-8">$/;"	function	line:5
+meta	/Users/stars/Documents/Weiwei/website/weiweihsu.github.io/_site/2018-10-05/weeknote-4.html	/^  <meta name="viewport" content="width=device-width, initial-scale=1.0">$/;"	function	line:6
+title	/Users/stars/Documents/Weiwei/website/weiweihsu.github.io/_site/2018-10-05/weeknote-4.html	/^  <title>$/;"	function	line:9
+link	/Users/stars/Documents/Weiwei/website/weiweihsu.github.io/_site/2018-10-05/weeknote-4.html	/^  <link rel="stylesheet" href="\/tale\/assets\/main.css">$/;"	function	line:16
+link	/Users/stars/Documents/Weiwei/website/weiweihsu.github.io/_site/2018-10-05/weeknote-4.html	/^  <link rel="stylesheet" href="https:\/\/fonts.googleapis.com\/css?family=Libre+Baskerville:400,400i,700">$/;"	function	line:17
+link	/Users/stars/Documents/Weiwei/website/weiweihsu.github.io/_site/2018-10-05/weeknote-4.html	/^  <link rel="icon" type="image\/png" sizes="32x32" href="\/tale\/assets\/favicon-32x32.png">$/;"	function	line:20
+link	/Users/stars/Documents/Weiwei/website/weiweihsu.github.io/_site/2018-10-05/weeknote-4.html	/^  <link rel="icon" type="image\/png" sizes="16x16" href="\/tale\/assets\/favicon-16x16.png">$/;"	function	line:21
+link	/Users/stars/Documents/Weiwei/website/weiweihsu.github.io/_site/2018-10-05/weeknote-4.html	/^  <link rel="apple-touch-icon" sizes="180x180" href="\/tale\/assets\/apple-touch-icon.png">$/;"	function	line:22
+link	/Users/stars/Documents/Weiwei/website/weiweihsu.github.io/_site/2018-10-05/weeknote-4.html	/^  <link type="application\/atom+xml" rel="alternate" href="http:\/\/localhost:4000\/tale\/feed.xml" title="Weiwei Hsu" \/>$/;"	function	line:25
+body	/Users/stars/Documents/Weiwei/website/weiweihsu.github.io/_site/2018-10-05/weeknote-4.html	/^  <body>$/;"	function	line:29
+nav	/Users/stars/Documents/Weiwei/website/weiweihsu.github.io/_site/2018-10-05/weeknote-4.html	/^    <nav class="nav">$/;"	function	line:30
+div	/Users/stars/Documents/Weiwei/website/weiweihsu.github.io/_site/2018-10-05/weeknote-4.html	/^      <div class="nav-container">$/;"	function	line:31
+a	/Users/stars/Documents/Weiwei/website/weiweihsu.github.io/_site/2018-10-05/weeknote-4.html	/^        <a href="\/tale\/">$/;"	function	line:32
+h	/Users/stars/Documents/Weiwei/website/weiweihsu.github.io/_site/2018-10-05/weeknote-4.html	/^          <h2 class="nav-title">Weiwei Hsu<\/h2>$/;"	function	line:33
+ul	/Users/stars/Documents/Weiwei/website/weiweihsu.github.io/_site/2018-10-05/weeknote-4.html	/^        <ul>$/;"	function	line:35
+li	/Users/stars/Documents/Weiwei/website/weiweihsu.github.io/_site/2018-10-05/weeknote-4.html	/^          <li><a href="\/tale\/weeknotes">Weeknotes<\/a><\/li>$/;"	function	line:36
+li	/Users/stars/Documents/Weiwei/website/weiweihsu.github.io/_site/2018-10-05/weeknote-4.html	/^          <li><a href="\/tale\/collection\/">Collection<\/a><\/li>$/;"	function	line:37
+li	/Users/stars/Documents/Weiwei/website/weiweihsu.github.io/_site/2018-10-05/weeknote-4.html	/^          <li><a href="\/tale\/about">About<\/a><\/li>$/;"	function	line:38
+main	/Users/stars/Documents/Weiwei/website/weiweihsu.github.io/_site/2018-10-05/weeknote-4.html	/^    <main>$/;"	function	line:43
+div	/Users/stars/Documents/Weiwei/website/weiweihsu.github.io/_site/2018-10-05/weeknote-4.html	/^      <div class="post">$/;"	function	line:44
+div	/Users/stars/Documents/Weiwei/website/weiweihsu.github.io/_site/2018-10-05/weeknote-4.html	/^  <div class="post-info">$/;"	function	line:45
+br	/Users/stars/Documents/Weiwei/website/weiweihsu.github.io/_site/2018-10-05/weeknote-4.html	/^      <br>$/;"	function	line:52
+span	/Users/stars/Documents/Weiwei/website/weiweihsu.github.io/_site/2018-10-05/weeknote-4.html	/^      <span>during the week of&nbsp;<\/span><time datetime="2018-10-05 00:00:00 -0700">October 05, 2018<\/time>$/;"	function	line:53
+h	/Users/stars/Documents/Weiwei/website/weiweihsu.github.io/_site/2018-10-05/weeknote-4.html	/^  <h5 class="post-title">I'm back<\/h5>$/;"	function	line:57
+div	/Users/stars/Documents/Weiwei/website/weiweihsu.github.io/_site/2018-10-05/weeknote-4.html	/^  <div class="post-line"><\/div>$/;"	function	line:58
+p	/Users/stars/Documents/Weiwei/website/weiweihsu.github.io/_site/2018-10-05/weeknote-4.html	/^  <p>This week feels like a week of production work. I spent much less time thinking and a lot more time executing. It feels nice to balance the week with some making, and shipping. It also feels nice to see a project coming together.<\/p>$/;"	function	line:60
+p	/Users/stars/Documents/Weiwei/website/weiweihsu.github.io/_site/2018-10-05/weeknote-4.html	/^<p>In a design school, many students (including me) talk about the want to start our own (design-related) thing. Earlier in the week, I was asked if that desire comes from wanting to extend what I felt and experienced in school, because you then become a small consulting firm. Whereas, if the desire comes from wanting to build a business that can scale, then the work\/commitment required is different.<\/p>$/;"	function	line:62
+footer	/Users/stars/Documents/Weiwei/website/weiweihsu.github.io/_site/2018-10-05/weeknote-4.html	/^    <footer>$/;"	function	line:69
+span	/Users/stars/Documents/Weiwei/website/weiweihsu.github.io/_site/2018-10-05/weeknote-4.html	/^      <span>$/;"	function	line:70
+html	/Users/stars/Documents/Weiwei/website/weiweihsu.github.io/_site/collection/index.html	/^<html lang="en">$/;"	function	line:2
+head	/Users/stars/Documents/Weiwei/website/weiweihsu.github.io/_site/collection/index.html	/^  <head>$/;"	function	line:4
+meta	/Users/stars/Documents/Weiwei/website/weiweihsu.github.io/_site/collection/index.html	/^  <meta charset="UTF-8">$/;"	function	line:5
+meta	/Users/stars/Documents/Weiwei/website/weiweihsu.github.io/_site/collection/index.html	/^  <meta name="viewport" content="width=device-width, initial-scale=1.0">$/;"	function	line:6
+title	/Users/stars/Documents/Weiwei/website/weiweihsu.github.io/_site/collection/index.html	/^  <title>$/;"	function	line:9
+link	/Users/stars/Documents/Weiwei/website/weiweihsu.github.io/_site/collection/index.html	/^  <link rel="stylesheet" href="\/tale\/assets\/main.css">$/;"	function	line:16
+link	/Users/stars/Documents/Weiwei/website/weiweihsu.github.io/_site/collection/index.html	/^  <link rel="stylesheet" href="https:\/\/fonts.googleapis.com\/css?family=Libre+Baskerville:400,400i,700">$/;"	function	line:17
+link	/Users/stars/Documents/Weiwei/website/weiweihsu.github.io/_site/collection/index.html	/^  <link rel="icon" type="image\/png" sizes="32x32" href="\/tale\/assets\/favicon-32x32.png">$/;"	function	line:20
+link	/Users/stars/Documents/Weiwei/website/weiweihsu.github.io/_site/collection/index.html	/^  <link rel="icon" type="image\/png" sizes="16x16" href="\/tale\/assets\/favicon-16x16.png">$/;"	function	line:21
+link	/Users/stars/Documents/Weiwei/website/weiweihsu.github.io/_site/collection/index.html	/^  <link rel="apple-touch-icon" sizes="180x180" href="\/tale\/assets\/apple-touch-icon.png">$/;"	function	line:22
+link	/Users/stars/Documents/Weiwei/website/weiweihsu.github.io/_site/collection/index.html	/^  <link type="application\/atom+xml" rel="alternate" href="http:\/\/localhost:4000\/tale\/feed.xml" title="Weiwei Hsu" \/>$/;"	function	line:25
+body	/Users/stars/Documents/Weiwei/website/weiweihsu.github.io/_site/collection/index.html	/^  <body>$/;"	function	line:29
+nav	/Users/stars/Documents/Weiwei/website/weiweihsu.github.io/_site/collection/index.html	/^    <nav class="nav">$/;"	function	line:30
+div	/Users/stars/Documents/Weiwei/website/weiweihsu.github.io/_site/collection/index.html	/^      <div class="nav-container">$/;"	function	line:31
+a	/Users/stars/Documents/Weiwei/website/weiweihsu.github.io/_site/collection/index.html	/^        <a href="\/tale\/">$/;"	function	line:32
+h	/Users/stars/Documents/Weiwei/website/weiweihsu.github.io/_site/collection/index.html	/^          <h2 class="nav-title">Weiwei Hsu<\/h2>$/;"	function	line:33
+ul	/Users/stars/Documents/Weiwei/website/weiweihsu.github.io/_site/collection/index.html	/^        <ul>$/;"	function	line:35
+li	/Users/stars/Documents/Weiwei/website/weiweihsu.github.io/_site/collection/index.html	/^          <li><a href="\/tale\/weeknotes">Weeknotes<\/a><\/li>$/;"	function	line:36
+li	/Users/stars/Documents/Weiwei/website/weiweihsu.github.io/_site/collection/index.html	/^          <li><a href="\/tale\/collection\/">Collection<\/a><\/li>$/;"	function	line:37
+li	/Users/stars/Documents/Weiwei/website/weiweihsu.github.io/_site/collection/index.html	/^          <li><a href="\/tale\/about">About<\/a><\/li>$/;"	function	line:38
+main	/Users/stars/Documents/Weiwei/website/weiweihsu.github.io/_site/collection/index.html	/^    <main>$/;"	function	line:43
+div	/Users/stars/Documents/Weiwei/website/weiweihsu.github.io/_site/collection/index.html	/^      <div class="post">$/;"	function	line:44
+div	/Users/stars/Documents/Weiwei/website/weiweihsu.github.io/_site/collection/index.html	/^  <div class="post-line"><\/div>$/;"	function	line:45
+br	/Users/stars/Documents/Weiwei/website/weiweihsu.github.io/_site/collection/index.html	/^<br> <br>$/;"	function	line:49
+mark	/Users/stars/Documents/Weiwei/website/weiweihsu.github.io/_site/collection/index.html	/^  <mark> &nbsp Podcasts: &nbsp  <\/mark> <br><br>$/;"	function	line:51
+div	/Users/stars/Documents/Weiwei/website/weiweihsu.github.io/_site/collection/index.html	/^    <div class="collection">$/;"	function	line:53
+a	/Users/stars/Documents/Weiwei/website/weiweihsu.github.io/_site/collection/index.html	/^      <a href="https:\/\/www.conversationswithtyler.com">Conversations with Tyler<\/a> <br>$/;"	function	line:54
+a	/Users/stars/Documents/Weiwei/website/weiweihsu.github.io/_site/collection/index.html	/^      <a href="https:\/\/fs.blog\/the-knowledge-project\/">The Knowledge Project<\/a> <br>$/;"	function	line:55
+a	/Users/stars/Documents/Weiwei/website/weiweihsu.github.io/_site/collection/index.html	/^      <a href="https:\/\/baike.baidu.com\/item\/时间的朋友\/20353715">時間的朋友<\/a> <br>$/;"	function	line:56
+br	/Users/stars/Documents/Weiwei/website/weiweihsu.github.io/_site/collection/index.html	/^      <br> <br>$/;"	function	line:57
+mark	/Users/stars/Documents/Weiwei/website/weiweihsu.github.io/_site/collection/index.html	/^  <mark> &nbsp Groups: &nbsp  <\/mark> <br><br>$/;"	function	line:60
+div	/Users/stars/Documents/Weiwei/website/weiweihsu.github.io/_site/collection/index.html	/^    <div class="collection">$/;"	function	line:61
+a	/Users/stars/Documents/Weiwei/website/weiweihsu.github.io/_site/collection/index.html	/^      <a href="http:\/\/www.dubberly.com">Dubberly Design Office<\/a><br>$/;"	function	line:62
+a	/Users/stars/Documents/Weiwei/website/weiweihsu.github.io/_site/collection/index.html	/^      <a href="https:\/\/dynamicland.org">Dynamicland<\/a><br>$/;"	function	line:63
+a	/Users/stars/Documents/Weiwei/website/weiweihsu.github.io/_site/collection/index.html	/^      <a href="https:\/\/newcomputers.group">New Computer Working Group<\/a><br>$/;"	function	line:64
+a	/Users/stars/Documents/Weiwei/website/weiweihsu.github.io/_site/collection/index.html	/^      <a href="http:\/\/skrekkogle.com">Skrekkogle<\/a> <br>$/;"	function	line:66
+a	/Users/stars/Documents/Weiwei/website/weiweihsu.github.io/_site/collection/index.html	/^      <a href="http:\/\/screenl.es">The Screenless Office<\/a><br>$/;"	function	line:67
+br	/Users/stars/Documents/Weiwei/website/weiweihsu.github.io/_site/collection/index.html	/^      <br> <br>$/;"	function	line:69
+mark	/Users/stars/Documents/Weiwei/website/weiweihsu.github.io/_site/collection/index.html	/^  <mark> &nbsp Books: &nbsp  <\/mark> <br><br>$/;"	function	line:72
+div	/Users/stars/Documents/Weiwei/website/weiweihsu.github.io/_site/collection/index.html	/^    <div class="collection">$/;"	function	line:73
+a	/Users/stars/Documents/Weiwei/website/weiweihsu.github.io/_site/collection/index.html	/^      <a href="https:\/\/press.stripe.com\/#the-dream-machine">The Dream Machine<\/a> by M. Mitchell Waldrop <br>$/;"	function	line:74
+a	/Users/stars/Documents/Weiwei/website/weiweihsu.github.io/_site/collection/index.html	/^      <a href="http:\/\/mitpress.mit.edu\/books\/architectural-intelligence">Architectural Intelligence<\/a>  by Molly Wright Steenson<br>$/;"	function	line:75
+br	/Users/stars/Documents/Weiwei/website/weiweihsu.github.io/_site/collection/index.html	/^      <br> <br>$/;"	function	line:77
+mark	/Users/stars/Documents/Weiwei/website/weiweihsu.github.io/_site/collection/index.html	/^  <mark> &nbsp Articles: &nbsp  <\/mark> <br> <br>$/;"	function	line:80
+div	/Users/stars/Documents/Weiwei/website/weiweihsu.github.io/_site/collection/index.html	/^    <div class="collection">$/;"	function	line:81
+a	/Users/stars/Documents/Weiwei/website/weiweihsu.github.io/_site/collection/index.html	/^      <a href="https:\/\/www.theatlantic.com\/technology\/archive\/2017\/09\/saving-the-world-from-code\/540393\/">The Coming Software Apocalypse<\/a>  by James Somers<br>$/;"	function	line:82
+footer	/Users/stars/Documents/Weiwei/website/weiweihsu.github.io/_site/collection/index.html	/^    <footer>$/;"	function	line:90
+span	/Users/stars/Documents/Weiwei/website/weiweihsu.github.io/_site/collection/index.html	/^      <span>$/;"	function	line:91
+html	/Users/stars/Documents/Weiwei/website/weiweihsu.github.io/_site/index.html	/^<html lang="en">$/;"	function	line:2
+head	/Users/stars/Documents/Weiwei/website/weiweihsu.github.io/_site/index.html	/^  <head>$/;"	function	line:4
+meta	/Users/stars/Documents/Weiwei/website/weiweihsu.github.io/_site/index.html	/^  <meta charset="UTF-8">$/;"	function	line:5
+meta	/Users/stars/Documents/Weiwei/website/weiweihsu.github.io/_site/index.html	/^  <meta name="viewport" content="width=device-width, initial-scale=1.0">$/;"	function	line:6
+meta	/Users/stars/Documents/Weiwei/website/weiweihsu.github.io/_site/index.html	/^    <meta name="description" content="Minimal Jekyll theme for storytellers">$/;"	function	line:8
+title	/Users/stars/Documents/Weiwei/website/weiweihsu.github.io/_site/index.html	/^  <title>$/;"	function	line:11
+link	/Users/stars/Documents/Weiwei/website/weiweihsu.github.io/_site/index.html	/^  <link rel="stylesheet" href="\/tale\/assets\/main.css">$/;"	function	line:18
+link	/Users/stars/Documents/Weiwei/website/weiweihsu.github.io/_site/index.html	/^  <link rel="stylesheet" href="https:\/\/fonts.googleapis.com\/css?family=Libre+Baskerville:400,400i,700">$/;"	function	line:19
+link	/Users/stars/Documents/Weiwei/website/weiweihsu.github.io/_site/index.html	/^  <link rel="icon" type="image\/png" sizes="32x32" href="\/tale\/assets\/favicon-32x32.png">$/;"	function	line:22
+link	/Users/stars/Documents/Weiwei/website/weiweihsu.github.io/_site/index.html	/^  <link rel="icon" type="image\/png" sizes="16x16" href="\/tale\/assets\/favicon-16x16.png">$/;"	function	line:23
+link	/Users/stars/Documents/Weiwei/website/weiweihsu.github.io/_site/index.html	/^  <link rel="apple-touch-icon" sizes="180x180" href="\/tale\/assets\/apple-touch-icon.png">$/;"	function	line:24
+link	/Users/stars/Documents/Weiwei/website/weiweihsu.github.io/_site/index.html	/^  <link type="application\/atom+xml" rel="alternate" href="http:\/\/localhost:4000\/tale\/feed.xml" title="Weiwei Hsu" \/>$/;"	function	line:27
+body	/Users/stars/Documents/Weiwei/website/weiweihsu.github.io/_site/index.html	/^  <body>$/;"	function	line:31
+nav	/Users/stars/Documents/Weiwei/website/weiweihsu.github.io/_site/index.html	/^    <nav class="nav">$/;"	function	line:32
+div	/Users/stars/Documents/Weiwei/website/weiweihsu.github.io/_site/index.html	/^      <div class="nav-container">$/;"	function	line:33
+a	/Users/stars/Documents/Weiwei/website/weiweihsu.github.io/_site/index.html	/^        <a href="\/tale\/">$/;"	function	line:34
+h	/Users/stars/Documents/Weiwei/website/weiweihsu.github.io/_site/index.html	/^          <h2 class="nav-title">Weiwei Hsu<\/h2>$/;"	function	line:35
+ul	/Users/stars/Documents/Weiwei/website/weiweihsu.github.io/_site/index.html	/^        <ul>$/;"	function	line:37
+li	/Users/stars/Documents/Weiwei/website/weiweihsu.github.io/_site/index.html	/^          <li><a href="\/tale\/weeknotes">Weeknotes<\/a><\/li>$/;"	function	line:38
+li	/Users/stars/Documents/Weiwei/website/weiweihsu.github.io/_site/index.html	/^          <li><a href="\/tale\/collection\/">Collection<\/a><\/li>$/;"	function	line:39
+li	/Users/stars/Documents/Weiwei/website/weiweihsu.github.io/_site/index.html	/^          <li><a href="\/tale\/about">About<\/a><\/li>$/;"	function	line:40
+main	/Users/stars/Documents/Weiwei/website/weiweihsu.github.io/_site/index.html	/^    <main>$/;"	function	line:45
+div	/Users/stars/Documents/Weiwei/website/weiweihsu.github.io/_site/index.html	/^      <div class="post">$/;"	function	line:46
+div	/Users/stars/Documents/Weiwei/website/weiweihsu.github.io/_site/index.html	/^<div class="post-line"><\/div>$/;"	function	line:48
+br	/Users/stars/Documents/Weiwei/website/weiweihsu.github.io/_site/index.html	/^<br><br>$/;"	function	line:52
+br	/Users/stars/Documents/Weiwei/website/weiweihsu.github.io/_site/index.html	/^<br><br>$/;"	function	line:56
+br	/Users/stars/Documents/Weiwei/website/weiweihsu.github.io/_site/index.html	/^<br><br>$/;"	function	line:60
+div	/Users/stars/Documents/Weiwei/website/weiweihsu.github.io/_site/index.html	/^<div class="pagination">$/;"	function	line:67
+mark	/Users/stars/Documents/Weiwei/website/weiweihsu.github.io/_site/index.html	/^<mark> &nbsp Blog &nbsp  <\/mark>$/;"	function	line:70
+br	/Users/stars/Documents/Weiwei/website/weiweihsu.github.io/_site/index.html	/^<br> <br>$/;"	function	line:71
+div	/Users/stars/Documents/Weiwei/website/weiweihsu.github.io/_site/index.html	/^<div class="article">$/;"	function	line:72
+a	/Users/stars/Documents/Weiwei/website/weiweihsu.github.io/_site/index.html	/^      <a href="https:\/\/medium.com\/@speculatvglitch\/designing-for-aclu-norcal-behind-the-scenes-10bba4e2f99f" class="article-title">$/;"	function	line:77
+h	/Users/stars/Documents/Weiwei/website/weiweihsu.github.io/_site/index.html	/^          <h1 class="article-title">Designing for ACLU NorCal -- Behind the Scenes ↗<\/h1>$/;"	function	line:79
+div	/Users/stars/Documents/Weiwei/website/weiweihsu.github.io/_site/index.html	/^          <div class="article-line"><\/div>$/;"	function	line:80
+time	/Users/stars/Documents/Weiwei/website/weiweihsu.github.io/_site/index.html	/^          <time datetime="2018-06-20 00:00:00 -0700" class="article-time">June 20, 2018<\/time>$/;"	function	line:81
+time	/Users/stars/Documents/Weiwei/website/weiweihsu.github.io/_site/index.html	/^          <time class="article-reading-time">• 6min <\/time>$/;"	function	line:82
+br	/Users/stars/Documents/Weiwei/website/weiweihsu.github.io/_site/index.html	/^      <br>$/;"	function	line:84
+a	/Users/stars/Documents/Weiwei/website/weiweihsu.github.io/_site/index.html	/^      <a href="https:\/\/blog.usejournal.com\/behind-ccas-unofficial-mascot-da63d68f15c" class="article-title">$/;"	function	line:91
+h	/Users/stars/Documents/Weiwei/website/weiweihsu.github.io/_site/index.html	/^          <h1 class="article-title">Behind CCA’s Unofficial Mascot ↗<\/h1>$/;"	function	line:93
+div	/Users/stars/Documents/Weiwei/website/weiweihsu.github.io/_site/index.html	/^          <div class="article-line"><\/div>$/;"	function	line:94
+time	/Users/stars/Documents/Weiwei/website/weiweihsu.github.io/_site/index.html	/^          <time datetime="2018-01-26 00:00:00 -0800" class="article-time">January 26, 2018<\/time>$/;"	function	line:95
+time	/Users/stars/Documents/Weiwei/website/weiweihsu.github.io/_site/index.html	/^          <time class="article-reading-time">• 12min <\/time>$/;"	function	line:96
+br	/Users/stars/Documents/Weiwei/website/weiweihsu.github.io/_site/index.html	/^      <br>$/;"	function	line:98
+a	/Users/stars/Documents/Weiwei/website/weiweihsu.github.io/_site/index.html	/^      <a href="https:\/\/medium.com\/our-ten-year-commute\/putting-band-aids-on-the-digital-landscape-f36c9d74b4b6" class="article-title">$/;"	function	line:105
+h	/Users/stars/Documents/Weiwei/website/weiweihsu.github.io/_site/index.html	/^          <h1 class="article-title">Putting Band-Aids on the Digital Landscape ↗<\/h1>$/;"	function	line:107
+div	/Users/stars/Documents/Weiwei/website/weiweihsu.github.io/_site/index.html	/^          <div class="article-line"><\/div>$/;"	function	line:108
+time	/Users/stars/Documents/Weiwei/website/weiweihsu.github.io/_site/index.html	/^          <time datetime="2017-12-13 00:00:00 -0800" class="article-time">December 13, 2017<\/time>$/;"	function	line:109
+time	/Users/stars/Documents/Weiwei/website/weiweihsu.github.io/_site/index.html	/^          <time class="article-reading-time">• 5min <\/time>$/;"	function	line:110
+br	/Users/stars/Documents/Weiwei/website/weiweihsu.github.io/_site/index.html	/^      <br>$/;"	function	line:112
+a	/Users/stars/Documents/Weiwei/website/weiweihsu.github.io/_site/index.html	/^      <a href="https:\/\/medium.com\/cca-interaction-design-thesis\/do-your-apps-have-an-expiration-date-b71487f1cb8f" class="article-title">$/;"	function	line:119
+h	/Users/stars/Documents/Weiwei/website/weiweihsu.github.io/_site/index.html	/^          <h1 class="article-title">Do Your Apps Have an Expiration Date? ↗<\/h1>$/;"	function	line:121
+div	/Users/stars/Documents/Weiwei/website/weiweihsu.github.io/_site/index.html	/^          <div class="article-line"><\/div>$/;"	function	line:122
+time	/Users/stars/Documents/Weiwei/website/weiweihsu.github.io/_site/index.html	/^          <time datetime="2017-09-29 00:00:00 -0700" class="article-time">September 29, 2017<\/time>$/;"	function	line:123
+time	/Users/stars/Documents/Weiwei/website/weiweihsu.github.io/_site/index.html	/^          <time class="article-reading-time">• 6min <\/time>$/;"	function	line:124
+br	/Users/stars/Documents/Weiwei/website/weiweihsu.github.io/_site/index.html	/^      <br>$/;"	function	line:126
+a	/Users/stars/Documents/Weiwei/website/weiweihsu.github.io/_site/index.html	/^      <a href="https:\/\/medium.com\/cca-interaction-design-thesis\/theres-something-to-be-done-8e6abd7a8028" class="article-title">$/;"	function	line:133
+h	/Users/stars/Documents/Weiwei/website/weiweihsu.github.io/_site/index.html	/^          <h1 class="article-title">There's Something to be Done ↗<\/h1>$/;"	function	line:135
+div	/Users/stars/Documents/Weiwei/website/weiweihsu.github.io/_site/index.html	/^          <div class="article-line"><\/div>$/;"	function	line:136
+time	/Users/stars/Documents/Weiwei/website/weiweihsu.github.io/_site/index.html	/^          <time datetime="2017-09-15 00:00:00 -0700" class="article-time">September 15, 2017<\/time>$/;"	function	line:137
+time	/Users/stars/Documents/Weiwei/website/weiweihsu.github.io/_site/index.html	/^          <time class="article-reading-time">• 3min <\/time>$/;"	function	line:138
+br	/Users/stars/Documents/Weiwei/website/weiweihsu.github.io/_site/index.html	/^      <br>$/;"	function	line:140
+div	/Users/stars/Documents/Weiwei/website/weiweihsu.github.io/_site/index.html	/^<div class="pagination">$/;"	function	line:149
+mark	/Users/stars/Documents/Weiwei/website/weiweihsu.github.io/_site/index.html	/^<mark> &nbsp Weeknotes &nbsp <\/mark>$/;"	function	line:154
+div	/Users/stars/Documents/Weiwei/website/weiweihsu.github.io/_site/index.html	/^<div class="catalogue">$/;"	function	line:156
+a	/Users/stars/Documents/Weiwei/website/weiweihsu.github.io/_site/index.html	/^  <a href="\/tale\/2018-10-05\/weeknote-4" class="catalogue-item">$/;"	function	line:159
+div	/Users/stars/Documents/Weiwei/website/weiweihsu.github.io/_site/index.html	/^    <div>$/;"	function	line:160
+h	/Users/stars/Documents/Weiwei/website/weiweihsu.github.io/_site/index.html	/^      <h1 class="catalogue-title">I'm back<\/h1>$/;"	function	line:162
+div	/Users/stars/Documents/Weiwei/website/weiweihsu.github.io/_site/index.html	/^      <div class="catalogue-line"><\/div>$/;"	function	line:163
+p	/Users/stars/Documents/Weiwei/website/weiweihsu.github.io/_site/index.html	/^      <p>$/;"	function	line:165
+a	/Users/stars/Documents/Weiwei/website/weiweihsu.github.io/_site/index.html	/^  <a href="\/tale\/2018-09-28\/weeknote-3" class="catalogue-item">$/;"	function	line:172
+div	/Users/stars/Documents/Weiwei/website/weiweihsu.github.io/_site/index.html	/^    <div>$/;"	function	line:173
+h	/Users/stars/Documents/Weiwei/website/weiweihsu.github.io/_site/index.html	/^      <h1 class="catalogue-title">Lost<\/h1>$/;"	function	line:175
+div	/Users/stars/Documents/Weiwei/website/weiweihsu.github.io/_site/index.html	/^      <div class="catalogue-line"><\/div>$/;"	function	line:176
+p	/Users/stars/Documents/Weiwei/website/weiweihsu.github.io/_site/index.html	/^      <p>$/;"	function	line:178
+a	/Users/stars/Documents/Weiwei/website/weiweihsu.github.io/_site/index.html	/^  <a href="\/tale\/2018-09-21\/weeknote-2" class="catalogue-item">$/;"	function	line:186
+div	/Users/stars/Documents/Weiwei/website/weiweihsu.github.io/_site/index.html	/^    <div>$/;"	function	line:187
+h	/Users/stars/Documents/Weiwei/website/weiweihsu.github.io/_site/index.html	/^      <h1 class="catalogue-title">Architecture, Cedric Price<\/h1>$/;"	function	line:189
+div	/Users/stars/Documents/Weiwei/website/weiweihsu.github.io/_site/index.html	/^      <div class="catalogue-line"><\/div>$/;"	function	line:190
+p	/Users/stars/Documents/Weiwei/website/weiweihsu.github.io/_site/index.html	/^      <p>$/;"	function	line:192
+a	/Users/stars/Documents/Weiwei/website/weiweihsu.github.io/_site/index.html	/^    <a href="\/tale\/2018-10-05\/weeknote-4" class="catalogue-item">$/;"	function	line:202
+div	/Users/stars/Documents/Weiwei/website/weiweihsu.github.io/_site/index.html	/^      <div>$/;"	function	line:203
+time	/Users/stars/Documents/Weiwei/website/weiweihsu.github.io/_site/index.html	/^        <time datetime="2018-10-05 00:00:00 -0700" class="catalogue-time">October 05, 2018<\/time>$/;"	function	line:204
+h	/Users/stars/Documents/Weiwei/website/weiweihsu.github.io/_site/index.html	/^        <h5 class="catalogue-title">I'm back<\/h5>$/;"	function	line:205
+div	/Users/stars/Documents/Weiwei/website/weiweihsu.github.io/_site/index.html	/^        <div class="catalogue-line"><\/div>$/;"	function	line:206
+p	/Users/stars/Documents/Weiwei/website/weiweihsu.github.io/_site/index.html	/^        <p>$/;"	function	line:208
+div	/Users/stars/Documents/Weiwei/website/weiweihsu.github.io/_site/index.html	/^<div class="pagination">$/;"	function	line:217
+footer	/Users/stars/Documents/Weiwei/website/weiweihsu.github.io/_site/index.html	/^    <footer>$/;"	function	line:222
+span	/Users/stars/Documents/Weiwei/website/weiweihsu.github.io/_site/index.html	/^      <span>$/;"	function	line:223
+html	/Users/stars/Documents/Weiwei/website/weiweihsu.github.io/_site/2018-09-15/weeknote-1.html	/^<html lang="en">$/;"	function	line:2
+head	/Users/stars/Documents/Weiwei/website/weiweihsu.github.io/_site/2018-09-15/weeknote-1.html	/^  <head>$/;"	function	line:4
+meta	/Users/stars/Documents/Weiwei/website/weiweihsu.github.io/_site/2018-09-15/weeknote-1.html	/^  <meta charset="UTF-8">$/;"	function	line:5
+meta	/Users/stars/Documents/Weiwei/website/weiweihsu.github.io/_site/2018-09-15/weeknote-1.html	/^  <meta name="viewport" content="width=device-width, initial-scale=1.0">$/;"	function	line:6
+title	/Users/stars/Documents/Weiwei/website/weiweihsu.github.io/_site/2018-09-15/weeknote-1.html	/^  <title>$/;"	function	line:9
+link	/Users/stars/Documents/Weiwei/website/weiweihsu.github.io/_site/2018-09-15/weeknote-1.html	/^  <link rel="stylesheet" href="\/tale\/assets\/main.css">$/;"	function	line:16
+link	/Users/stars/Documents/Weiwei/website/weiweihsu.github.io/_site/2018-09-15/weeknote-1.html	/^  <link rel="stylesheet" href="https:\/\/fonts.googleapis.com\/css?family=Libre+Baskerville:400,400i,700">$/;"	function	line:17
+link	/Users/stars/Documents/Weiwei/website/weiweihsu.github.io/_site/2018-09-15/weeknote-1.html	/^  <link rel="icon" type="image\/png" sizes="32x32" href="\/tale\/assets\/favicon-32x32.png">$/;"	function	line:20
+link	/Users/stars/Documents/Weiwei/website/weiweihsu.github.io/_site/2018-09-15/weeknote-1.html	/^  <link rel="icon" type="image\/png" sizes="16x16" href="\/tale\/assets\/favicon-16x16.png">$/;"	function	line:21
+link	/Users/stars/Documents/Weiwei/website/weiweihsu.github.io/_site/2018-09-15/weeknote-1.html	/^  <link rel="apple-touch-icon" sizes="180x180" href="\/tale\/assets\/apple-touch-icon.png">$/;"	function	line:22
+link	/Users/stars/Documents/Weiwei/website/weiweihsu.github.io/_site/2018-09-15/weeknote-1.html	/^  <link type="application\/atom+xml" rel="alternate" href="http:\/\/localhost:4000\/tale\/feed.xml" title="Weiwei Hsu" \/>$/;"	function	line:25
+body	/Users/stars/Documents/Weiwei/website/weiweihsu.github.io/_site/2018-09-15/weeknote-1.html	/^  <body>$/;"	function	line:29
+nav	/Users/stars/Documents/Weiwei/website/weiweihsu.github.io/_site/2018-09-15/weeknote-1.html	/^    <nav class="nav">$/;"	function	line:30
+div	/Users/stars/Documents/Weiwei/website/weiweihsu.github.io/_site/2018-09-15/weeknote-1.html	/^      <div class="nav-container">$/;"	function	line:31
+a	/Users/stars/Documents/Weiwei/website/weiweihsu.github.io/_site/2018-09-15/weeknote-1.html	/^        <a href="\/tale\/">$/;"	function	line:32
+h	/Users/stars/Documents/Weiwei/website/weiweihsu.github.io/_site/2018-09-15/weeknote-1.html	/^          <h2 class="nav-title">Weiwei Hsu<\/h2>$/;"	function	line:33
+ul	/Users/stars/Documents/Weiwei/website/weiweihsu.github.io/_site/2018-09-15/weeknote-1.html	/^        <ul>$/;"	function	line:35
+li	/Users/stars/Documents/Weiwei/website/weiweihsu.github.io/_site/2018-09-15/weeknote-1.html	/^          <li><a href="\/tale\/weeknotes">Weeknotes<\/a><\/li>$/;"	function	line:36
+li	/Users/stars/Documents/Weiwei/website/weiweihsu.github.io/_site/2018-09-15/weeknote-1.html	/^          <li><a href="\/tale\/collection\/">Collection<\/a><\/li>$/;"	function	line:37
+li	/Users/stars/Documents/Weiwei/website/weiweihsu.github.io/_site/2018-09-15/weeknote-1.html	/^          <li><a href="\/tale\/about">About<\/a><\/li>$/;"	function	line:38
+main	/Users/stars/Documents/Weiwei/website/weiweihsu.github.io/_site/2018-09-15/weeknote-1.html	/^    <main>$/;"	function	line:43
+div	/Users/stars/Documents/Weiwei/website/weiweihsu.github.io/_site/2018-09-15/weeknote-1.html	/^      <div class="post">$/;"	function	line:44
+div	/Users/stars/Documents/Weiwei/website/weiweihsu.github.io/_site/2018-09-15/weeknote-1.html	/^  <div class="post-info">$/;"	function	line:45
+br	/Users/stars/Documents/Weiwei/website/weiweihsu.github.io/_site/2018-09-15/weeknote-1.html	/^      <br>$/;"	function	line:52
+span	/Users/stars/Documents/Weiwei/website/weiweihsu.github.io/_site/2018-09-15/weeknote-1.html	/^      <span>during the week of&nbsp;<\/span><time datetime="2018-09-15 00:00:00 -0700">September 15, 2018<\/time>$/;"	function	line:53
+h	/Users/stars/Documents/Weiwei/website/weiweihsu.github.io/_site/2018-09-15/weeknote-1.html	/^  <h5 class="post-title">Four years, post-college, freelancing, collective<\/h5>$/;"	function	line:57
+div	/Users/stars/Documents/Weiwei/website/weiweihsu.github.io/_site/2018-09-15/weeknote-1.html	/^  <div class="post-line"><\/div>$/;"	function	line:58
+p	/Users/stars/Documents/Weiwei/website/weiweihsu.github.io/_site/2018-09-15/weeknote-1.html	/^  <p>It has been 4 months since I’ve graduated from college, and 4 years since I’ve graduated from high school. Time flies.<\/p>$/;"	function	line:60
+p	/Users/stars/Documents/Weiwei/website/weiweihsu.github.io/_site/2018-09-15/weeknote-1.html	/^<p>When I graduated from high school, college graduation sounded faraway. Yet, here I am. Looking back at the past four years, I’m certain that I’ve learned a lot, about relationships, industries, personalities, interactions, and more. I’m also certain that I’ve lost a few qualities that I used to possess, perhaps in an unfortunate way. For example, I find myself becoming a little more practical and less experimental than three years ago. I hope that by being aware of this, I will find myself being more wild than I currently am.<\/p>$/;"	function	line:62
+p	/Users/stars/Documents/Weiwei/website/weiweihsu.github.io/_site/2018-09-15/weeknote-1.html	/^<p>On a related note, in college, I was being cautioned that I should care more about those around me. I think I now am better at identifying when I should care more, but still need to be more proactive in caring.<\/p>$/;"	function	line:64
+p	/Users/stars/Documents/Weiwei/website/weiweihsu.github.io/_site/2018-09-15/weeknote-1.html	/^<p>Since returning from summer travels, I’ve taken on a few contracting positions. Freelancing right out of school in some way forces myself to pick up a few skills quickly, because I’m not shielded by a consultancy. Being challenged feels great.<\/p>$/;"	function	line:66
+p	/Users/stars/Documents/Weiwei/website/weiweihsu.github.io/_site/2018-09-15/weeknote-1.html	/^<p>&amp;OhDotZero recently finished our first project; two kiosks for the Global Climate Action Summit. At the kiosk, you can pick your miniature home appliances and place them onto the floor plan to see how much energy and water you use. To make the numbers more relatable, we converted kwh and gallons of water into number of iphone charges and bottles of water.<\/p>$/;"	function	line:68
+p	/Users/stars/Documents/Weiwei/website/weiweihsu.github.io/_site/2018-09-15/weeknote-1.html	/^<p><img src="\/tale\/assets\/images\/kiosk.jpg" alt="kiosk" \/><\/p>$/;"	function	line:70
+p	/Users/stars/Documents/Weiwei/website/weiweihsu.github.io/_site/2018-09-15/weeknote-1.html	/^<p>Overall, the two kiosks look cute and well put-together. I personally also learned a lot about where I fall short and strive when it comes to collaborating and delegating. Additionally, it also made me realize (once again) just how much more I need to learn; both soft and hard skills wise.<\/p>$/;"	function	line:72
+p	/Users/stars/Documents/Weiwei/website/weiweihsu.github.io/_site/2018-09-15/weeknote-1.html	/^<p>&amp;Lab got paused for a little bit because of the recent &amp;OhDotZero project. Self-starting something, even with friends, is hard. There are no formal deadlines, which makes everything too flexible. Sometimes, I wish there’s a school that would let you graduate only if your collective\/business is self-sustainable.<\/p>$/;"	function	line:74
+p	/Users/stars/Documents/Weiwei/website/weiweihsu.github.io/_site/2018-09-15/weeknote-1.html	/^<p><img src="\/tale\/assets\/images\/calendar.jpg" alt="kiosk" \/><\/p>$/;"	function	line:76
+p	/Users/stars/Documents/Weiwei/website/weiweihsu.github.io/_site/2018-09-15/weeknote-1.html	/^<p>Since senior year, I’ve been taping a four-month calendar to the top of my laptop, to keep track of deadlines and to-dos. It helped me tremendously in acknowledging and acting on the to-dos for my thesis. However, this calendar hasn’t been as effective now. Perhaps because my to-dos are all listed on the page, instead of associated with a date.<\/p>$/;"	function	line:78
+p	/Users/stars/Documents/Weiwei/website/weiweihsu.github.io/_site/2018-09-15/weeknote-1.html	/^<p>One thing that I’ve always remembered from my dad is that, life isn’t fair, the only thing that’s fair is that everyone has 24 hours. And perhaps that’s why <a href="https:\/\/www.youtube.com\/watch?v=62CUg45lMtQ">this<\/a> Devinsupertramps’ video resonates with me so much.<\/p>$/;"	function	line:80
+footer	/Users/stars/Documents/Weiwei/website/weiweihsu.github.io/_site/2018-09-15/weeknote-1.html	/^    <footer>$/;"	function	line:87
+span	/Users/stars/Documents/Weiwei/website/weiweihsu.github.io/_site/2018-09-15/weeknote-1.html	/^      <span>$/;"	function	line:88
+html	/Users/stars/Documents/Weiwei/website/weiweihsu.github.io/_site/2018-01-26/behind-cca-unofficial-mascot.html	/^<html lang="en">$/;"	function	line:2
+head	/Users/stars/Documents/Weiwei/website/weiweihsu.github.io/_site/2018-01-26/behind-cca-unofficial-mascot.html	/^  <head>$/;"	function	line:4
+meta	/Users/stars/Documents/Weiwei/website/weiweihsu.github.io/_site/2018-01-26/behind-cca-unofficial-mascot.html	/^  <meta charset="UTF-8">$/;"	function	line:5
+meta	/Users/stars/Documents/Weiwei/website/weiweihsu.github.io/_site/2018-01-26/behind-cca-unofficial-mascot.html	/^  <meta name="viewport" content="width=device-width, initial-scale=1.0">$/;"	function	line:6
+title	/Users/stars/Documents/Weiwei/website/weiweihsu.github.io/_site/2018-01-26/behind-cca-unofficial-mascot.html	/^  <title>$/;"	function	line:9
+link	/Users/stars/Documents/Weiwei/website/weiweihsu.github.io/_site/2018-01-26/behind-cca-unofficial-mascot.html	/^  <link rel="stylesheet" href="\/tale\/assets\/main.css">$/;"	function	line:16
+link	/Users/stars/Documents/Weiwei/website/weiweihsu.github.io/_site/2018-01-26/behind-cca-unofficial-mascot.html	/^  <link rel="stylesheet" href="https:\/\/fonts.googleapis.com\/css?family=Libre+Baskerville:400,400i,700">$/;"	function	line:17
+link	/Users/stars/Documents/Weiwei/website/weiweihsu.github.io/_site/2018-01-26/behind-cca-unofficial-mascot.html	/^  <link rel="icon" type="image\/png" sizes="32x32" href="\/tale\/assets\/favicon-32x32.png">$/;"	function	line:20
+link	/Users/stars/Documents/Weiwei/website/weiweihsu.github.io/_site/2018-01-26/behind-cca-unofficial-mascot.html	/^  <link rel="icon" type="image\/png" sizes="16x16" href="\/tale\/assets\/favicon-16x16.png">$/;"	function	line:21
+link	/Users/stars/Documents/Weiwei/website/weiweihsu.github.io/_site/2018-01-26/behind-cca-unofficial-mascot.html	/^  <link rel="apple-touch-icon" sizes="180x180" href="\/tale\/assets\/apple-touch-icon.png">$/;"	function	line:22
+link	/Users/stars/Documents/Weiwei/website/weiweihsu.github.io/_site/2018-01-26/behind-cca-unofficial-mascot.html	/^  <link type="application\/atom+xml" rel="alternate" href="http:\/\/localhost:4000\/tale\/feed.xml" title="Weiwei Hsu" \/>$/;"	function	line:25
+body	/Users/stars/Documents/Weiwei/website/weiweihsu.github.io/_site/2018-01-26/behind-cca-unofficial-mascot.html	/^  <body>$/;"	function	line:29
+nav	/Users/stars/Documents/Weiwei/website/weiweihsu.github.io/_site/2018-01-26/behind-cca-unofficial-mascot.html	/^    <nav class="nav">$/;"	function	line:30
+div	/Users/stars/Documents/Weiwei/website/weiweihsu.github.io/_site/2018-01-26/behind-cca-unofficial-mascot.html	/^      <div class="nav-container">$/;"	function	line:31
+a	/Users/stars/Documents/Weiwei/website/weiweihsu.github.io/_site/2018-01-26/behind-cca-unofficial-mascot.html	/^        <a href="\/tale\/">$/;"	function	line:32
+h	/Users/stars/Documents/Weiwei/website/weiweihsu.github.io/_site/2018-01-26/behind-cca-unofficial-mascot.html	/^          <h2 class="nav-title">Weiwei Hsu<\/h2>$/;"	function	line:33
+ul	/Users/stars/Documents/Weiwei/website/weiweihsu.github.io/_site/2018-01-26/behind-cca-unofficial-mascot.html	/^        <ul>$/;"	function	line:35
+li	/Users/stars/Documents/Weiwei/website/weiweihsu.github.io/_site/2018-01-26/behind-cca-unofficial-mascot.html	/^          <li><a href="\/tale\/weeknotes">Weeknotes<\/a><\/li>$/;"	function	line:36
+li	/Users/stars/Documents/Weiwei/website/weiweihsu.github.io/_site/2018-01-26/behind-cca-unofficial-mascot.html	/^          <li><a href="\/tale\/collection\/">Collection<\/a><\/li>$/;"	function	line:37
+li	/Users/stars/Documents/Weiwei/website/weiweihsu.github.io/_site/2018-01-26/behind-cca-unofficial-mascot.html	/^          <li><a href="\/tale\/about">About<\/a><\/li>$/;"	function	line:38
+main	/Users/stars/Documents/Weiwei/website/weiweihsu.github.io/_site/2018-01-26/behind-cca-unofficial-mascot.html	/^    <main>$/;"	function	line:43
+div	/Users/stars/Documents/Weiwei/website/weiweihsu.github.io/_site/2018-01-26/behind-cca-unofficial-mascot.html	/^      <div class="post">$/;"	function	line:44
+div	/Users/stars/Documents/Weiwei/website/weiweihsu.github.io/_site/2018-01-26/behind-cca-unofficial-mascot.html	/^  <div class="post-info">$/;"	function	line:45
+br	/Users/stars/Documents/Weiwei/website/weiweihsu.github.io/_site/2018-01-26/behind-cca-unofficial-mascot.html	/^      <br>$/;"	function	line:52
+span	/Users/stars/Documents/Weiwei/website/weiweihsu.github.io/_site/2018-01-26/behind-cca-unofficial-mascot.html	/^      <span>during the week of&nbsp;<\/span><time datetime="2018-01-26 00:00:00 -0800">January 26, 2018<\/time>$/;"	function	line:53
+h	/Users/stars/Documents/Weiwei/website/weiweihsu.github.io/_site/2018-01-26/behind-cca-unofficial-mascot.html	/^  <h5 class="post-title">Behind CCA’s Unofficial Mascot<\/h5>$/;"	function	line:57
+div	/Users/stars/Documents/Weiwei/website/weiweihsu.github.io/_site/2018-01-26/behind-cca-unofficial-mascot.html	/^  <div class="post-line"><\/div>$/;"	function	line:58
+footer	/Users/stars/Documents/Weiwei/website/weiweihsu.github.io/_site/2018-01-26/behind-cca-unofficial-mascot.html	/^    <footer>$/;"	function	line:67
+span	/Users/stars/Documents/Weiwei/website/weiweihsu.github.io/_site/2018-01-26/behind-cca-unofficial-mascot.html	/^      <span>$/;"	function	line:68
+html	/Users/stars/Documents/Weiwei/website/weiweihsu.github.io/_site/about/index.html	/^<html lang="en">$/;"	function	line:2
+head	/Users/stars/Documents/Weiwei/website/weiweihsu.github.io/_site/about/index.html	/^  <head>$/;"	function	line:4
+meta	/Users/stars/Documents/Weiwei/website/weiweihsu.github.io/_site/about/index.html	/^  <meta charset="UTF-8">$/;"	function	line:5
+meta	/Users/stars/Documents/Weiwei/website/weiweihsu.github.io/_site/about/index.html	/^  <meta name="viewport" content="width=device-width, initial-scale=1.0">$/;"	function	line:6
+title	/Users/stars/Documents/Weiwei/website/weiweihsu.github.io/_site/about/index.html	/^  <title>$/;"	function	line:9
+link	/Users/stars/Documents/Weiwei/website/weiweihsu.github.io/_site/about/index.html	/^  <link rel="stylesheet" href="\/tale\/assets\/main.css">$/;"	function	line:16
+link	/Users/stars/Documents/Weiwei/website/weiweihsu.github.io/_site/about/index.html	/^  <link rel="stylesheet" href="https:\/\/fonts.googleapis.com\/css?family=Libre+Baskerville:400,400i,700">$/;"	function	line:17
+link	/Users/stars/Documents/Weiwei/website/weiweihsu.github.io/_site/about/index.html	/^  <link rel="icon" type="image\/png" sizes="32x32" href="\/tale\/assets\/favicon-32x32.png">$/;"	function	line:20
+link	/Users/stars/Documents/Weiwei/website/weiweihsu.github.io/_site/about/index.html	/^  <link rel="icon" type="image\/png" sizes="16x16" href="\/tale\/assets\/favicon-16x16.png">$/;"	function	line:21
+link	/Users/stars/Documents/Weiwei/website/weiweihsu.github.io/_site/about/index.html	/^  <link rel="apple-touch-icon" sizes="180x180" href="\/tale\/assets\/apple-touch-icon.png">$/;"	function	line:22
+link	/Users/stars/Documents/Weiwei/website/weiweihsu.github.io/_site/about/index.html	/^  <link type="application\/atom+xml" rel="alternate" href="http:\/\/localhost:4000\/tale\/feed.xml" title="Weiwei Hsu" \/>$/;"	function	line:25
+body	/Users/stars/Documents/Weiwei/website/weiweihsu.github.io/_site/about/index.html	/^  <body>$/;"	function	line:29
+nav	/Users/stars/Documents/Weiwei/website/weiweihsu.github.io/_site/about/index.html	/^    <nav class="nav">$/;"	function	line:30
+div	/Users/stars/Documents/Weiwei/website/weiweihsu.github.io/_site/about/index.html	/^      <div class="nav-container">$/;"	function	line:31
+a	/Users/stars/Documents/Weiwei/website/weiweihsu.github.io/_site/about/index.html	/^        <a href="\/tale\/">$/;"	function	line:32
+h	/Users/stars/Documents/Weiwei/website/weiweihsu.github.io/_site/about/index.html	/^          <h2 class="nav-title">Weiwei Hsu<\/h2>$/;"	function	line:33
+ul	/Users/stars/Documents/Weiwei/website/weiweihsu.github.io/_site/about/index.html	/^        <ul>$/;"	function	line:35
+li	/Users/stars/Documents/Weiwei/website/weiweihsu.github.io/_site/about/index.html	/^          <li><a href="\/tale\/weeknotes">Weeknotes<\/a><\/li>$/;"	function	line:36
+li	/Users/stars/Documents/Weiwei/website/weiweihsu.github.io/_site/about/index.html	/^          <li><a href="\/tale\/collection\/">Collection<\/a><\/li>$/;"	function	line:37
+li	/Users/stars/Documents/Weiwei/website/weiweihsu.github.io/_site/about/index.html	/^          <li><a href="\/tale\/about">About<\/a><\/li>$/;"	function	line:38
+main	/Users/stars/Documents/Weiwei/website/weiweihsu.github.io/_site/about/index.html	/^    <main>$/;"	function	line:43
+div	/Users/stars/Documents/Weiwei/website/weiweihsu.github.io/_site/about/index.html	/^      <div class="post">$/;"	function	line:44
+div	/Users/stars/Documents/Weiwei/website/weiweihsu.github.io/_site/about/index.html	/^  <div class="post-line"><\/div>$/;"	function	line:45
+p	/Users/stars/Documents/Weiwei/website/weiweihsu.github.io/_site/about/index.html	/^  <p>I care tremondously about cultivating community, climate change, long-term (technology) research, and education and my life-long goal is to put equal effort into these four areas.<\/p>$/;"	function	line:48
+p	/Users/stars/Documents/Weiwei/website/weiweihsu.github.io/_site/about/index.html	/^<p><br \/><\/p>$/;"	function	line:50
+p	/Users/stars/Documents/Weiwei/website/weiweihsu.github.io/_site/about/index.html	/^<p><mark> &nbsp; Background &nbsp; <\/mark><\/p>$/;"	function	line:52
+p	/Users/stars/Documents/Weiwei/website/weiweihsu.github.io/_site/about/index.html	/^<p>I am an American-born Taiwanese, raised in busy Shanghai. I hold a BFA in Interaction Design from <a href="https:\/\/www.cca.edu">California College of the Arts<\/a>.<\/p>$/;"	function	line:54
+p	/Users/stars/Documents/Weiwei/website/weiweihsu.github.io/_site/about/index.html	/^<p>At CCA, I was very fortunate to learn from those who helped shape the Internet. They helped me understand that the digital landscape is not limited to the screen rectangles that we are used to, and guided me to understand the origin of the Internet as well as Interaction Design. I will be forever greatful for the teachers and friends that I’ve met during my time there.<\/p>$/;"	function	line:56
+p	/Users/stars/Documents/Weiwei/website/weiweihsu.github.io/_site/about/index.html	/^<p><br \/>$/;"	function	line:58
+mark	/Users/stars/Documents/Weiwei/website/weiweihsu.github.io/_site/about/index.html	/^<mark> &nbsp; Breaks &nbsp; <\/mark><\/p>$/;"	function	line:59
+p	/Users/stars/Documents/Weiwei/website/weiweihsu.github.io/_site/about/index.html	/^<p>In Summer and Winter of 2015, I joined an accelerator and co-working space, <a href="http:\/\/www.thexnode.com">XNode<\/a>, as their first Design Intern and San Francisco representative in Shanghai. During my time there, I initiated and delivered weekly design digests to the team for internal growth, produced creative promotional materials, and wrote articles for their publication for external use as well. Through those commitments, I learned to facilitate the conversations that we as a team would want to have, because what people act on depends on what people converse about.<\/p>$/;"	function	line:61
+p	/Users/stars/Documents/Weiwei/website/weiweihsu.github.io/_site/about/index.html	/^<p>In Summer of 2017, I was an Interaction Design intern at <a href="https:\/\/www.fjordnet.com">Fjord<\/a>. During my time there, I focused on researching and modeling information systems for medical and government sectors.<\/p>$/;"	function	line:63
+p	/Users/stars/Documents/Weiwei/website/weiweihsu.github.io/_site/about/index.html	/^<p><br \/>$/;"	function	line:65
+mark	/Users/stars/Documents/Weiwei/website/weiweihsu.github.io/_site/about/index.html	/^<mark> &nbsp; Side projects &nbsp; <\/mark><\/p>$/;"	function	line:66
+p	/Users/stars/Documents/Weiwei/website/weiweihsu.github.io/_site/about/index.html	/^<p>I look for areas that don’t get the attention they deserve and try my best to facilitate those conversations together with others. In high school, I co-designed a diary book that both students and faculty still use today. At CCA, I co-created a trading group, call <a href="https:\/\/www.facebook.com\/groups\/1628063617472760\/">The CCA Underground<\/a>, that has hosted 900+ trades. A few friends and I have also created a digital campus, call <a href="https:\/\/www.facebook.com\/cacollegeofmax\/">Max CCA<\/a>, that 80% of the students are participating in.<\/p>$/;"	function	line:68
+p	/Users/stars/Documents/Weiwei/website/weiweihsu.github.io/_site/about/index.html	/^<p>Since freshman year, I have been part of <a href="http:\/\/www.aiga.org\/video-medalist-john-bielenberg">John Bielenberg’s<\/a> experimental program Secret Project at CCA and have expanded the program to Taiwan and produced and facilitated 3 week-long workshops on challenging the status quo at <a href="https:\/\/taiwaneverything.cc\/2016\/08\/19\/toucheng-farm\/">Toucheng Farm<\/a> in YiLan, Taiwan.<\/p>$/;"	function	line:70
+div	/Users/stars/Documents/Weiwei/website/weiweihsu.github.io/_site/about/index.html	/^<div class="pagination">$/;"	function	line:75
+a	/Users/stars/Documents/Weiwei/website/weiweihsu.github.io/_site/about/index.html	/^  <a href="#" class="top">Top<\/a>$/;"	function	line:79
+footer	/Users/stars/Documents/Weiwei/website/weiweihsu.github.io/_site/about/index.html	/^    <footer>$/;"	function	line:84
+span	/Users/stars/Documents/Weiwei/website/weiweihsu.github.io/_site/about/index.html	/^      <span>$/;"	function	line:85
+html	/Users/stars/Documents/Weiwei/website/weiweihsu.github.io/_site/2017-09-29/do-your-apps-expire.html	/^<html lang="en">$/;"	function	line:2
+head	/Users/stars/Documents/Weiwei/website/weiweihsu.github.io/_site/2017-09-29/do-your-apps-expire.html	/^  <head>$/;"	function	line:4
+meta	/Users/stars/Documents/Weiwei/website/weiweihsu.github.io/_site/2017-09-29/do-your-apps-expire.html	/^  <meta charset="UTF-8">$/;"	function	line:5
+meta	/Users/stars/Documents/Weiwei/website/weiweihsu.github.io/_site/2017-09-29/do-your-apps-expire.html	/^  <meta name="viewport" content="width=device-width, initial-scale=1.0">$/;"	function	line:6
+title	/Users/stars/Documents/Weiwei/website/weiweihsu.github.io/_site/2017-09-29/do-your-apps-expire.html	/^  <title>$/;"	function	line:9
+link	/Users/stars/Documents/Weiwei/website/weiweihsu.github.io/_site/2017-09-29/do-your-apps-expire.html	/^  <link rel="stylesheet" href="\/tale\/assets\/main.css">$/;"	function	line:16
+link	/Users/stars/Documents/Weiwei/website/weiweihsu.github.io/_site/2017-09-29/do-your-apps-expire.html	/^  <link rel="stylesheet" href="https:\/\/fonts.googleapis.com\/css?family=Libre+Baskerville:400,400i,700">$/;"	function	line:17
+link	/Users/stars/Documents/Weiwei/website/weiweihsu.github.io/_site/2017-09-29/do-your-apps-expire.html	/^  <link rel="icon" type="image\/png" sizes="32x32" href="\/tale\/assets\/favicon-32x32.png">$/;"	function	line:20
+link	/Users/stars/Documents/Weiwei/website/weiweihsu.github.io/_site/2017-09-29/do-your-apps-expire.html	/^  <link rel="icon" type="image\/png" sizes="16x16" href="\/tale\/assets\/favicon-16x16.png">$/;"	function	line:21
+link	/Users/stars/Documents/Weiwei/website/weiweihsu.github.io/_site/2017-09-29/do-your-apps-expire.html	/^  <link rel="apple-touch-icon" sizes="180x180" href="\/tale\/assets\/apple-touch-icon.png">$/;"	function	line:22
+link	/Users/stars/Documents/Weiwei/website/weiweihsu.github.io/_site/2017-09-29/do-your-apps-expire.html	/^  <link type="application\/atom+xml" rel="alternate" href="http:\/\/localhost:4000\/tale\/feed.xml" title="Weiwei Hsu" \/>$/;"	function	line:25
+body	/Users/stars/Documents/Weiwei/website/weiweihsu.github.io/_site/2017-09-29/do-your-apps-expire.html	/^  <body>$/;"	function	line:29
+nav	/Users/stars/Documents/Weiwei/website/weiweihsu.github.io/_site/2017-09-29/do-your-apps-expire.html	/^    <nav class="nav">$/;"	function	line:30
+div	/Users/stars/Documents/Weiwei/website/weiweihsu.github.io/_site/2017-09-29/do-your-apps-expire.html	/^      <div class="nav-container">$/;"	function	line:31
+a	/Users/stars/Documents/Weiwei/website/weiweihsu.github.io/_site/2017-09-29/do-your-apps-expire.html	/^        <a href="\/tale\/">$/;"	function	line:32
+h	/Users/stars/Documents/Weiwei/website/weiweihsu.github.io/_site/2017-09-29/do-your-apps-expire.html	/^          <h2 class="nav-title">Weiwei Hsu<\/h2>$/;"	function	line:33
+ul	/Users/stars/Documents/Weiwei/website/weiweihsu.github.io/_site/2017-09-29/do-your-apps-expire.html	/^        <ul>$/;"	function	line:35
+li	/Users/stars/Documents/Weiwei/website/weiweihsu.github.io/_site/2017-09-29/do-your-apps-expire.html	/^          <li><a href="\/tale\/weeknotes">Weeknotes<\/a><\/li>$/;"	function	line:36
+li	/Users/stars/Documents/Weiwei/website/weiweihsu.github.io/_site/2017-09-29/do-your-apps-expire.html	/^          <li><a href="\/tale\/collection\/">Collection<\/a><\/li>$/;"	function	line:37
+li	/Users/stars/Documents/Weiwei/website/weiweihsu.github.io/_site/2017-09-29/do-your-apps-expire.html	/^          <li><a href="\/tale\/about">About<\/a><\/li>$/;"	function	line:38
+main	/Users/stars/Documents/Weiwei/website/weiweihsu.github.io/_site/2017-09-29/do-your-apps-expire.html	/^    <main>$/;"	function	line:43
+div	/Users/stars/Documents/Weiwei/website/weiweihsu.github.io/_site/2017-09-29/do-your-apps-expire.html	/^      <div class="post">$/;"	function	line:44
+div	/Users/stars/Documents/Weiwei/website/weiweihsu.github.io/_site/2017-09-29/do-your-apps-expire.html	/^  <div class="post-info">$/;"	function	line:45
+br	/Users/stars/Documents/Weiwei/website/weiweihsu.github.io/_site/2017-09-29/do-your-apps-expire.html	/^      <br>$/;"	function	line:52
+span	/Users/stars/Documents/Weiwei/website/weiweihsu.github.io/_site/2017-09-29/do-your-apps-expire.html	/^      <span>during the week of&nbsp;<\/span><time datetime="2017-09-29 00:00:00 -0700">September 29, 2017<\/time>$/;"	function	line:53
+h	/Users/stars/Documents/Weiwei/website/weiweihsu.github.io/_site/2017-09-29/do-your-apps-expire.html	/^  <h5 class="post-title">Do Your Apps Have an Expiration Date?<\/h5>$/;"	function	line:57
+div	/Users/stars/Documents/Weiwei/website/weiweihsu.github.io/_site/2017-09-29/do-your-apps-expire.html	/^  <div class="post-line"><\/div>$/;"	function	line:58
+footer	/Users/stars/Documents/Weiwei/website/weiweihsu.github.io/_site/2017-09-29/do-your-apps-expire.html	/^    <footer>$/;"	function	line:67
+span	/Users/stars/Documents/Weiwei/website/weiweihsu.github.io/_site/2017-09-29/do-your-apps-expire.html	/^      <span>$/;"	function	line:68
+Tale	/Users/stars/Documents/Weiwei/website/weiweihsu.github.io/_site/README.md	/^# Tale$/;"	function	line:1
+Features	/Users/stars/Documents/Weiwei/website/weiweihsu.github.io/_site/README.md	/^## Features$/;"	function	line:9
+Installation	/Users/stars/Documents/Weiwei/website/weiweihsu.github.io/_site/README.md	/^## Installation$/;"	function	line:17
+Ruby Gem method	/Users/stars/Documents/Weiwei/website/weiweihsu.github.io/_site/README.md	/^### Ruby Gem method$/;"	function	line:24
+GitHub Pages method	/Users/stars/Documents/Weiwei/website/weiweihsu.github.io/_site/README.md	/^### GitHub Pages method$/;"	function	line:56
+Fork method	/Users/stars/Documents/Weiwei/website/weiweihsu.github.io/_site/README.md	/^### Fork method$/;"	function	line:93
+Usage	/Users/stars/Documents/Weiwei/website/weiweihsu.github.io/_site/README.md	/^## Usage$/;"	function	line:104
+Contributing	/Users/stars/Documents/Weiwei/website/weiweihsu.github.io/_site/README.md	/^## Contributing$/;"	function	line:115
+License	/Users/stars/Documents/Weiwei/website/weiweihsu.github.io/_site/README.md	/^## License$/;"	function	line:118
+html	/Users/stars/Documents/Weiwei/website/weiweihsu.github.io/_site/weeknotes.html	/^<html lang="en">$/;"	function	line:2
+head	/Users/stars/Documents/Weiwei/website/weiweihsu.github.io/_site/weeknotes.html	/^  <head>$/;"	function	line:4
+meta	/Users/stars/Documents/Weiwei/website/weiweihsu.github.io/_site/weeknotes.html	/^  <meta charset="UTF-8">$/;"	function	line:5
+meta	/Users/stars/Documents/Weiwei/website/weiweihsu.github.io/_site/weeknotes.html	/^  <meta name="viewport" content="width=device-width, initial-scale=1.0">$/;"	function	line:6
+title	/Users/stars/Documents/Weiwei/website/weiweihsu.github.io/_site/weeknotes.html	/^  <title>$/;"	function	line:9
+link	/Users/stars/Documents/Weiwei/website/weiweihsu.github.io/_site/weeknotes.html	/^  <link rel="stylesheet" href="\/tale\/assets\/main.css">$/;"	function	line:16
+link	/Users/stars/Documents/Weiwei/website/weiweihsu.github.io/_site/weeknotes.html	/^  <link rel="stylesheet" href="https:\/\/fonts.googleapis.com\/css?family=Libre+Baskerville:400,400i,700">$/;"	function	line:17
+link	/Users/stars/Documents/Weiwei/website/weiweihsu.github.io/_site/weeknotes.html	/^  <link rel="icon" type="image\/png" sizes="32x32" href="\/tale\/assets\/favicon-32x32.png">$/;"	function	line:20
+link	/Users/stars/Documents/Weiwei/website/weiweihsu.github.io/_site/weeknotes.html	/^  <link rel="icon" type="image\/png" sizes="16x16" href="\/tale\/assets\/favicon-16x16.png">$/;"	function	line:21
+link	/Users/stars/Documents/Weiwei/website/weiweihsu.github.io/_site/weeknotes.html	/^  <link rel="apple-touch-icon" sizes="180x180" href="\/tale\/assets\/apple-touch-icon.png">$/;"	function	line:22
+link	/Users/stars/Documents/Weiwei/website/weiweihsu.github.io/_site/weeknotes.html	/^  <link type="application\/atom+xml" rel="alternate" href="http:\/\/localhost:4000\/tale\/feed.xml" title="Weiwei Hsu" \/>$/;"	function	line:25
+body	/Users/stars/Documents/Weiwei/website/weiweihsu.github.io/_site/weeknotes.html	/^  <body>$/;"	function	line:29
+nav	/Users/stars/Documents/Weiwei/website/weiweihsu.github.io/_site/weeknotes.html	/^    <nav class="nav">$/;"	function	line:30
+div	/Users/stars/Documents/Weiwei/website/weiweihsu.github.io/_site/weeknotes.html	/^      <div class="nav-container">$/;"	function	line:31
+a	/Users/stars/Documents/Weiwei/website/weiweihsu.github.io/_site/weeknotes.html	/^        <a href="\/tale\/">$/;"	function	line:32
+h	/Users/stars/Documents/Weiwei/website/weiweihsu.github.io/_site/weeknotes.html	/^          <h2 class="nav-title">Weiwei Hsu<\/h2>$/;"	function	line:33
+ul	/Users/stars/Documents/Weiwei/website/weiweihsu.github.io/_site/weeknotes.html	/^        <ul>$/;"	function	line:35
+li	/Users/stars/Documents/Weiwei/website/weiweihsu.github.io/_site/weeknotes.html	/^          <li><a href="\/tale\/weeknotes">Weeknotes<\/a><\/li>$/;"	function	line:36
+li	/Users/stars/Documents/Weiwei/website/weiweihsu.github.io/_site/weeknotes.html	/^          <li><a href="\/tale\/collection\/">Collection<\/a><\/li>$/;"	function	line:37
+li	/Users/stars/Documents/Weiwei/website/weiweihsu.github.io/_site/weeknotes.html	/^          <li><a href="\/tale\/about">About<\/a><\/li>$/;"	function	line:38
+main	/Users/stars/Documents/Weiwei/website/weiweihsu.github.io/_site/weeknotes.html	/^    <main>$/;"	function	line:43
+div	/Users/stars/Documents/Weiwei/website/weiweihsu.github.io/_site/weeknotes.html	/^      <div class="post">$/;"	function	line:44
+div	/Users/stars/Documents/Weiwei/website/weiweihsu.github.io/_site/weeknotes.html	/^  <div class="post-line"><\/div>$/;"	function	line:45
+br	/Users/stars/Documents/Weiwei/website/weiweihsu.github.io/_site/weeknotes.html	/^  <br><br>$/;"	function	line:49
+br	/Users/stars/Documents/Weiwei/website/weiweihsu.github.io/_site/weeknotes.html	/^  <br><br>$/;"	function	line:52
+a	/Users/stars/Documents/Weiwei/website/weiweihsu.github.io/_site/weeknotes.html	/^<a href="\/tale\/2018-10-05\/weeknote-4" class="catalogue-item">$/;"	function	line:59
+div	/Users/stars/Documents/Weiwei/website/weiweihsu.github.io/_site/weeknotes.html	/^  <div>$/;"	function	line:60
+h	/Users/stars/Documents/Weiwei/website/weiweihsu.github.io/_site/weeknotes.html	/^    <h1 class="catalogue-title">I'm back<\/h1>$/;"	function	line:62
+div	/Users/stars/Documents/Weiwei/website/weiweihsu.github.io/_site/weeknotes.html	/^    <div class="catalogue-line"><\/div>$/;"	function	line:63
+p	/Users/stars/Documents/Weiwei/website/weiweihsu.github.io/_site/weeknotes.html	/^    <p>$/;"	function	line:65
+a	/Users/stars/Documents/Weiwei/website/weiweihsu.github.io/_site/weeknotes.html	/^<a href="\/tale\/2018-09-28\/weeknote-3" class="catalogue-item">$/;"	function	line:72
+div	/Users/stars/Documents/Weiwei/website/weiweihsu.github.io/_site/weeknotes.html	/^  <div>$/;"	function	line:73
+h	/Users/stars/Documents/Weiwei/website/weiweihsu.github.io/_site/weeknotes.html	/^    <h1 class="catalogue-title">Lost<\/h1>$/;"	function	line:75
+div	/Users/stars/Documents/Weiwei/website/weiweihsu.github.io/_site/weeknotes.html	/^    <div class="catalogue-line"><\/div>$/;"	function	line:76
+p	/Users/stars/Documents/Weiwei/website/weiweihsu.github.io/_site/weeknotes.html	/^    <p>$/;"	function	line:78
+a	/Users/stars/Documents/Weiwei/website/weiweihsu.github.io/_site/weeknotes.html	/^<a href="\/tale\/2018-09-21\/weeknote-2" class="catalogue-item">$/;"	function	line:86
+div	/Users/stars/Documents/Weiwei/website/weiweihsu.github.io/_site/weeknotes.html	/^  <div>$/;"	function	line:87
+h	/Users/stars/Documents/Weiwei/website/weiweihsu.github.io/_site/weeknotes.html	/^    <h1 class="catalogue-title">Architecture, Cedric Price<\/h1>$/;"	function	line:89
+div	/Users/stars/Documents/Weiwei/website/weiweihsu.github.io/_site/weeknotes.html	/^    <div class="catalogue-line"><\/div>$/;"	function	line:90
+p	/Users/stars/Documents/Weiwei/website/weiweihsu.github.io/_site/weeknotes.html	/^    <p>$/;"	function	line:92
+a	/Users/stars/Documents/Weiwei/website/weiweihsu.github.io/_site/weeknotes.html	/^<a href="\/tale\/2018-09-15\/weeknote-1" class="catalogue-item">$/;"	function	line:99
+div	/Users/stars/Documents/Weiwei/website/weiweihsu.github.io/_site/weeknotes.html	/^  <div>$/;"	function	line:100
+h	/Users/stars/Documents/Weiwei/website/weiweihsu.github.io/_site/weeknotes.html	/^    <h1 class="catalogue-title">Four years, post-college, freelancing, collective<\/h1>$/;"	function	line:102
+div	/Users/stars/Documents/Weiwei/website/weiweihsu.github.io/_site/weeknotes.html	/^    <div class="catalogue-line"><\/div>$/;"	function	line:103
+p	/Users/stars/Documents/Weiwei/website/weiweihsu.github.io/_site/weeknotes.html	/^    <p>$/;"	function	line:105
+div	/Users/stars/Documents/Weiwei/website/weiweihsu.github.io/_site/weeknotes.html	/^<div class="pagination">$/;"	function	line:122
+span	/Users/stars/Documents/Weiwei/website/weiweihsu.github.io/_site/weeknotes.html	/^  <span><\/span>$/;"	function	line:126
+footer	/Users/stars/Documents/Weiwei/website/weiweihsu.github.io/_site/weeknotes.html	/^    <footer>$/;"	function	line:131
+span	/Users/stars/Documents/Weiwei/website/weiweihsu.github.io/_site/weeknotes.html	/^      <span>$/;"	function	line:132
+html	/Users/stars/Documents/Weiwei/website/weiweihsu.github.io/_site/2017-12-13/putting-band-aids-on-the-digital.html	/^<html lang="en">$/;"	function	line:2
+head	/Users/stars/Documents/Weiwei/website/weiweihsu.github.io/_site/2017-12-13/putting-band-aids-on-the-digital.html	/^  <head>$/;"	function	line:4
+meta	/Users/stars/Documents/Weiwei/website/weiweihsu.github.io/_site/2017-12-13/putting-band-aids-on-the-digital.html	/^  <meta charset="UTF-8">$/;"	function	line:5
+meta	/Users/stars/Documents/Weiwei/website/weiweihsu.github.io/_site/2017-12-13/putting-band-aids-on-the-digital.html	/^  <meta name="viewport" content="width=device-width, initial-scale=1.0">$/;"	function	line:6
+title	/Users/stars/Documents/Weiwei/website/weiweihsu.github.io/_site/2017-12-13/putting-band-aids-on-the-digital.html	/^  <title>$/;"	function	line:9
+link	/Users/stars/Documents/Weiwei/website/weiweihsu.github.io/_site/2017-12-13/putting-band-aids-on-the-digital.html	/^  <link rel="stylesheet" href="\/tale\/assets\/main.css">$/;"	function	line:16
+link	/Users/stars/Documents/Weiwei/website/weiweihsu.github.io/_site/2017-12-13/putting-band-aids-on-the-digital.html	/^  <link rel="stylesheet" href="https:\/\/fonts.googleapis.com\/css?family=Libre+Baskerville:400,400i,700">$/;"	function	line:17
+link	/Users/stars/Documents/Weiwei/website/weiweihsu.github.io/_site/2017-12-13/putting-band-aids-on-the-digital.html	/^  <link rel="icon" type="image\/png" sizes="32x32" href="\/tale\/assets\/favicon-32x32.png">$/;"	function	line:20
+link	/Users/stars/Documents/Weiwei/website/weiweihsu.github.io/_site/2017-12-13/putting-band-aids-on-the-digital.html	/^  <link rel="icon" type="image\/png" sizes="16x16" href="\/tale\/assets\/favicon-16x16.png">$/;"	function	line:21
+link	/Users/stars/Documents/Weiwei/website/weiweihsu.github.io/_site/2017-12-13/putting-band-aids-on-the-digital.html	/^  <link rel="apple-touch-icon" sizes="180x180" href="\/tale\/assets\/apple-touch-icon.png">$/;"	function	line:22
+link	/Users/stars/Documents/Weiwei/website/weiweihsu.github.io/_site/2017-12-13/putting-band-aids-on-the-digital.html	/^  <link type="application\/atom+xml" rel="alternate" href="http:\/\/localhost:4000\/tale\/feed.xml" title="Weiwei Hsu" \/>$/;"	function	line:25
+body	/Users/stars/Documents/Weiwei/website/weiweihsu.github.io/_site/2017-12-13/putting-band-aids-on-the-digital.html	/^  <body>$/;"	function	line:29
+nav	/Users/stars/Documents/Weiwei/website/weiweihsu.github.io/_site/2017-12-13/putting-band-aids-on-the-digital.html	/^    <nav class="nav">$/;"	function	line:30
+div	/Users/stars/Documents/Weiwei/website/weiweihsu.github.io/_site/2017-12-13/putting-band-aids-on-the-digital.html	/^      <div class="nav-container">$/;"	function	line:31
+a	/Users/stars/Documents/Weiwei/website/weiweihsu.github.io/_site/2017-12-13/putting-band-aids-on-the-digital.html	/^        <a href="\/tale\/">$/;"	function	line:32
+h	/Users/stars/Documents/Weiwei/website/weiweihsu.github.io/_site/2017-12-13/putting-band-aids-on-the-digital.html	/^          <h2 class="nav-title">Weiwei Hsu<\/h2>$/;"	function	line:33
+ul	/Users/stars/Documents/Weiwei/website/weiweihsu.github.io/_site/2017-12-13/putting-band-aids-on-the-digital.html	/^        <ul>$/;"	function	line:35
+li	/Users/stars/Documents/Weiwei/website/weiweihsu.github.io/_site/2017-12-13/putting-band-aids-on-the-digital.html	/^          <li><a href="\/tale\/weeknotes">Weeknotes<\/a><\/li>$/;"	function	line:36
+li	/Users/stars/Documents/Weiwei/website/weiweihsu.github.io/_site/2017-12-13/putting-band-aids-on-the-digital.html	/^          <li><a href="\/tale\/collection\/">Collection<\/a><\/li>$/;"	function	line:37
+li	/Users/stars/Documents/Weiwei/website/weiweihsu.github.io/_site/2017-12-13/putting-band-aids-on-the-digital.html	/^          <li><a href="\/tale\/about">About<\/a><\/li>$/;"	function	line:38
+main	/Users/stars/Documents/Weiwei/website/weiweihsu.github.io/_site/2017-12-13/putting-band-aids-on-the-digital.html	/^    <main>$/;"	function	line:43
+div	/Users/stars/Documents/Weiwei/website/weiweihsu.github.io/_site/2017-12-13/putting-band-aids-on-the-digital.html	/^      <div class="post">$/;"	function	line:44
+div	/Users/stars/Documents/Weiwei/website/weiweihsu.github.io/_site/2017-12-13/putting-band-aids-on-the-digital.html	/^  <div class="post-info">$/;"	function	line:45
+br	/Users/stars/Documents/Weiwei/website/weiweihsu.github.io/_site/2017-12-13/putting-band-aids-on-the-digital.html	/^      <br>$/;"	function	line:52
+span	/Users/stars/Documents/Weiwei/website/weiweihsu.github.io/_site/2017-12-13/putting-band-aids-on-the-digital.html	/^      <span>during the week of&nbsp;<\/span><time datetime="2017-12-13 00:00:00 -0800">December 13, 2017<\/time>$/;"	function	line:53
+h	/Users/stars/Documents/Weiwei/website/weiweihsu.github.io/_site/2017-12-13/putting-band-aids-on-the-digital.html	/^  <h5 class="post-title">Putting Band-Aids on the Digital Landscape<\/h5>$/;"	function	line:57
+div	/Users/stars/Documents/Weiwei/website/weiweihsu.github.io/_site/2017-12-13/putting-band-aids-on-the-digital.html	/^  <div class="post-line"><\/div>$/;"	function	line:58
+footer	/Users/stars/Documents/Weiwei/website/weiweihsu.github.io/_site/2017-12-13/putting-band-aids-on-the-digital.html	/^    <footer>$/;"	function	line:67
+span	/Users/stars/Documents/Weiwei/website/weiweihsu.github.io/_site/2017-12-13/putting-band-aids-on-the-digital.html	/^      <span>$/;"	function	line:68
+html	/Users/stars/Documents/Weiwei/website/weiweihsu.github.io/_site/2018-06-20/designing-for-aclu-norcal.html	/^<html lang="en">$/;"	function	line:2
+head	/Users/stars/Documents/Weiwei/website/weiweihsu.github.io/_site/2018-06-20/designing-for-aclu-norcal.html	/^  <head>$/;"	function	line:4
+meta	/Users/stars/Documents/Weiwei/website/weiweihsu.github.io/_site/2018-06-20/designing-for-aclu-norcal.html	/^  <meta charset="UTF-8">$/;"	function	line:5
+meta	/Users/stars/Documents/Weiwei/website/weiweihsu.github.io/_site/2018-06-20/designing-for-aclu-norcal.html	/^  <meta name="viewport" content="width=device-width, initial-scale=1.0">$/;"	function	line:6
+title	/Users/stars/Documents/Weiwei/website/weiweihsu.github.io/_site/2018-06-20/designing-for-aclu-norcal.html	/^  <title>$/;"	function	line:9
+link	/Users/stars/Documents/Weiwei/website/weiweihsu.github.io/_site/2018-06-20/designing-for-aclu-norcal.html	/^  <link rel="stylesheet" href="\/tale\/assets\/main.css">$/;"	function	line:16
+link	/Users/stars/Documents/Weiwei/website/weiweihsu.github.io/_site/2018-06-20/designing-for-aclu-norcal.html	/^  <link rel="stylesheet" href="https:\/\/fonts.googleapis.com\/css?family=Libre+Baskerville:400,400i,700">$/;"	function	line:17
+link	/Users/stars/Documents/Weiwei/website/weiweihsu.github.io/_site/2018-06-20/designing-for-aclu-norcal.html	/^  <link rel="icon" type="image\/png" sizes="32x32" href="\/tale\/assets\/favicon-32x32.png">$/;"	function	line:20
+link	/Users/stars/Documents/Weiwei/website/weiweihsu.github.io/_site/2018-06-20/designing-for-aclu-norcal.html	/^  <link rel="icon" type="image\/png" sizes="16x16" href="\/tale\/assets\/favicon-16x16.png">$/;"	function	line:21
+link	/Users/stars/Documents/Weiwei/website/weiweihsu.github.io/_site/2018-06-20/designing-for-aclu-norcal.html	/^  <link rel="apple-touch-icon" sizes="180x180" href="\/tale\/assets\/apple-touch-icon.png">$/;"	function	line:22
+link	/Users/stars/Documents/Weiwei/website/weiweihsu.github.io/_site/2018-06-20/designing-for-aclu-norcal.html	/^  <link type="application\/atom+xml" rel="alternate" href="http:\/\/localhost:4000\/tale\/feed.xml" title="Weiwei Hsu" \/>$/;"	function	line:25
+body	/Users/stars/Documents/Weiwei/website/weiweihsu.github.io/_site/2018-06-20/designing-for-aclu-norcal.html	/^  <body>$/;"	function	line:29
+nav	/Users/stars/Documents/Weiwei/website/weiweihsu.github.io/_site/2018-06-20/designing-for-aclu-norcal.html	/^    <nav class="nav">$/;"	function	line:30
+div	/Users/stars/Documents/Weiwei/website/weiweihsu.github.io/_site/2018-06-20/designing-for-aclu-norcal.html	/^      <div class="nav-container">$/;"	function	line:31
+a	/Users/stars/Documents/Weiwei/website/weiweihsu.github.io/_site/2018-06-20/designing-for-aclu-norcal.html	/^        <a href="\/tale\/">$/;"	function	line:32
+h	/Users/stars/Documents/Weiwei/website/weiweihsu.github.io/_site/2018-06-20/designing-for-aclu-norcal.html	/^          <h2 class="nav-title">Weiwei Hsu<\/h2>$/;"	function	line:33
+ul	/Users/stars/Documents/Weiwei/website/weiweihsu.github.io/_site/2018-06-20/designing-for-aclu-norcal.html	/^        <ul>$/;"	function	line:35
+li	/Users/stars/Documents/Weiwei/website/weiweihsu.github.io/_site/2018-06-20/designing-for-aclu-norcal.html	/^          <li><a href="\/tale\/weeknotes">Weeknotes<\/a><\/li>$/;"	function	line:36
+li	/Users/stars/Documents/Weiwei/website/weiweihsu.github.io/_site/2018-06-20/designing-for-aclu-norcal.html	/^          <li><a href="\/tale\/collection\/">Collection<\/a><\/li>$/;"	function	line:37
+li	/Users/stars/Documents/Weiwei/website/weiweihsu.github.io/_site/2018-06-20/designing-for-aclu-norcal.html	/^          <li><a href="\/tale\/about">About<\/a><\/li>$/;"	function	line:38
+main	/Users/stars/Documents/Weiwei/website/weiweihsu.github.io/_site/2018-06-20/designing-for-aclu-norcal.html	/^    <main>$/;"	function	line:43
+div	/Users/stars/Documents/Weiwei/website/weiweihsu.github.io/_site/2018-06-20/designing-for-aclu-norcal.html	/^      <div class="post">$/;"	function	line:44
+div	/Users/stars/Documents/Weiwei/website/weiweihsu.github.io/_site/2018-06-20/designing-for-aclu-norcal.html	/^  <div class="post-info">$/;"	function	line:45
+br	/Users/stars/Documents/Weiwei/website/weiweihsu.github.io/_site/2018-06-20/designing-for-aclu-norcal.html	/^      <br>$/;"	function	line:52
+span	/Users/stars/Documents/Weiwei/website/weiweihsu.github.io/_site/2018-06-20/designing-for-aclu-norcal.html	/^      <span>during the week of&nbsp;<\/span><time datetime="2018-06-20 00:00:00 -0700">June 20, 2018<\/time>$/;"	function	line:53
+h	/Users/stars/Documents/Weiwei/website/weiweihsu.github.io/_site/2018-06-20/designing-for-aclu-norcal.html	/^  <h5 class="post-title">Designing for ACLU NorCal -- Behind the Scenes<\/h5>$/;"	function	line:57
+div	/Users/stars/Documents/Weiwei/website/weiweihsu.github.io/_site/2018-06-20/designing-for-aclu-norcal.html	/^  <div class="post-line"><\/div>$/;"	function	line:58
+footer	/Users/stars/Documents/Weiwei/website/weiweihsu.github.io/_site/2018-06-20/designing-for-aclu-norcal.html	/^    <footer>$/;"	function	line:67
+span	/Users/stars/Documents/Weiwei/website/weiweihsu.github.io/_site/2018-06-20/designing-for-aclu-norcal.html	/^      <span>$/;"	function	line:68
+html	/Users/stars/Documents/Weiwei/website/weiweihsu.github.io/_site/2018-09-21/weeknote-2.html	/^<html lang="en">$/;"	function	line:2
+head	/Users/stars/Documents/Weiwei/website/weiweihsu.github.io/_site/2018-09-21/weeknote-2.html	/^  <head>$/;"	function	line:4
+meta	/Users/stars/Documents/Weiwei/website/weiweihsu.github.io/_site/2018-09-21/weeknote-2.html	/^  <meta charset="UTF-8">$/;"	function	line:5
+meta	/Users/stars/Documents/Weiwei/website/weiweihsu.github.io/_site/2018-09-21/weeknote-2.html	/^  <meta name="viewport" content="width=device-width, initial-scale=1.0">$/;"	function	line:6
+title	/Users/stars/Documents/Weiwei/website/weiweihsu.github.io/_site/2018-09-21/weeknote-2.html	/^  <title>$/;"	function	line:9
+link	/Users/stars/Documents/Weiwei/website/weiweihsu.github.io/_site/2018-09-21/weeknote-2.html	/^  <link rel="stylesheet" href="\/tale\/assets\/main.css">$/;"	function	line:16
+link	/Users/stars/Documents/Weiwei/website/weiweihsu.github.io/_site/2018-09-21/weeknote-2.html	/^  <link rel="stylesheet" href="https:\/\/fonts.googleapis.com\/css?family=Libre+Baskerville:400,400i,700">$/;"	function	line:17
+link	/Users/stars/Documents/Weiwei/website/weiweihsu.github.io/_site/2018-09-21/weeknote-2.html	/^  <link rel="icon" type="image\/png" sizes="32x32" href="\/tale\/assets\/favicon-32x32.png">$/;"	function	line:20
+link	/Users/stars/Documents/Weiwei/website/weiweihsu.github.io/_site/2018-09-21/weeknote-2.html	/^  <link rel="icon" type="image\/png" sizes="16x16" href="\/tale\/assets\/favicon-16x16.png">$/;"	function	line:21
+link	/Users/stars/Documents/Weiwei/website/weiweihsu.github.io/_site/2018-09-21/weeknote-2.html	/^  <link rel="apple-touch-icon" sizes="180x180" href="\/tale\/assets\/apple-touch-icon.png">$/;"	function	line:22
+link	/Users/stars/Documents/Weiwei/website/weiweihsu.github.io/_site/2018-09-21/weeknote-2.html	/^  <link type="application\/atom+xml" rel="alternate" href="http:\/\/localhost:4000\/tale\/feed.xml" title="Weiwei Hsu" \/>$/;"	function	line:25
+body	/Users/stars/Documents/Weiwei/website/weiweihsu.github.io/_site/2018-09-21/weeknote-2.html	/^  <body>$/;"	function	line:29
+nav	/Users/stars/Documents/Weiwei/website/weiweihsu.github.io/_site/2018-09-21/weeknote-2.html	/^    <nav class="nav">$/;"	function	line:30
+div	/Users/stars/Documents/Weiwei/website/weiweihsu.github.io/_site/2018-09-21/weeknote-2.html	/^      <div class="nav-container">$/;"	function	line:31
+a	/Users/stars/Documents/Weiwei/website/weiweihsu.github.io/_site/2018-09-21/weeknote-2.html	/^        <a href="\/tale\/">$/;"	function	line:32
+h	/Users/stars/Documents/Weiwei/website/weiweihsu.github.io/_site/2018-09-21/weeknote-2.html	/^          <h2 class="nav-title">Weiwei Hsu<\/h2>$/;"	function	line:33
+ul	/Users/stars/Documents/Weiwei/website/weiweihsu.github.io/_site/2018-09-21/weeknote-2.html	/^        <ul>$/;"	function	line:35
+li	/Users/stars/Documents/Weiwei/website/weiweihsu.github.io/_site/2018-09-21/weeknote-2.html	/^          <li><a href="\/tale\/weeknotes">Weeknotes<\/a><\/li>$/;"	function	line:36
+li	/Users/stars/Documents/Weiwei/website/weiweihsu.github.io/_site/2018-09-21/weeknote-2.html	/^          <li><a href="\/tale\/collection\/">Collection<\/a><\/li>$/;"	function	line:37
+li	/Users/stars/Documents/Weiwei/website/weiweihsu.github.io/_site/2018-09-21/weeknote-2.html	/^          <li><a href="\/tale\/about">About<\/a><\/li>$/;"	function	line:38
+main	/Users/stars/Documents/Weiwei/website/weiweihsu.github.io/_site/2018-09-21/weeknote-2.html	/^    <main>$/;"	function	line:43
+div	/Users/stars/Documents/Weiwei/website/weiweihsu.github.io/_site/2018-09-21/weeknote-2.html	/^      <div class="post">$/;"	function	line:44
+div	/Users/stars/Documents/Weiwei/website/weiweihsu.github.io/_site/2018-09-21/weeknote-2.html	/^  <div class="post-info">$/;"	function	line:45
+br	/Users/stars/Documents/Weiwei/website/weiweihsu.github.io/_site/2018-09-21/weeknote-2.html	/^      <br>$/;"	function	line:52
+span	/Users/stars/Documents/Weiwei/website/weiweihsu.github.io/_site/2018-09-21/weeknote-2.html	/^      <span>during the week of&nbsp;<\/span><time datetime="2018-09-21 00:00:00 -0700">September 21, 2018<\/time>$/;"	function	line:53
+h	/Users/stars/Documents/Weiwei/website/weiweihsu.github.io/_site/2018-09-21/weeknote-2.html	/^  <h5 class="post-title">Architecture, Cedric Price<\/h5>$/;"	function	line:57
+div	/Users/stars/Documents/Weiwei/website/weiweihsu.github.io/_site/2018-09-21/weeknote-2.html	/^  <div class="post-line"><\/div>$/;"	function	line:58
+p	/Users/stars/Documents/Weiwei/website/weiweihsu.github.io/_site/2018-09-21/weeknote-2.html	/^  <p>“Technology is the answer, but what was the question?” Cedric Price asked.<\/p>$/;"	function	line:60
+p	/Users/stars/Documents/Weiwei/website/weiweihsu.github.io/_site/2018-09-21/weeknote-2.html	/^<p>I’m currently half way through “Architectural Intelligence” by Molly Wright Steenson. Since the beginning of my senior year, I have been fascinated by the relationship between the bits and atoms, the physical and the digital, the architectural and the computational. At some point, I would love to go to (or help create) a grad school that offers something in between, instead of one or the other. I also hope that, my senior thesis on “The “Space” of Computing” is only the beginning of my investigation in this area.<\/p>$/;"	function	line:62
+p	/Users/stars/Documents/Weiwei/website/weiweihsu.github.io/_site/2018-09-21/weeknote-2.html	/^<p>“I feel that the real definition of architecture is that which through a natural distortion of time, place, and interval creates beneficial social conditions that hitherto were considered impossible.”<\/p>$/;"	function	line:64
+p	/Users/stars/Documents/Weiwei/website/weiweihsu.github.io/_site/2018-09-21/weeknote-2.html	/^<p>In the quote above, I find it curious that he defined architecture as a way to <em>distort<\/em> time, place, and interval. To an extend, the word “distort” feels more intentional, genuine, speculative, and playful than words like “intervene”.<\/p>$/;"	function	line:66
+p	/Users/stars/Documents/Weiwei/website/weiweihsu.github.io/_site/2018-09-21/weeknote-2.html	/^<p>“In Price’s work the purpose of technology was “to take part in the architectural debate, perhaps through contribution, disputation, or the ability to shock.” Price used technology as a provocation for change — change in the design process, change in how people interacted with buildings and cities, change in the status quo.”<\/p>$/;"	function	line:68
+p	/Users/stars/Documents/Weiwei/website/weiweihsu.github.io/_site/2018-09-21/weeknote-2.html	/^<p>Perhaps, this is what (feels to me) is missing in today’s digital design. Technology has “the ability to shock” and can be used “as a provocation for change”. Digital design today does the opposite of creating “space” for people to reflect. Instead, we’ve been architecting digital “spaces” so that the paths are fixed, and predictable.<\/p>$/;"	function	line:70
+p	/Users/stars/Documents/Weiwei/website/weiweihsu.github.io/_site/2018-09-21/weeknote-2.html	/^<p><img src="\/tale\/assets\/images\/digital_is_physical.png" alt="kiosk" \/><\/p>$/;"	function	line:72
+p	/Users/stars/Documents/Weiwei/website/weiweihsu.github.io/_site/2018-09-21/weeknote-2.html	/^<p>, (this comma separates notes from different days)<\/p>$/;"	function	line:74
+p	/Users/stars/Documents/Weiwei/website/weiweihsu.github.io/_site/2018-09-21/weeknote-2.html	/^<p>Does one need to make sacrifice(s) by making a vision real? Recently, I’ve had several discussions about the difference between doing research or academic work versus making products that will participate in people’s everyday life. It seems like, those who prefer to do research, believe that (commercial) products cannot fully represent the vision, and those who work on products that are shipping, believe that research is conceptual and ‘fluffy’.<\/p>$/;"	function	line:76
+p	/Users/stars/Documents/Weiwei/website/weiweihsu.github.io/_site/2018-09-21/weeknote-2.html	/^<p>Is there an in-between? Can we introduce speculative work into people’s everyday life?<\/p>$/;"	function	line:78
+p	/Users/stars/Documents/Weiwei/website/weiweihsu.github.io/_site/2018-09-21/weeknote-2.html	/^<p>Throughout my senior thesis, I struggled tremendously in translating what I was thinking into something others could relate to, and hence begin to care about. I asked myself, do I care if others don’t understand it? And I cared. I ended up acting out as a computer and shared that as a computer, I wish that my relationship with you will be more than what it is right now. In retrospect, if I chose not to translate my thinking\/work into something that’s relatable and understandable, I would have done zero work, or at least that’s my opinion.<\/p>$/;"	function	line:80
+p	/Users/stars/Documents/Weiwei/website/weiweihsu.github.io/_site/2018-09-21/weeknote-2.html	/^<p>“If a tree falls in the forest, and nobody heard it, did it make a sound?”<\/p>$/;"	function	line:82
+p	/Users/stars/Documents/Weiwei/website/weiweihsu.github.io/_site/2018-09-21/weeknote-2.html	/^<p>“If someone has done work, and nobody understands it, was the work done?” I’m pretty sure my answer is no.<\/p>$/;"	function	line:84
+footer	/Users/stars/Documents/Weiwei/website/weiweihsu.github.io/_site/2018-09-21/weeknote-2.html	/^    <footer>$/;"	function	line:91
+span	/Users/stars/Documents/Weiwei/website/weiweihsu.github.io/_site/2018-09-21/weeknote-2.html	/^      <span>$/;"	function	line:92
+html	/Users/stars/Documents/Weiwei/website/weiweihsu.github.io/_site/2018-09-28/weeknote-3.html	/^<html lang="en">$/;"	function	line:2
+head	/Users/stars/Documents/Weiwei/website/weiweihsu.github.io/_site/2018-09-28/weeknote-3.html	/^  <head>$/;"	function	line:4
+meta	/Users/stars/Documents/Weiwei/website/weiweihsu.github.io/_site/2018-09-28/weeknote-3.html	/^  <meta charset="UTF-8">$/;"	function	line:5
+meta	/Users/stars/Documents/Weiwei/website/weiweihsu.github.io/_site/2018-09-28/weeknote-3.html	/^  <meta name="viewport" content="width=device-width, initial-scale=1.0">$/;"	function	line:6
+title	/Users/stars/Documents/Weiwei/website/weiweihsu.github.io/_site/2018-09-28/weeknote-3.html	/^  <title>$/;"	function	line:9
+link	/Users/stars/Documents/Weiwei/website/weiweihsu.github.io/_site/2018-09-28/weeknote-3.html	/^  <link rel="stylesheet" href="\/tale\/assets\/main.css">$/;"	function	line:16
+link	/Users/stars/Documents/Weiwei/website/weiweihsu.github.io/_site/2018-09-28/weeknote-3.html	/^  <link rel="stylesheet" href="https:\/\/fonts.googleapis.com\/css?family=Libre+Baskerville:400,400i,700">$/;"	function	line:17
+link	/Users/stars/Documents/Weiwei/website/weiweihsu.github.io/_site/2018-09-28/weeknote-3.html	/^  <link rel="icon" type="image\/png" sizes="32x32" href="\/tale\/assets\/favicon-32x32.png">$/;"	function	line:20
+link	/Users/stars/Documents/Weiwei/website/weiweihsu.github.io/_site/2018-09-28/weeknote-3.html	/^  <link rel="icon" type="image\/png" sizes="16x16" href="\/tale\/assets\/favicon-16x16.png">$/;"	function	line:21
+link	/Users/stars/Documents/Weiwei/website/weiweihsu.github.io/_site/2018-09-28/weeknote-3.html	/^  <link rel="apple-touch-icon" sizes="180x180" href="\/tale\/assets\/apple-touch-icon.png">$/;"	function	line:22
+link	/Users/stars/Documents/Weiwei/website/weiweihsu.github.io/_site/2018-09-28/weeknote-3.html	/^  <link type="application\/atom+xml" rel="alternate" href="http:\/\/localhost:4000\/tale\/feed.xml" title="Weiwei Hsu" \/>$/;"	function	line:25
+body	/Users/stars/Documents/Weiwei/website/weiweihsu.github.io/_site/2018-09-28/weeknote-3.html	/^  <body>$/;"	function	line:29
+nav	/Users/stars/Documents/Weiwei/website/weiweihsu.github.io/_site/2018-09-28/weeknote-3.html	/^    <nav class="nav">$/;"	function	line:30
+div	/Users/stars/Documents/Weiwei/website/weiweihsu.github.io/_site/2018-09-28/weeknote-3.html	/^      <div class="nav-container">$/;"	function	line:31
+a	/Users/stars/Documents/Weiwei/website/weiweihsu.github.io/_site/2018-09-28/weeknote-3.html	/^        <a href="\/tale\/">$/;"	function	line:32
+h	/Users/stars/Documents/Weiwei/website/weiweihsu.github.io/_site/2018-09-28/weeknote-3.html	/^          <h2 class="nav-title">Weiwei Hsu<\/h2>$/;"	function	line:33
+ul	/Users/stars/Documents/Weiwei/website/weiweihsu.github.io/_site/2018-09-28/weeknote-3.html	/^        <ul>$/;"	function	line:35
+li	/Users/stars/Documents/Weiwei/website/weiweihsu.github.io/_site/2018-09-28/weeknote-3.html	/^          <li><a href="\/tale\/weeknotes">Weeknotes<\/a><\/li>$/;"	function	line:36
+li	/Users/stars/Documents/Weiwei/website/weiweihsu.github.io/_site/2018-09-28/weeknote-3.html	/^          <li><a href="\/tale\/collection\/">Collection<\/a><\/li>$/;"	function	line:37
+li	/Users/stars/Documents/Weiwei/website/weiweihsu.github.io/_site/2018-09-28/weeknote-3.html	/^          <li><a href="\/tale\/about">About<\/a><\/li>$/;"	function	line:38
+main	/Users/stars/Documents/Weiwei/website/weiweihsu.github.io/_site/2018-09-28/weeknote-3.html	/^    <main>$/;"	function	line:43
+div	/Users/stars/Documents/Weiwei/website/weiweihsu.github.io/_site/2018-09-28/weeknote-3.html	/^      <div class="post">$/;"	function	line:44
+div	/Users/stars/Documents/Weiwei/website/weiweihsu.github.io/_site/2018-09-28/weeknote-3.html	/^  <div class="post-info">$/;"	function	line:45
+br	/Users/stars/Documents/Weiwei/website/weiweihsu.github.io/_site/2018-09-28/weeknote-3.html	/^      <br>$/;"	function	line:52
+span	/Users/stars/Documents/Weiwei/website/weiweihsu.github.io/_site/2018-09-28/weeknote-3.html	/^      <span>during the week of&nbsp;<\/span><time datetime="2018-09-28 00:00:00 -0700">September 28, 2018<\/time>$/;"	function	line:53
+h	/Users/stars/Documents/Weiwei/website/weiweihsu.github.io/_site/2018-09-28/weeknote-3.html	/^  <h5 class="post-title">Lost<\/h5>$/;"	function	line:57
+div	/Users/stars/Documents/Weiwei/website/weiweihsu.github.io/_site/2018-09-28/weeknote-3.html	/^  <div class="post-line"><\/div>$/;"	function	line:58
+p	/Users/stars/Documents/Weiwei/website/weiweihsu.github.io/_site/2018-09-28/weeknote-3.html	/^  <p>I feel exponentially lost.<\/p>$/;"	function	line:60
+footer	/Users/stars/Documents/Weiwei/website/weiweihsu.github.io/_site/2018-09-28/weeknote-3.html	/^    <footer>$/;"	function	line:67
+span	/Users/stars/Documents/Weiwei/website/weiweihsu.github.io/_site/2018-09-28/weeknote-3.html	/^      <span>$/;"	function	line:68
+*{-webkit-box-sizing:border-box;-moz-box-sizing:border-box;box-sizing:border-box;line-height:1.5}html,body{color:#555;margin:0;padding:0}html{font-family:"Libre Baskerville","Times New Roman",Times,serif;font-size:14px;overflow-y:scroll}@media (min-width: 600px){html{font-size:16px}}body{-webkit-text-size-adjust:100%}h1,h2,h3,h4,h5,h6{color:#353535;font-family:"Helvetica Neue","Segoe UI",Helvetica,Arial,sans-serif;line-height:normal}a{color:#6328e2;text-decoration:none}blockquote{border-left:0.25rem solid #e5e5e5;color:#979797;margin:.8rem 0;padding:.5rem 1rem}blockquote p:last-child{margin-bottom:0}@media (min-width: 600px){blockquote{padding:0 5rem 0 1.25rem}}img{display:block;margin:0 0 1rem;max-width:100%}td{vertical-align:top}mark{background-color:#6328e2;font-size:1.3rem;font-family:"Helvetica Neue","Segoe UI",Helvetica,Arial,sans-serif;font-weight:700;color:#ffffff;padding:0.2rem 0 0.2rem}.collection{padding:0 0 0 1rem}.article-title{color:#353535;display:block;font-size:1.1rem;font-weight:700;margin:.1rem 0;padding:0 0 0 1rem;font-family:"Libre Baskerville","Times New Roman",Times,serif}.article-title:hover .article-line,.article-title:focus .article-line{width:6rem}.article-title:last-child{border:0}.article-stamp{color:#d3d3d3;font-style:italic;padding:0 0 0 2rem;margin-bottom:-1.5rem}.article-line{-webkit-transition:all 0.3s ease-out;-moz-transition:all 0.3s ease-out;transition:all 0.3s ease-out;border-top:.1rem solid #6328e2;display:block;width:4rem;padding:.3rem 2rem .3rem 0;margin-left:1rem;margin-top:0.2rem}.article-time{color:#aaa;font-family:Palatino,"Palatino LT STD","Palatino Linotype","Book Antiqua","Georgia",serif;letter-spacing:.5px;margin-left:1rem}.article-reading-time{color:#aaa;font-family:Palatino,"Palatino LT STD","Palatino Linotype","Book Antiqua","Georgia",serif;letter-spacing:.5px}pre,code{font-family:Menlo,Monaco,monospace}code{background-color:#f9f9f9;border-radius:3px;color:#bf616a;font-size:85%;padding:.25em .5em}pre{margin:0 0 1rem}pre code{background-color:transparent;color:inherit;font-size:100%;padding:0}.highlight{background-color:#f9f9f9;border-radius:3px;line-height:1.4;margin:0 0 1rem;padding:1rem}.highlight pre{margin-bottom:0;overflow-x:auto}.highlight .lineno{color:#aaa;display:inline-block;padding:0 .75rem 0 .25rem;-webkit-user-select:none;-moz-user-select:none;user-select:none}.post{padding:3rem 0}.post-info{color:#aaa;font-family:Palatino,"Palatino LT STD","Palatino Linotype","Book Antiqua","Georgia",serif;letter-spacing:0.5px;text-align:center}.post-info span{font-style:italic}.post-title{font-size:1.3rem;margin:1rem 0;padding:0.2rem 0.2rem .2rem 0.2rem}.post-line{border-top:0.4rem solid #353535;display:block;margin:0 auto 3rem;width:4rem}.post p{margin:0 0 1rem;text-align:justify}.post a:hover{text-decoration:underline}.post img{margin:0 auto 0.5rem}.post img+em{color:#aaa;display:block;font-family:"Helvetica Neue","Segoe UI",Helvetica,Arial,sans-serif;font-size:0.9rem;font-style:normal;text-align:center}.post img.emoji{display:inline-block;left:0;transform:none;width:1rem;height:1rem;vertical-align:text-top;padding:0;margin:0}.highlight .hll{background-color:#ffc}.highlight .c{color:#999}.highlight .err{color:#a00;background-color:#faa}.highlight .k{color:#069}.highlight .o{color:#555}.highlight .cm{color:#09f;font-style:italic}.highlight .cp{color:#099}.highlight .c1{color:#999}.highlight .cs{color:#999}.highlight .gd{background-color:#fcc;border:1px solid #c00}.highlight .ge{font-style:italic}.highlight .gr{color:red}.highlight .gh{color:#030}.highlight .gi{background-color:#cfc;border:1px solid #0c0}.highlight .go{color:#aaa}.highlight .gp{color:#009}.highlight .gu{color:#030}.highlight .gt{color:#9c6}.highlight .kc{color:#069}.highlight .kd{color:#069}.highlight .kn{color:#069}.highlight .kp{color:#069}.highlight .kr{color:#069}.highlight .kt{color:#078}.highlight .m{color:#f60}.highlight .s{color:#d44950}.highlight .na{color:#4f9fcf}.highlight .nb{color:#366}.highlight .nc{color:#0a8}.highlight .no{color:#360}.highlight .nd{color:#99f}.highlight .ni{color:#999}.highlight .ne{color:#c00}.highlight .nf{color:#c0f}.highlight .nl{color:#99f}.highlight .nn{color:#0cf}.highlight .nt{color:#2f6f9f}.highlight .nv{color:#033}.highlight .ow{color:#000}.highlight .w{color:#bbb}.highlight .mf{color:#f60}.highlight .mh{color:#f60}.highlight .mi{color:#f60}.highlight .mo{color:#f60}.highlight .sb{color:#c30}.highlight .sc{color:#c30}.highlight .sd{color:#c30;font-style:italic}.highlight .s2{color:#c30}.highlight .se{color:#c30}.highlight .sh{color:#c30}.highlight .si{color:#a00}.highlight .sx{color:#c30}.highlight .sr{color:#3aa}.highlight .s1{color:#c30}.highlight .ss{color:#fc3}.highlight .bp{color:#366}.highlight .vc{color:#033}.highlight .vg{color:#033}.highlight .vi{color:#033}.highlight .il{color:#f60}.css .o,.css .o+.nt,.css .nt+.nt{color:#999}.container{margin:0 auto;max-width:800px;width:80%}main,footer,.nav-container{display:block;margin:0 auto;max-width:800px;width:80%}.nav{box-shadow:0 2px 2px -2px rgba(0,0,0,0.2);overflow:auto}.nav-container{margin:1.5rem auto;position:relative;text-align:center}.nav-title{-webkit-transition:all 0.2s ease-out;-moz-transition:all 0.2s ease-out;transition:all 0.2s ease-out;color:#555;display:inline-block;margin:0;padding-right:.2rem}.nav-title:hover,.nav-title:focus{opacity:.6}.nav ul{list-style-type:none;margin:1rem 0 0;padding:0;text-align:center}.nav li{-webkit-transition:all 0.2s ease-out;-moz-transition:all 0.2s ease-out;transition:all 0.2s ease-out;color:#555;display:inline-block;opacity:.6;padding:0 2rem 0 0}.nav li:last-child{padding-right:0}.nav li:hover,.nav li:focus{opacity:1}.nav a{color:#6328e2;font-family:"Helvetica Neue","Segoe UI",Helvetica,Arial,sans-serif}@media (min-width: 600px){.nav-container{text-align:left}.nav ul{bottom:0;position:absolute;right:0}}footer{font-family:Palatino,"Palatino LT STD","Palatino Linotype","Book Antiqua","Georgia",serif;padding:2rem 0;text-align:center}footer span{color:#555;font-size:.8rem}.pagination{border-top:0.5px solid #e5e5e5;font-family:Palatino,"Palatino LT STD","Palatino Linotype","Book Antiqua","Georgia",serif;padding-top:2rem;position:relative;text-align:center}.pagination span{color:#353535;font-size:1.1rem}.pagination .top{-webkit-transition:all 0.3s ease-out;-moz-transition:all 0.3s ease-out;transition:all 0.3s ease-out;color:#555;font-family:"Helvetica Neue","Segoe UI",Helvetica,Arial,sans-serif;font-size:1.1rem;opacity:.6}.pagination .top:hover{opacity:1}.pagination .arrow{-webkit-transition:all 0.3s ease-out;-moz-transition:all 0.3s ease-out;transition:all 0.3s ease-out;color:#555;position:absolute}.pagination .arrow:hover,.pagination .arrow:focus{opacity:.6;text-decoration:none}.pagination .left{left:0}.pagination .right{right:0}.catalogue-item{border-bottom:1px solid #e5e5e5;color:#555;display:inline-block;padding:0.8rem 0 0 2rem}.catalogue-item:hover .catalogue-line,.catalogue-item:focus .catalogue-line{width:6rem}.catalogue-item:last-child{border:0}.catalogue-time{color:#aaa;font-family:Palatino,"Palatino LT STD","Palatino Linotype","Book Antiqua","Georgia",serif;letter-spacing:.5px}.catalogue-title{color:#353535;display:block;font-size:1.1rem;font-weight:700;margin:.3rem 0;font-family:"Libre Baskerville","Times New Roman",Times,serif}.catalogue-line	/Users/stars/Documents/Weiwei/website/weiweihsu.github.io/_site/assets/main.css	/^*{-webkit-box-sizing:border-box;-moz-box-sizing:border-box;box-sizing:border-box;line-height:1.5}html,body{color:#555;margin:0;padding:0}html{font-family:"Libre Baskerville","Times New Roman",Times,serif;font-size:14px;overflow-y:scroll}@media (min-width: 600px){html{font-size:16px}}body{-webkit-text-size-adjust:100%}h1,h2,h3,h4,h5,h6{color:#353535;font-family:"Helvetica Neue","Segoe UI",Helvetica,Arial,sans-serif;line-height:normal}a{color:#6328e2;text-decoration:none}blockquote{border-left:0.25rem solid #e5e5e5;color:#979797;margin:.8rem 0;padding:.5rem 1rem}blockquote p:last-child{margin-bottom:0}@media (min-width: 600px){blockquote{padding:0 5rem 0 1.25rem}}img{display:block;margin:0 0 1rem;max-width:100%}td{vertical-align:top}mark{background-color:#6328e2;font-size:1.3rem;font-family:"Helvetica Neue","Segoe UI",Helvetica,Arial,sans-serif;font-weight:700;color:#ffffff;padding:0.2rem 0 0.2rem}.collection{padding:0 0 0 1rem}.article-title{color:#353535;display:block;font-size:1.1rem;font-weight:700;margin:.1rem 0;padding:0 0 0 1rem;font-family:"Libre Baskerville","Times New Roman",Times,serif}.article-title:hover .article-line,.article-title:focus .article-line{width:6rem}.article-title:last-child{border:0}.article-stamp{color:#d3d3d3;font-style:italic;padding:0 0 0 2rem;margin-bottom:-1.5rem}.article-line{-webkit-transition:all 0.3s ease-out;-moz-transition:all 0.3s ease-out;transition:all 0.3s ease-out;border-top:.1rem solid #6328e2;display:block;width:4rem;padding:.3rem 2rem .3rem 0;margin-left:1rem;margin-top:0.2rem}.article-time{color:#aaa;font-family:Palatino,"Palatino LT STD","Palatino Linotype","Book Antiqua","Georgia",serif;letter-spacing:.5px;margin-left:1rem}.article-reading-time{color:#aaa;font-family:Palatino,"Palatino LT STD","Palatino Linotype","Book Antiqua","Georgia",serif;letter-spacing:.5px}pre,code{font-family:Menlo,Monaco,monospace}code{background-color:#f9f9f9;border-radius:3px;color:#bf616a;font-size:85%;padding:.25em .5em}pre{margin:0 0 1rem}pre code{background-color:transparent;color:inherit;font-size:100%;padding:0}.highlight{background-color:#f9f9f9;border-radius:3px;line-height:1.4;margin:0 0 1rem;padding:1rem}.highlight pre{margin-bottom:0;overflow-x:auto}.highlight .lineno{color:#aaa;display:inline-block;padding:0 .75rem 0 .25rem;-webkit-user-select:none;-moz-user-select:none;user-select:none}.post{padding:3rem 0}.post-info{color:#aaa;font-family:Palatino,"Palatino LT STD","Palatino Linotype","Book Antiqua","Georgia",serif;letter-spacing:0.5px;text-align:center}.post-info span{font-style:italic}.post-title{font-size:1.3rem;margin:1rem 0;padding:0.2rem 0.2rem .2rem 0.2rem}.post-line{border-top:0.4rem solid #353535;display:block;margin:0 auto 3rem;width:4rem}.post p{margin:0 0 1rem;text-align:justify}.post a:hover{text-decoration:underline}.post img{margin:0 auto 0.5rem}.post img+em{color:#aaa;display:block;font-family:"Helvetica Neue","Segoe UI",Helvetica,Arial,sans-serif;font-size:0.9rem;font-style:normal;text-align:center}.post img.emoji{display:inline-block;left:0;transform:none;width:1rem;height:1rem;vertical-align:text-top;padding:0;margin:0}.highlight .hll{background-color:#ffc}.highlight .c{color:#999}.highlight .err{color:#a00;background-color:#faa}.highlight .k{color:#069}.highlight .o{color:#555}.highlight .cm{color:#09f;font-style:italic}.highlight .cp{color:#099}.highlight .c1{color:#999}.highlight .cs{color:#999}.highlight .gd{background-color:#fcc;border:1px solid #c00}.highlight .ge{font-style:italic}.highlight .gr{color:red}.highlight .gh{color:#030}.highlight .gi{background-color:#cfc;border:1px solid #0c0}.highlight .go{color:#aaa}.highlight .gp{color:#009}.highlight .gu{color:#030}.highlight .gt{color:#9c6}.highlight .kc{color:#069}.highlight .kd{color:#069}.highlight .kn{color:#069}.highlight .kp{color:#069}.highlight .kr{color:#069}.highlight .kt{color:#078}.highlight .m{color:#f60}.highlight .s{color:#d44950}.highlight .na{color:#4f9fcf}.highlight .nb{color:#366}.highlight .nc{color:#0a8}.highlight .no{color:#360}.highlight .nd{color:#99f}.highlight .ni{color:#999}.highlight .ne{color:#c00}.highlight .nf{color:#c0f}.highlight .nl{color:#99f}.highlight .nn{color:#0cf}.highlight .nt{color:#2f6f9f}.highlight .nv{color:#033}.highlight .ow{color:#000}.highlight .w{color:#bbb}.highlight .mf{color:#f60}.highlight .mh{color:#f60}.highlight .mi{color:#f60}.highlight .mo{color:#f60}.highlight .sb{color:#c30}.highlight .sc{color:#c30}.highlight .sd{color:#c30;font-style:italic}.highlight .s2{color:#c30}.highlight .se{color:#c30}.highlight .sh{color:#c30}.highlight .si{color:#a00}.highlight .sx{color:#c30}.highlight .sr{color:#3aa}.highlight .s1{color:#c30}.highlight .ss{color:#fc3}.highlight .bp{color:#366}.highlight .vc{color:#033}.highlight .vg{color:#033}.highlight .vi{color:#033}.highlight .il{color:#f60}.css .o,.css .o+.nt,.css .nt+.nt{color:#999}.container{margin:0 auto;max-width:800px;width:80%}main,footer,.nav-container{display:block;margin:0 auto;max-width:800px;width:80%}.nav{box-shadow:0 2px 2px -2px rgba(0,0,0,0.2);overflow:auto}.nav-container{margin:1.5rem auto;position:relative;text-align:center}.nav-title{-webkit-transition:all 0.2s ease-out;-moz-transition:all 0.2s ease-out;transition:all 0.2s ease-out;color:#555;display:inline-block;margin:0;padding-right:.2rem}.nav-title:hover,.nav-title:focus{opacity:.6}.nav ul{list-style-type:none;margin:1rem 0 0;padding:0;text-align:center}.nav li{-webkit-transition:all 0.2s ease-out;-moz-transition:all 0.2s ease-out;transition:all 0.2s ease-out;color:#555;display:inline-block;opacity:.6;padding:0 2rem 0 0}.nav li:last-child{padding-right:0}.nav li:hover,.nav li:focus{opacity:1}.nav a{color:#6328e2;font-family:"Helvetica Neue","Segoe UI",Helvetica,Arial,sans-serif}@media (min-width: 600px){.nav-container{text-align:left}.nav ul{bottom:0;position:absolute;right:0}}footer{font-family:Palatino,"Palatino LT STD","Palatino Linotype","Book Antiqua","Georgia",serif;padding:2rem 0;text-align:center}footer span{color:#555;font-size:.8rem}.pagination{border-top:0.5px solid #e5e5e5;font-family:Palatino,"Palatino LT STD","Palatino Linotype","Book Antiqua","Georgia",serif;padding-top:2rem;position:relative;text-align:center}.pagination span{color:#353535;font-size:1.1rem}.pagination .top{-webkit-transition:all 0.3s ease-out;-moz-transition:all 0.3s ease-out;transition:all 0.3s ease-out;color:#555;font-family:"Helvetica Neue","Segoe UI",Helvetica,Arial,sans-serif;font-size:1.1rem;opacity:.6}.pagination .top:hover{opacity:1}.pagination .arrow{-webkit-transition:all 0.3s ease-out;-moz-transition:all 0.3s ease-out;transition:all 0.3s ease-out;color:#555;position:absolute}.pagination .arrow:hover,.pagination .arrow:focus{opacity:.6;text-decoration:none}.pagination .left{left:0}.pagination .right{right:0}.catalogue-item{border-bottom:1px solid #e5e5e5;color:#555;display:inline-block;padding:0.8rem 0 0 2rem}.catalogue-item:hover .catalogue-line,.catalogue-item:focus .catalogue-line{width:6rem}.catalogue-item:last-child{border:0}.catalogue-time{color:#aaa;font-family:Palatino,"Palatino LT STD","Palatino Linotype","Book Antiqua","Georgia",serif;letter-spacing:.5px}.catalogue-title{color:#353535;display:block;font-size:1.1rem;font-weight:700;margin:.3rem 0;font-family:"Libre Baskerville","Times New Roman",Times,serif}.catalogue-line{-webkit-transition:all 0.3s ease-out;-moz-transition:all 0.3s ease-out;transition:all 0.3s ease-out;border-top:.1rem solid #6328e2;display:block;width:4rem}$/;"	function	line:1
+html	/Users/stars/Documents/Weiwei/website/weiweihsu.github.io/_site/pages/weeknotes/page2/index.html	/^<html lang="en">$/;"	function	line:2
+head	/Users/stars/Documents/Weiwei/website/weiweihsu.github.io/_site/pages/weeknotes/page2/index.html	/^  <head>$/;"	function	line:4
+meta	/Users/stars/Documents/Weiwei/website/weiweihsu.github.io/_site/pages/weeknotes/page2/index.html	/^  <meta charset="UTF-8">$/;"	function	line:5
+meta	/Users/stars/Documents/Weiwei/website/weiweihsu.github.io/_site/pages/weeknotes/page2/index.html	/^  <meta name="viewport" content="width=device-width, initial-scale=1.0">$/;"	function	line:6
+meta	/Users/stars/Documents/Weiwei/website/weiweihsu.github.io/_site/pages/weeknotes/page2/index.html	/^    <meta name="description" content="Minimal Jekyll theme for storytellers">$/;"	function	line:8
+title	/Users/stars/Documents/Weiwei/website/weiweihsu.github.io/_site/pages/weeknotes/page2/index.html	/^  <title>$/;"	function	line:11
+link	/Users/stars/Documents/Weiwei/website/weiweihsu.github.io/_site/pages/weeknotes/page2/index.html	/^  <link rel="stylesheet" href="\/tale\/assets\/main.css">$/;"	function	line:18
+link	/Users/stars/Documents/Weiwei/website/weiweihsu.github.io/_site/pages/weeknotes/page2/index.html	/^  <link rel="stylesheet" href="https:\/\/fonts.googleapis.com\/css?family=Libre+Baskerville:400,400i,700">$/;"	function	line:19
+link	/Users/stars/Documents/Weiwei/website/weiweihsu.github.io/_site/pages/weeknotes/page2/index.html	/^  <link rel="icon" type="image\/png" sizes="32x32" href="\/tale\/assets\/favicon-32x32.png">$/;"	function	line:22
+link	/Users/stars/Documents/Weiwei/website/weiweihsu.github.io/_site/pages/weeknotes/page2/index.html	/^  <link rel="icon" type="image\/png" sizes="16x16" href="\/tale\/assets\/favicon-16x16.png">$/;"	function	line:23
+link	/Users/stars/Documents/Weiwei/website/weiweihsu.github.io/_site/pages/weeknotes/page2/index.html	/^  <link rel="apple-touch-icon" sizes="180x180" href="\/tale\/assets\/apple-touch-icon.png">$/;"	function	line:24
+link	/Users/stars/Documents/Weiwei/website/weiweihsu.github.io/_site/pages/weeknotes/page2/index.html	/^  <link type="application\/atom+xml" rel="alternate" href="http:\/\/localhost:4000\/tale\/feed.xml" title="Weiwei Hsu" \/>$/;"	function	line:27
+body	/Users/stars/Documents/Weiwei/website/weiweihsu.github.io/_site/pages/weeknotes/page2/index.html	/^  <body>$/;"	function	line:31
+nav	/Users/stars/Documents/Weiwei/website/weiweihsu.github.io/_site/pages/weeknotes/page2/index.html	/^    <nav class="nav">$/;"	function	line:32
+div	/Users/stars/Documents/Weiwei/website/weiweihsu.github.io/_site/pages/weeknotes/page2/index.html	/^      <div class="nav-container">$/;"	function	line:33
+a	/Users/stars/Documents/Weiwei/website/weiweihsu.github.io/_site/pages/weeknotes/page2/index.html	/^        <a href="\/tale\/">$/;"	function	line:34
+h	/Users/stars/Documents/Weiwei/website/weiweihsu.github.io/_site/pages/weeknotes/page2/index.html	/^          <h2 class="nav-title">Weiwei Hsu<\/h2>$/;"	function	line:35
+ul	/Users/stars/Documents/Weiwei/website/weiweihsu.github.io/_site/pages/weeknotes/page2/index.html	/^        <ul>$/;"	function	line:37
+li	/Users/stars/Documents/Weiwei/website/weiweihsu.github.io/_site/pages/weeknotes/page2/index.html	/^          <li><a href="\/tale\/weeknotes">Weeknotes<\/a><\/li>$/;"	function	line:38
+li	/Users/stars/Documents/Weiwei/website/weiweihsu.github.io/_site/pages/weeknotes/page2/index.html	/^          <li><a href="\/tale\/collection\/">Collection<\/a><\/li>$/;"	function	line:39
+li	/Users/stars/Documents/Weiwei/website/weiweihsu.github.io/_site/pages/weeknotes/page2/index.html	/^          <li><a href="\/tale\/about">About<\/a><\/li>$/;"	function	line:40
+main	/Users/stars/Documents/Weiwei/website/weiweihsu.github.io/_site/pages/weeknotes/page2/index.html	/^    <main>$/;"	function	line:45
+div	/Users/stars/Documents/Weiwei/website/weiweihsu.github.io/_site/pages/weeknotes/page2/index.html	/^      <div class="post">$/;"	function	line:46
+div	/Users/stars/Documents/Weiwei/website/weiweihsu.github.io/_site/pages/weeknotes/page2/index.html	/^<div class="post-line"><\/div>$/;"	function	line:48
+br	/Users/stars/Documents/Weiwei/website/weiweihsu.github.io/_site/pages/weeknotes/page2/index.html	/^<br><br>$/;"	function	line:52
+br	/Users/stars/Documents/Weiwei/website/weiweihsu.github.io/_site/pages/weeknotes/page2/index.html	/^<br><br>$/;"	function	line:56
+br	/Users/stars/Documents/Weiwei/website/weiweihsu.github.io/_site/pages/weeknotes/page2/index.html	/^<br><br>$/;"	function	line:60
+div	/Users/stars/Documents/Weiwei/website/weiweihsu.github.io/_site/pages/weeknotes/page2/index.html	/^<div class="pagination">$/;"	function	line:67
+mark	/Users/stars/Documents/Weiwei/website/weiweihsu.github.io/_site/pages/weeknotes/page2/index.html	/^<mark> &nbsp Blog &nbsp  <\/mark>$/;"	function	line:70
+br	/Users/stars/Documents/Weiwei/website/weiweihsu.github.io/_site/pages/weeknotes/page2/index.html	/^<br> <br>$/;"	function	line:71
+div	/Users/stars/Documents/Weiwei/website/weiweihsu.github.io/_site/pages/weeknotes/page2/index.html	/^<div class="article">$/;"	function	line:72
+a	/Users/stars/Documents/Weiwei/website/weiweihsu.github.io/_site/pages/weeknotes/page2/index.html	/^      <a href="https:\/\/medium.com\/@speculatvglitch\/designing-for-aclu-norcal-behind-the-scenes-10bba4e2f99f" class="article-title">$/;"	function	line:77
+h	/Users/stars/Documents/Weiwei/website/weiweihsu.github.io/_site/pages/weeknotes/page2/index.html	/^          <h1 class="article-title">Designing for ACLU NorCal -- Behind the Scenes ↗<\/h1>$/;"	function	line:79
+div	/Users/stars/Documents/Weiwei/website/weiweihsu.github.io/_site/pages/weeknotes/page2/index.html	/^          <div class="article-line"><\/div>$/;"	function	line:80
+time	/Users/stars/Documents/Weiwei/website/weiweihsu.github.io/_site/pages/weeknotes/page2/index.html	/^          <time datetime="2018-06-20 00:00:00 -0700" class="article-time">June 20, 2018<\/time>$/;"	function	line:81
+time	/Users/stars/Documents/Weiwei/website/weiweihsu.github.io/_site/pages/weeknotes/page2/index.html	/^          <time class="article-reading-time">• 6min <\/time>$/;"	function	line:82
+br	/Users/stars/Documents/Weiwei/website/weiweihsu.github.io/_site/pages/weeknotes/page2/index.html	/^      <br>$/;"	function	line:84
+a	/Users/stars/Documents/Weiwei/website/weiweihsu.github.io/_site/pages/weeknotes/page2/index.html	/^      <a href="https:\/\/blog.usejournal.com\/behind-ccas-unofficial-mascot-da63d68f15c" class="article-title">$/;"	function	line:91
+h	/Users/stars/Documents/Weiwei/website/weiweihsu.github.io/_site/pages/weeknotes/page2/index.html	/^          <h1 class="article-title">Behind CCA’s Unofficial Mascot ↗<\/h1>$/;"	function	line:93
+div	/Users/stars/Documents/Weiwei/website/weiweihsu.github.io/_site/pages/weeknotes/page2/index.html	/^          <div class="article-line"><\/div>$/;"	function	line:94
+time	/Users/stars/Documents/Weiwei/website/weiweihsu.github.io/_site/pages/weeknotes/page2/index.html	/^          <time datetime="2018-01-26 00:00:00 -0800" class="article-time">January 26, 2018<\/time>$/;"	function	line:95
+time	/Users/stars/Documents/Weiwei/website/weiweihsu.github.io/_site/pages/weeknotes/page2/index.html	/^          <time class="article-reading-time">• 12min <\/time>$/;"	function	line:96
+br	/Users/stars/Documents/Weiwei/website/weiweihsu.github.io/_site/pages/weeknotes/page2/index.html	/^      <br>$/;"	function	line:98
+a	/Users/stars/Documents/Weiwei/website/weiweihsu.github.io/_site/pages/weeknotes/page2/index.html	/^      <a href="https:\/\/medium.com\/our-ten-year-commute\/putting-band-aids-on-the-digital-landscape-f36c9d74b4b6" class="article-title">$/;"	function	line:105
+h	/Users/stars/Documents/Weiwei/website/weiweihsu.github.io/_site/pages/weeknotes/page2/index.html	/^          <h1 class="article-title">Putting Band-Aids on the Digital Landscape ↗<\/h1>$/;"	function	line:107
+div	/Users/stars/Documents/Weiwei/website/weiweihsu.github.io/_site/pages/weeknotes/page2/index.html	/^          <div class="article-line"><\/div>$/;"	function	line:108
+time	/Users/stars/Documents/Weiwei/website/weiweihsu.github.io/_site/pages/weeknotes/page2/index.html	/^          <time datetime="2017-12-13 00:00:00 -0800" class="article-time">December 13, 2017<\/time>$/;"	function	line:109
+time	/Users/stars/Documents/Weiwei/website/weiweihsu.github.io/_site/pages/weeknotes/page2/index.html	/^          <time class="article-reading-time">• 5min <\/time>$/;"	function	line:110
+br	/Users/stars/Documents/Weiwei/website/weiweihsu.github.io/_site/pages/weeknotes/page2/index.html	/^      <br>$/;"	function	line:112
+a	/Users/stars/Documents/Weiwei/website/weiweihsu.github.io/_site/pages/weeknotes/page2/index.html	/^      <a href="https:\/\/medium.com\/cca-interaction-design-thesis\/do-your-apps-have-an-expiration-date-b71487f1cb8f" class="article-title">$/;"	function	line:119
+h	/Users/stars/Documents/Weiwei/website/weiweihsu.github.io/_site/pages/weeknotes/page2/index.html	/^          <h1 class="article-title">Do Your Apps Have an Expiration Date? ↗<\/h1>$/;"	function	line:121
+div	/Users/stars/Documents/Weiwei/website/weiweihsu.github.io/_site/pages/weeknotes/page2/index.html	/^          <div class="article-line"><\/div>$/;"	function	line:122
+time	/Users/stars/Documents/Weiwei/website/weiweihsu.github.io/_site/pages/weeknotes/page2/index.html	/^          <time datetime="2017-09-29 00:00:00 -0700" class="article-time">September 29, 2017<\/time>$/;"	function	line:123
+time	/Users/stars/Documents/Weiwei/website/weiweihsu.github.io/_site/pages/weeknotes/page2/index.html	/^          <time class="article-reading-time">• 6min <\/time>$/;"	function	line:124
+br	/Users/stars/Documents/Weiwei/website/weiweihsu.github.io/_site/pages/weeknotes/page2/index.html	/^      <br>$/;"	function	line:126
+a	/Users/stars/Documents/Weiwei/website/weiweihsu.github.io/_site/pages/weeknotes/page2/index.html	/^      <a href="https:\/\/medium.com\/cca-interaction-design-thesis\/theres-something-to-be-done-8e6abd7a8028" class="article-title">$/;"	function	line:133
+h	/Users/stars/Documents/Weiwei/website/weiweihsu.github.io/_site/pages/weeknotes/page2/index.html	/^          <h1 class="article-title">There's Something to be Done ↗<\/h1>$/;"	function	line:135
+div	/Users/stars/Documents/Weiwei/website/weiweihsu.github.io/_site/pages/weeknotes/page2/index.html	/^          <div class="article-line"><\/div>$/;"	function	line:136
+time	/Users/stars/Documents/Weiwei/website/weiweihsu.github.io/_site/pages/weeknotes/page2/index.html	/^          <time datetime="2017-09-15 00:00:00 -0700" class="article-time">September 15, 2017<\/time>$/;"	function	line:137
+time	/Users/stars/Documents/Weiwei/website/weiweihsu.github.io/_site/pages/weeknotes/page2/index.html	/^          <time class="article-reading-time">• 3min <\/time>$/;"	function	line:138
+br	/Users/stars/Documents/Weiwei/website/weiweihsu.github.io/_site/pages/weeknotes/page2/index.html	/^      <br>$/;"	function	line:140
+div	/Users/stars/Documents/Weiwei/website/weiweihsu.github.io/_site/pages/weeknotes/page2/index.html	/^<div class="pagination">$/;"	function	line:149
+mark	/Users/stars/Documents/Weiwei/website/weiweihsu.github.io/_site/pages/weeknotes/page2/index.html	/^<mark> &nbsp Weeknotes &nbsp <\/mark>$/;"	function	line:154
+div	/Users/stars/Documents/Weiwei/website/weiweihsu.github.io/_site/pages/weeknotes/page2/index.html	/^<div class="catalogue">$/;"	function	line:156
+a	/Users/stars/Documents/Weiwei/website/weiweihsu.github.io/_site/pages/weeknotes/page2/index.html	/^  <a href="\/tale\/2018-10-05\/weeknote-4" class="catalogue-item">$/;"	function	line:159
+div	/Users/stars/Documents/Weiwei/website/weiweihsu.github.io/_site/pages/weeknotes/page2/index.html	/^    <div>$/;"	function	line:160
+h	/Users/stars/Documents/Weiwei/website/weiweihsu.github.io/_site/pages/weeknotes/page2/index.html	/^      <h1 class="catalogue-title">I'm back<\/h1>$/;"	function	line:162
+div	/Users/stars/Documents/Weiwei/website/weiweihsu.github.io/_site/pages/weeknotes/page2/index.html	/^      <div class="catalogue-line"><\/div>$/;"	function	line:163
+p	/Users/stars/Documents/Weiwei/website/weiweihsu.github.io/_site/pages/weeknotes/page2/index.html	/^      <p>$/;"	function	line:165
+a	/Users/stars/Documents/Weiwei/website/weiweihsu.github.io/_site/pages/weeknotes/page2/index.html	/^  <a href="\/tale\/2018-09-28\/weeknote-3" class="catalogue-item">$/;"	function	line:172
+div	/Users/stars/Documents/Weiwei/website/weiweihsu.github.io/_site/pages/weeknotes/page2/index.html	/^    <div>$/;"	function	line:173
+h	/Users/stars/Documents/Weiwei/website/weiweihsu.github.io/_site/pages/weeknotes/page2/index.html	/^      <h1 class="catalogue-title">Lost<\/h1>$/;"	function	line:175
+div	/Users/stars/Documents/Weiwei/website/weiweihsu.github.io/_site/pages/weeknotes/page2/index.html	/^      <div class="catalogue-line"><\/div>$/;"	function	line:176
+p	/Users/stars/Documents/Weiwei/website/weiweihsu.github.io/_site/pages/weeknotes/page2/index.html	/^      <p>$/;"	function	line:178
+a	/Users/stars/Documents/Weiwei/website/weiweihsu.github.io/_site/pages/weeknotes/page2/index.html	/^  <a href="\/tale\/2018-09-21\/weeknote-2" class="catalogue-item">$/;"	function	line:186
+div	/Users/stars/Documents/Weiwei/website/weiweihsu.github.io/_site/pages/weeknotes/page2/index.html	/^    <div>$/;"	function	line:187
+h	/Users/stars/Documents/Weiwei/website/weiweihsu.github.io/_site/pages/weeknotes/page2/index.html	/^      <h1 class="catalogue-title">Architecture, Cedric Price<\/h1>$/;"	function	line:189
+div	/Users/stars/Documents/Weiwei/website/weiweihsu.github.io/_site/pages/weeknotes/page2/index.html	/^      <div class="catalogue-line"><\/div>$/;"	function	line:190
+p	/Users/stars/Documents/Weiwei/website/weiweihsu.github.io/_site/pages/weeknotes/page2/index.html	/^      <p>$/;"	function	line:192
+a	/Users/stars/Documents/Weiwei/website/weiweihsu.github.io/_site/pages/weeknotes/page2/index.html	/^    <a href="\/tale\/2018-01-26\/behind-cca-unofficial-mascot" class="catalogue-item">$/;"	function	line:202
+div	/Users/stars/Documents/Weiwei/website/weiweihsu.github.io/_site/pages/weeknotes/page2/index.html	/^      <div>$/;"	function	line:203
+time	/Users/stars/Documents/Weiwei/website/weiweihsu.github.io/_site/pages/weeknotes/page2/index.html	/^        <time datetime="2018-01-26 00:00:00 -0800" class="catalogue-time">January 26, 2018<\/time>$/;"	function	line:204
+h	/Users/stars/Documents/Weiwei/website/weiweihsu.github.io/_site/pages/weeknotes/page2/index.html	/^        <h5 class="catalogue-title">Behind CCA’s Unofficial Mascot<\/h5>$/;"	function	line:205
+div	/Users/stars/Documents/Weiwei/website/weiweihsu.github.io/_site/pages/weeknotes/page2/index.html	/^        <div class="catalogue-line"><\/div>$/;"	function	line:206
+p	/Users/stars/Documents/Weiwei/website/weiweihsu.github.io/_site/pages/weeknotes/page2/index.html	/^        <p>$/;"	function	line:208
+div	/Users/stars/Documents/Weiwei/website/weiweihsu.github.io/_site/pages/weeknotes/page2/index.html	/^<div class="pagination">$/;"	function	line:218
+footer	/Users/stars/Documents/Weiwei/website/weiweihsu.github.io/_site/pages/weeknotes/page2/index.html	/^    <footer>$/;"	function	line:223
+span	/Users/stars/Documents/Weiwei/website/weiweihsu.github.io/_site/pages/weeknotes/page2/index.html	/^      <span>$/;"	function	line:224
+html	/Users/stars/Documents/Weiwei/website/weiweihsu.github.io/_site/2017-09-15/there's-something-to-be-done.html	/^<html lang="en">$/;"	function	line:2
+head	/Users/stars/Documents/Weiwei/website/weiweihsu.github.io/_site/2017-09-15/there's-something-to-be-done.html	/^  <head>$/;"	function	line:4
+meta	/Users/stars/Documents/Weiwei/website/weiweihsu.github.io/_site/2017-09-15/there's-something-to-be-done.html	/^  <meta charset="UTF-8">$/;"	function	line:5
+meta	/Users/stars/Documents/Weiwei/website/weiweihsu.github.io/_site/2017-09-15/there's-something-to-be-done.html	/^  <meta name="viewport" content="width=device-width, initial-scale=1.0">$/;"	function	line:6
+title	/Users/stars/Documents/Weiwei/website/weiweihsu.github.io/_site/2017-09-15/there's-something-to-be-done.html	/^  <title>$/;"	function	line:9
+link	/Users/stars/Documents/Weiwei/website/weiweihsu.github.io/_site/2017-09-15/there's-something-to-be-done.html	/^  <link rel="stylesheet" href="\/tale\/assets\/main.css">$/;"	function	line:16
+link	/Users/stars/Documents/Weiwei/website/weiweihsu.github.io/_site/2017-09-15/there's-something-to-be-done.html	/^  <link rel="stylesheet" href="https:\/\/fonts.googleapis.com\/css?family=Libre+Baskerville:400,400i,700">$/;"	function	line:17
+link	/Users/stars/Documents/Weiwei/website/weiweihsu.github.io/_site/2017-09-15/there's-something-to-be-done.html	/^  <link rel="icon" type="image\/png" sizes="32x32" href="\/tale\/assets\/favicon-32x32.png">$/;"	function	line:20
+link	/Users/stars/Documents/Weiwei/website/weiweihsu.github.io/_site/2017-09-15/there's-something-to-be-done.html	/^  <link rel="icon" type="image\/png" sizes="16x16" href="\/tale\/assets\/favicon-16x16.png">$/;"	function	line:21
+link	/Users/stars/Documents/Weiwei/website/weiweihsu.github.io/_site/2017-09-15/there's-something-to-be-done.html	/^  <link rel="apple-touch-icon" sizes="180x180" href="\/tale\/assets\/apple-touch-icon.png">$/;"	function	line:22
+link	/Users/stars/Documents/Weiwei/website/weiweihsu.github.io/_site/2017-09-15/there's-something-to-be-done.html	/^  <link type="application\/atom+xml" rel="alternate" href="http:\/\/localhost:4000\/tale\/feed.xml" title="Weiwei Hsu" \/>$/;"	function	line:25
+body	/Users/stars/Documents/Weiwei/website/weiweihsu.github.io/_site/2017-09-15/there's-something-to-be-done.html	/^  <body>$/;"	function	line:29
+nav	/Users/stars/Documents/Weiwei/website/weiweihsu.github.io/_site/2017-09-15/there's-something-to-be-done.html	/^    <nav class="nav">$/;"	function	line:30
+div	/Users/stars/Documents/Weiwei/website/weiweihsu.github.io/_site/2017-09-15/there's-something-to-be-done.html	/^      <div class="nav-container">$/;"	function	line:31
+a	/Users/stars/Documents/Weiwei/website/weiweihsu.github.io/_site/2017-09-15/there's-something-to-be-done.html	/^        <a href="\/tale\/">$/;"	function	line:32
+h	/Users/stars/Documents/Weiwei/website/weiweihsu.github.io/_site/2017-09-15/there's-something-to-be-done.html	/^          <h2 class="nav-title">Weiwei Hsu<\/h2>$/;"	function	line:33
+ul	/Users/stars/Documents/Weiwei/website/weiweihsu.github.io/_site/2017-09-15/there's-something-to-be-done.html	/^        <ul>$/;"	function	line:35
+li	/Users/stars/Documents/Weiwei/website/weiweihsu.github.io/_site/2017-09-15/there's-something-to-be-done.html	/^          <li><a href="\/tale\/weeknotes">Weeknotes<\/a><\/li>$/;"	function	line:36
+li	/Users/stars/Documents/Weiwei/website/weiweihsu.github.io/_site/2017-09-15/there's-something-to-be-done.html	/^          <li><a href="\/tale\/collection\/">Collection<\/a><\/li>$/;"	function	line:37
+li	/Users/stars/Documents/Weiwei/website/weiweihsu.github.io/_site/2017-09-15/there's-something-to-be-done.html	/^          <li><a href="\/tale\/about">About<\/a><\/li>$/;"	function	line:38
+main	/Users/stars/Documents/Weiwei/website/weiweihsu.github.io/_site/2017-09-15/there's-something-to-be-done.html	/^    <main>$/;"	function	line:43
+div	/Users/stars/Documents/Weiwei/website/weiweihsu.github.io/_site/2017-09-15/there's-something-to-be-done.html	/^      <div class="post">$/;"	function	line:44
+div	/Users/stars/Documents/Weiwei/website/weiweihsu.github.io/_site/2017-09-15/there's-something-to-be-done.html	/^  <div class="post-info">$/;"	function	line:45
+br	/Users/stars/Documents/Weiwei/website/weiweihsu.github.io/_site/2017-09-15/there's-something-to-be-done.html	/^      <br>$/;"	function	line:52
+span	/Users/stars/Documents/Weiwei/website/weiweihsu.github.io/_site/2017-09-15/there's-something-to-be-done.html	/^      <span>during the week of&nbsp;<\/span><time datetime="2017-09-15 00:00:00 -0700">September 15, 2017<\/time>$/;"	function	line:53
+h	/Users/stars/Documents/Weiwei/website/weiweihsu.github.io/_site/2017-09-15/there's-something-to-be-done.html	/^  <h5 class="post-title">There's Something to be Done<\/h5>$/;"	function	line:57
+div	/Users/stars/Documents/Weiwei/website/weiweihsu.github.io/_site/2017-09-15/there's-something-to-be-done.html	/^  <div class="post-line"><\/div>$/;"	function	line:58
+footer	/Users/stars/Documents/Weiwei/website/weiweihsu.github.io/_site/2017-09-15/there's-something-to-be-done.html	/^    <footer>$/;"	function	line:67
+span	/Users/stars/Documents/Weiwei/website/weiweihsu.github.io/_site/2017-09-15/there's-something-to-be-done.html	/^      <span>$/;"	function	line:68
+title	/Users/stars/Documents/Weiwei/website/weiweihsu.github.io/_config.yml	/^title:          Weiwei Hsu$/;"	function	line:2
+description	/Users/stars/Documents/Weiwei/website/weiweihsu.github.io/_config.yml	/^description:    "Minimal Jekyll theme for storytellers"$/;"	function	line:3
+url	/Users/stars/Documents/Weiwei/website/weiweihsu.github.io/_config.yml	/^url:            "https:\/\/weiweihsu.github.io"$/;"	function	line:4
+baseurl	/Users/stars/Documents/Weiwei/website/weiweihsu.github.io/_config.yml	/^baseurl:        "\/tale"$/;"	function	line:5
+author	/Users/stars/Documents/Weiwei/website/weiweihsu.github.io/_config.yml	/^author:$/;"	function	line:8
+name	/Users/stars/Documents/Weiwei/website/weiweihsu.github.io/_config.yml	/^  name:         Weiwei$/;"	function	line:9
+url	/Users/stars/Documents/Weiwei/website/weiweihsu.github.io/_config.yml	/^  url:          https:\/\/weiweihsu.com$/;"	function	line:10
+email	/Users/stars/Documents/Weiwei/website/weiweihsu.github.io/_config.yml	/^  email:        wei@weiweihsu.com$/;"	function	line:11
+drink	/Users/stars/Documents/Weiwei/website/weiweihsu.github.io/_config.yml	/^  drink:        water$/;"	function	line:12
+markdown	/Users/stars/Documents/Weiwei/website/weiweihsu.github.io/_config.yml	/^markdown:       kramdown$/;"	function	line:15
+sass	/Users/stars/Documents/Weiwei/website/weiweihsu.github.io/_config.yml	/^sass:$/;"	function	line:18
+sass_dir	/Users/stars/Documents/Weiwei/website/weiweihsu.github.io/_config.yml	/^  sass_dir:     _sass$/;"	function	line:19
+style	/Users/stars/Documents/Weiwei/website/weiweihsu.github.io/_config.yml	/^  style:        compressed$/;"	function	line:20
+plugins	/Users/stars/Documents/Weiwei/website/weiweihsu.github.io/_config.yml	/^plugins:$/;"	function	line:23
+permalink	/Users/stars/Documents/Weiwei/website/weiweihsu.github.io/_config.yml	/^permalink:      \/:year-:month-:day\/:title$/;"	function	line:29
+paginate	/Users/stars/Documents/Weiwei/website/weiweihsu.github.io/_config.yml	/^paginate:       5$/;"	function	line:30
+paginate_path	/Users/stars/Documents/Weiwei/website/weiweihsu.github.io/_config.yml	/^paginate_path: "pages\/weeknotes\/page:num\/"$/;"	function	line:31
+collections	/Users/stars/Documents/Weiwei/website/weiweihsu.github.io/_config.yml	/^collections:$/;"	function	line:34
+pre	/Users/stars/Documents/Weiwei/website/weiweihsu.github.io/_sass/tale/_code.scss	/^pre,$/;"	function	line:1
+code	/Users/stars/Documents/Weiwei/website/weiweihsu.github.io/_sass/tale/_code.scss	/^code {$/;"	function	line:2
+code	/Users/stars/Documents/Weiwei/website/weiweihsu.github.io/_sass/tale/_code.scss	/^code {$/;"	function	line:6
+pre	/Users/stars/Documents/Weiwei/website/weiweihsu.github.io/_sass/tale/_code.scss	/^pre {$/;"	function	line:14
+pre code	/Users/stars/Documents/Weiwei/website/weiweihsu.github.io/_sass/tale/_code.scss	/^pre code {$/;"	function	line:18
+.highlight	/Users/stars/Documents/Weiwei/website/weiweihsu.github.io/_sass/tale/_code.scss	/^.highlight {$/;"	function	line:25
+pre	/Users/stars/Documents/Weiwei/website/weiweihsu.github.io/_sass/tale/_code.scss	/^  pre {$/;"	function	line:32
+.lineno	/Users/stars/Documents/Weiwei/website/weiweihsu.github.io/_sass/tale/_code.scss	/^  .lineno {$/;"	function	line:37
+default-color	/Users/stars/Documents/Weiwei/website/weiweihsu.github.io/_sass/tale/_variables.scss	/^$default-color: #555;$/;"	function	line:2
+default-shade	/Users/stars/Documents/Weiwei/website/weiweihsu.github.io/_sass/tale/_variables.scss	/^$default-shade: #353535;$/;"	function	line:3
+default-tint	/Users/stars/Documents/Weiwei/website/weiweihsu.github.io/_sass/tale/_variables.scss	/^$default-tint: #aaa;$/;"	function	line:4
+grey-1	/Users/stars/Documents/Weiwei/website/weiweihsu.github.io/_sass/tale/_variables.scss	/^$grey-1: #979797;$/;"	function	line:5
+grey-2	/Users/stars/Documents/Weiwei/website/weiweihsu.github.io/_sass/tale/_variables.scss	/^$grey-2: #e5e5e5;$/;"	function	line:6
+grey-3	/Users/stars/Documents/Weiwei/website/weiweihsu.github.io/_sass/tale/_variables.scss	/^$grey-3: #f9f9f9;$/;"	function	line:7
+white	/Users/stars/Documents/Weiwei/website/weiweihsu.github.io/_sass/tale/_variables.scss	/^$white: #fff;$/;"	function	line:8
+blue	/Users/stars/Documents/Weiwei/website/weiweihsu.github.io/_sass/tale/_variables.scss	/^$blue: #4a9ae1;$/;"	function	line:9
+shadow-color	/Users/stars/Documents/Weiwei/website/weiweihsu.github.io/_sass/tale/_variables.scss	/^$shadow-color: rgba(0, 0, 0, .2);$/;"	function	line:10
+code-color	/Users/stars/Documents/Weiwei/website/weiweihsu.github.io/_sass/tale/_variables.scss	/^$code-color: #bf616a;$/;"	function	line:11
+serif-primary	/Users/stars/Documents/Weiwei/website/weiweihsu.github.io/_sass/tale/_variables.scss	/^$serif-primary: 'Libre Baskerville', 'Times New Roman', Times, serif;$/;"	function	line:14
+serif-secondary	/Users/stars/Documents/Weiwei/website/weiweihsu.github.io/_sass/tale/_variables.scss	/^$serif-secondary: Palatino, 'Palatino LT STD', 'Palatino Linotype', 'Book Antiqua', 'Georgia', serif;$/;"	function	line:15
+sans-serif	/Users/stars/Documents/Weiwei/website/weiweihsu.github.io/_sass/tale/_variables.scss	/^$sans-serif: 'Helvetica Neue', 'Segoe UI', Helvetica, Arial, sans-serif;$/;"	function	line:16
+monospaced	/Users/stars/Documents/Weiwei/website/weiweihsu.github.io/_sass/tale/_variables.scss	/^$monospaced: Menlo, Monaco, monospace;$/;"	function	line:17
+@mixin box-sizing($type: border-box)	/Users/stars/Documents/Weiwei/website/weiweihsu.github.io/_sass/tale/_variables.scss	/^@mixin box-sizing($type: border-box) {$/;"	function	line:19
+@mixin transition($args...)	/Users/stars/Documents/Weiwei/website/weiweihsu.github.io/_sass/tale/_variables.scss	/^@mixin transition($args...) {$/;"	function	line:25
+.highlight .hll	/Users/stars/Documents/Weiwei/website/weiweihsu.github.io/_sass/tale/_syntax.scss	/^.highlight .hll { background-color: #ffc; }$/;"	function	line:1
+.highlight .c	/Users/stars/Documents/Weiwei/website/weiweihsu.github.io/_sass/tale/_syntax.scss	/^.highlight .c { color: #999; } \/* Comment *\/$/;"	function	line:2
+.highlight .err	/Users/stars/Documents/Weiwei/website/weiweihsu.github.io/_sass/tale/_syntax.scss	/^.highlight .err { color: #a00; background-color: #faa } \/* Error *\/$/;"	function	line:3
+.highlight .k	/Users/stars/Documents/Weiwei/website/weiweihsu.github.io/_sass/tale/_syntax.scss	/^.highlight .k { color: #069; } \/* Keyword *\/$/;"	function	line:4
+.highlight .o	/Users/stars/Documents/Weiwei/website/weiweihsu.github.io/_sass/tale/_syntax.scss	/^.highlight .o { color: #555 } \/* Operator *\/$/;"	function	line:5
+.highlight .cm	/Users/stars/Documents/Weiwei/website/weiweihsu.github.io/_sass/tale/_syntax.scss	/^.highlight .cm { color: #09f; font-style: italic } \/* Comment.Multiline *\/$/;"	function	line:6
+.highlight .cp	/Users/stars/Documents/Weiwei/website/weiweihsu.github.io/_sass/tale/_syntax.scss	/^.highlight .cp { color: #099 } \/* Comment.Preproc *\/$/;"	function	line:7
+.highlight .c1	/Users/stars/Documents/Weiwei/website/weiweihsu.github.io/_sass/tale/_syntax.scss	/^.highlight .c1 { color: #999; } \/* Comment.Single *\/$/;"	function	line:8
+.highlight .cs	/Users/stars/Documents/Weiwei/website/weiweihsu.github.io/_sass/tale/_syntax.scss	/^.highlight .cs { color: #999; } \/* Comment.Special *\/$/;"	function	line:9
+.highlight .gd	/Users/stars/Documents/Weiwei/website/weiweihsu.github.io/_sass/tale/_syntax.scss	/^.highlight .gd { background-color: #fcc; border: 1px solid #c00 } \/* Generic.Deleted *\/$/;"	function	line:10
+.highlight .ge	/Users/stars/Documents/Weiwei/website/weiweihsu.github.io/_sass/tale/_syntax.scss	/^.highlight .ge { font-style: italic } \/* Generic.Emph *\/$/;"	function	line:11
+.highlight .gr	/Users/stars/Documents/Weiwei/website/weiweihsu.github.io/_sass/tale/_syntax.scss	/^.highlight .gr { color: #f00 } \/* Generic.Error *\/$/;"	function	line:12
+.highlight .gh	/Users/stars/Documents/Weiwei/website/weiweihsu.github.io/_sass/tale/_syntax.scss	/^.highlight .gh { color: #030; } \/* Generic.Heading *\/$/;"	function	line:13
+.highlight .gi	/Users/stars/Documents/Weiwei/website/weiweihsu.github.io/_sass/tale/_syntax.scss	/^.highlight .gi { background-color: #cfc; border: 1px solid #0c0 } \/* Generic.Inserted *\/$/;"	function	line:14
+.highlight .go	/Users/stars/Documents/Weiwei/website/weiweihsu.github.io/_sass/tale/_syntax.scss	/^.highlight .go { color: #aaa } \/* Generic.Output *\/$/;"	function	line:15
+.highlight .gp	/Users/stars/Documents/Weiwei/website/weiweihsu.github.io/_sass/tale/_syntax.scss	/^.highlight .gp { color: #009; } \/* Generic.Prompt *\/$/;"	function	line:16
+.highlight .gs	/Users/stars/Documents/Weiwei/website/weiweihsu.github.io/_sass/tale/_syntax.scss	/^.highlight .gs { } \/* Generic.Strong *\/$/;"	function	line:17
+.highlight .gu	/Users/stars/Documents/Weiwei/website/weiweihsu.github.io/_sass/tale/_syntax.scss	/^.highlight .gu { color: #030; } \/* Generic.Subheading *\/$/;"	function	line:18
+.highlight .gt	/Users/stars/Documents/Weiwei/website/weiweihsu.github.io/_sass/tale/_syntax.scss	/^.highlight .gt { color: #9c6 } \/* Generic.Traceback *\/$/;"	function	line:19
+.highlight .kc	/Users/stars/Documents/Weiwei/website/weiweihsu.github.io/_sass/tale/_syntax.scss	/^.highlight .kc { color: #069; } \/* Keyword.Constant *\/$/;"	function	line:20
+.highlight .kd	/Users/stars/Documents/Weiwei/website/weiweihsu.github.io/_sass/tale/_syntax.scss	/^.highlight .kd { color: #069; } \/* Keyword.Declaration *\/$/;"	function	line:21
+.highlight .kn	/Users/stars/Documents/Weiwei/website/weiweihsu.github.io/_sass/tale/_syntax.scss	/^.highlight .kn { color: #069; } \/* Keyword.Namespace *\/$/;"	function	line:22
+.highlight .kp	/Users/stars/Documents/Weiwei/website/weiweihsu.github.io/_sass/tale/_syntax.scss	/^.highlight .kp { color: #069 } \/* Keyword.Pseudo *\/$/;"	function	line:23
+.highlight .kr	/Users/stars/Documents/Weiwei/website/weiweihsu.github.io/_sass/tale/_syntax.scss	/^.highlight .kr { color: #069; } \/* Keyword.Reserved *\/$/;"	function	line:24
+.highlight .kt	/Users/stars/Documents/Weiwei/website/weiweihsu.github.io/_sass/tale/_syntax.scss	/^.highlight .kt { color: #078; } \/* Keyword.Type *\/$/;"	function	line:25
+.highlight .m	/Users/stars/Documents/Weiwei/website/weiweihsu.github.io/_sass/tale/_syntax.scss	/^.highlight .m { color: #f60 } \/* Literal.Number *\/$/;"	function	line:26
+.highlight .s	/Users/stars/Documents/Weiwei/website/weiweihsu.github.io/_sass/tale/_syntax.scss	/^.highlight .s { color: #d44950 } \/* Literal.String *\/$/;"	function	line:27
+.highlight .na	/Users/stars/Documents/Weiwei/website/weiweihsu.github.io/_sass/tale/_syntax.scss	/^.highlight .na { color: #4f9fcf } \/* Name.Attribute *\/$/;"	function	line:28
+.highlight .nb	/Users/stars/Documents/Weiwei/website/weiweihsu.github.io/_sass/tale/_syntax.scss	/^.highlight .nb { color: #366 } \/* Name.Builtin *\/$/;"	function	line:29
+.highlight .nc	/Users/stars/Documents/Weiwei/website/weiweihsu.github.io/_sass/tale/_syntax.scss	/^.highlight .nc { color: #0a8; } \/* Name.Class *\/$/;"	function	line:30
+.highlight .no	/Users/stars/Documents/Weiwei/website/weiweihsu.github.io/_sass/tale/_syntax.scss	/^.highlight .no { color: #360 } \/* Name.Constant *\/$/;"	function	line:31
+.highlight .nd	/Users/stars/Documents/Weiwei/website/weiweihsu.github.io/_sass/tale/_syntax.scss	/^.highlight .nd { color: #99f } \/* Name.Decorator *\/$/;"	function	line:32
+.highlight .ni	/Users/stars/Documents/Weiwei/website/weiweihsu.github.io/_sass/tale/_syntax.scss	/^.highlight .ni { color: #999; } \/* Name.Entity *\/$/;"	function	line:33
+.highlight .ne	/Users/stars/Documents/Weiwei/website/weiweihsu.github.io/_sass/tale/_syntax.scss	/^.highlight .ne { color: #c00; } \/* Name.Exception *\/$/;"	function	line:34
+.highlight .nf	/Users/stars/Documents/Weiwei/website/weiweihsu.github.io/_sass/tale/_syntax.scss	/^.highlight .nf { color: #c0f } \/* Name.Function *\/$/;"	function	line:35
+.highlight .nl	/Users/stars/Documents/Weiwei/website/weiweihsu.github.io/_sass/tale/_syntax.scss	/^.highlight .nl { color: #99f } \/* Name.Label *\/$/;"	function	line:36
+.highlight .nn	/Users/stars/Documents/Weiwei/website/weiweihsu.github.io/_sass/tale/_syntax.scss	/^.highlight .nn { color: #0cf; } \/* Name.Namespace *\/$/;"	function	line:37
+.highlight .nt	/Users/stars/Documents/Weiwei/website/weiweihsu.github.io/_sass/tale/_syntax.scss	/^.highlight .nt { color: #2f6f9f; } \/* Name.Tag *\/$/;"	function	line:38
+.highlight .nv	/Users/stars/Documents/Weiwei/website/weiweihsu.github.io/_sass/tale/_syntax.scss	/^.highlight .nv { color: #033 } \/* Name.Variable *\/$/;"	function	line:39
+.highlight .ow	/Users/stars/Documents/Weiwei/website/weiweihsu.github.io/_sass/tale/_syntax.scss	/^.highlight .ow { color: #000; } \/* Operator.Word *\/$/;"	function	line:40
+.highlight .w	/Users/stars/Documents/Weiwei/website/weiweihsu.github.io/_sass/tale/_syntax.scss	/^.highlight .w { color: #bbb } \/* Text.Whitespace *\/$/;"	function	line:41
+.highlight .mf	/Users/stars/Documents/Weiwei/website/weiweihsu.github.io/_sass/tale/_syntax.scss	/^.highlight .mf { color: #f60 } \/* Literal.Number.Float *\/$/;"	function	line:42
+.highlight .mh	/Users/stars/Documents/Weiwei/website/weiweihsu.github.io/_sass/tale/_syntax.scss	/^.highlight .mh { color: #f60 } \/* Literal.Number.Hex *\/$/;"	function	line:43
+.highlight .mi	/Users/stars/Documents/Weiwei/website/weiweihsu.github.io/_sass/tale/_syntax.scss	/^.highlight .mi { color: #f60 } \/* Literal.Number.Integer *\/$/;"	function	line:44
+.highlight .mo	/Users/stars/Documents/Weiwei/website/weiweihsu.github.io/_sass/tale/_syntax.scss	/^.highlight .mo { color: #f60 } \/* Literal.Number.Oct *\/$/;"	function	line:45
+.highlight .sb	/Users/stars/Documents/Weiwei/website/weiweihsu.github.io/_sass/tale/_syntax.scss	/^.highlight .sb { color: #c30 } \/* Literal.String.Backtick *\/$/;"	function	line:46
+.highlight .sc	/Users/stars/Documents/Weiwei/website/weiweihsu.github.io/_sass/tale/_syntax.scss	/^.highlight .sc { color: #c30 } \/* Literal.String.Char *\/$/;"	function	line:47
+.highlight .sd	/Users/stars/Documents/Weiwei/website/weiweihsu.github.io/_sass/tale/_syntax.scss	/^.highlight .sd { color: #c30; font-style: italic } \/* Literal.String.Doc *\/$/;"	function	line:48
+.highlight .s2	/Users/stars/Documents/Weiwei/website/weiweihsu.github.io/_sass/tale/_syntax.scss	/^.highlight .s2 { color: #c30 } \/* Literal.String.Double *\/$/;"	function	line:49
+.highlight .se	/Users/stars/Documents/Weiwei/website/weiweihsu.github.io/_sass/tale/_syntax.scss	/^.highlight .se { color: #c30; } \/* Literal.String.Escape *\/$/;"	function	line:50
+.highlight .sh	/Users/stars/Documents/Weiwei/website/weiweihsu.github.io/_sass/tale/_syntax.scss	/^.highlight .sh { color: #c30 } \/* Literal.String.Heredoc *\/$/;"	function	line:51
+.highlight .si	/Users/stars/Documents/Weiwei/website/weiweihsu.github.io/_sass/tale/_syntax.scss	/^.highlight .si { color: #a00 } \/* Literal.String.Interpol *\/$/;"	function	line:52
+.highlight .sx	/Users/stars/Documents/Weiwei/website/weiweihsu.github.io/_sass/tale/_syntax.scss	/^.highlight .sx { color: #c30 } \/* Literal.String.Other *\/$/;"	function	line:53
+.highlight .sr	/Users/stars/Documents/Weiwei/website/weiweihsu.github.io/_sass/tale/_syntax.scss	/^.highlight .sr { color: #3aa } \/* Literal.String.Regex *\/$/;"	function	line:54
+.highlight .s1	/Users/stars/Documents/Weiwei/website/weiweihsu.github.io/_sass/tale/_syntax.scss	/^.highlight .s1 { color: #c30 } \/* Literal.String.Single *\/$/;"	function	line:55
+.highlight .ss	/Users/stars/Documents/Weiwei/website/weiweihsu.github.io/_sass/tale/_syntax.scss	/^.highlight .ss { color: #fc3 } \/* Literal.String.Symbol *\/$/;"	function	line:56
+.highlight .bp	/Users/stars/Documents/Weiwei/website/weiweihsu.github.io/_sass/tale/_syntax.scss	/^.highlight .bp { color: #366 } \/* Name.Builtin.Pseudo *\/$/;"	function	line:57
+.highlight .vc	/Users/stars/Documents/Weiwei/website/weiweihsu.github.io/_sass/tale/_syntax.scss	/^.highlight .vc { color: #033 } \/* Name.Variable.Class *\/$/;"	function	line:58
+.highlight .vg	/Users/stars/Documents/Weiwei/website/weiweihsu.github.io/_sass/tale/_syntax.scss	/^.highlight .vg { color: #033 } \/* Name.Variable.Global *\/$/;"	function	line:59
+.highlight .vi	/Users/stars/Documents/Weiwei/website/weiweihsu.github.io/_sass/tale/_syntax.scss	/^.highlight .vi { color: #033 } \/* Name.Variable.Instance *\/$/;"	function	line:60
+.highlight .il	/Users/stars/Documents/Weiwei/website/weiweihsu.github.io/_sass/tale/_syntax.scss	/^.highlight .il { color: #f60 } \/* Literal.Number.Integer.Long *\/$/;"	function	line:61
+.css .o	/Users/stars/Documents/Weiwei/website/weiweihsu.github.io/_sass/tale/_syntax.scss	/^.css .o,$/;"	function	line:63
+.css .o + .nt	/Users/stars/Documents/Weiwei/website/weiweihsu.github.io/_sass/tale/_syntax.scss	/^.css .o + .nt,$/;"	function	line:64
+.css .nt + .nt	/Users/stars/Documents/Weiwei/website/weiweihsu.github.io/_sass/tale/_syntax.scss	/^.css .nt + .nt { color: #999; }$/;"	function	line:65
+.catalogue	/Users/stars/Documents/Weiwei/website/weiweihsu.github.io/_sass/tale/_catalogue.scss	/^.catalogue {$/;"	function	line:1
+&-item	/Users/stars/Documents/Weiwei/website/weiweihsu.github.io/_sass/tale/_catalogue.scss	/^  &-item {$/;"	function	line:2
+&:hover .catalogue-line	/Users/stars/Documents/Weiwei/website/weiweihsu.github.io/_sass/tale/_catalogue.scss	/^    &:hover .catalogue-line,$/;"	function	line:8
+&:focus .catalogue-line	/Users/stars/Documents/Weiwei/website/weiweihsu.github.io/_sass/tale/_catalogue.scss	/^    &:focus .catalogue-line {$/;"	function	line:9
+&:last-child	/Users/stars/Documents/Weiwei/website/weiweihsu.github.io/_sass/tale/_catalogue.scss	/^    &:last-child {$/;"	function	line:13
+&-time	/Users/stars/Documents/Weiwei/website/weiweihsu.github.io/_sass/tale/_catalogue.scss	/^  &-time {$/;"	function	line:18
+&-title	/Users/stars/Documents/Weiwei/website/weiweihsu.github.io/_sass/tale/_catalogue.scss	/^  &-title {$/;"	function	line:24
+&-line	/Users/stars/Documents/Weiwei/website/weiweihsu.github.io/_sass/tale/_catalogue.scss	/^  &-line {$/;"	function	line:34
+.container	/Users/stars/Documents/Weiwei/website/weiweihsu.github.io/_sass/tale/_layout.scss	/^.container {$/;"	function	line:1
+main	/Users/stars/Documents/Weiwei/website/weiweihsu.github.io/_sass/tale/_layout.scss	/^main,$/;"	function	line:7
+footer	/Users/stars/Documents/Weiwei/website/weiweihsu.github.io/_sass/tale/_layout.scss	/^footer,$/;"	function	line:8
+.nav-container	/Users/stars/Documents/Weiwei/website/weiweihsu.github.io/_sass/tale/_layout.scss	/^.nav-container {$/;"	function	line:9
+.nav	/Users/stars/Documents/Weiwei/website/weiweihsu.github.io/_sass/tale/_layout.scss	/^.nav {$/;"	function	line:16
+&-container	/Users/stars/Documents/Weiwei/website/weiweihsu.github.io/_sass/tale/_layout.scss	/^  &-container {$/;"	function	line:20
+&-title	/Users/stars/Documents/Weiwei/website/weiweihsu.github.io/_sass/tale/_layout.scss	/^  &-title {$/;"	function	line:26
+&:hover	/Users/stars/Documents/Weiwei/website/weiweihsu.github.io/_sass/tale/_layout.scss	/^    &:hover,$/;"	function	line:33
+&:focus	/Users/stars/Documents/Weiwei/website/weiweihsu.github.io/_sass/tale/_layout.scss	/^    &:focus {$/;"	function	line:34
+ul	/Users/stars/Documents/Weiwei/website/weiweihsu.github.io/_sass/tale/_layout.scss	/^  ul {$/;"	function	line:39
+li	/Users/stars/Documents/Weiwei/website/weiweihsu.github.io/_sass/tale/_layout.scss	/^  li {$/;"	function	line:46
+&:last-child	/Users/stars/Documents/Weiwei/website/weiweihsu.github.io/_sass/tale/_layout.scss	/^    &:last-child {$/;"	function	line:53
+&:hover	/Users/stars/Documents/Weiwei/website/weiweihsu.github.io/_sass/tale/_layout.scss	/^    &:hover,$/;"	function	line:57
+&:focus	/Users/stars/Documents/Weiwei/website/weiweihsu.github.io/_sass/tale/_layout.scss	/^    &:focus {$/;"	function	line:58
+a	/Users/stars/Documents/Weiwei/website/weiweihsu.github.io/_sass/tale/_layout.scss	/^  a {$/;"	function	line:63
+@media (min-width: 600px)	/Users/stars/Documents/Weiwei/website/weiweihsu.github.io/_sass/tale/_layout.scss	/^@media (min-width: 600px) {$/;"	function	line:69
+.nav	/Users/stars/Documents/Weiwei/website/weiweihsu.github.io/_sass/tale/_layout.scss	/^  .nav {$/;"	function	line:70
+&-container	/Users/stars/Documents/Weiwei/website/weiweihsu.github.io/_sass/tale/_layout.scss	/^    &-container {$/;"	function	line:71
+ul	/Users/stars/Documents/Weiwei/website/weiweihsu.github.io/_sass/tale/_layout.scss	/^    ul {$/;"	function	line:75
+footer	/Users/stars/Documents/Weiwei/website/weiweihsu.github.io/_sass/tale/_layout.scss	/^footer {$/;"	function	line:83
+span	/Users/stars/Documents/Weiwei/website/weiweihsu.github.io/_sass/tale/_layout.scss	/^  span {$/;"	function	line:88
+.pagination	/Users/stars/Documents/Weiwei/website/weiweihsu.github.io/_sass/tale/_pagination.scss	/^.pagination {$/;"	function	line:1
+span	/Users/stars/Documents/Weiwei/website/weiweihsu.github.io/_sass/tale/_pagination.scss	/^  span {$/;"	function	line:8
+.top	/Users/stars/Documents/Weiwei/website/weiweihsu.github.io/_sass/tale/_pagination.scss	/^  .top {$/;"	function	line:13
+&:hover	/Users/stars/Documents/Weiwei/website/weiweihsu.github.io/_sass/tale/_pagination.scss	/^    &:hover {$/;"	function	line:20
+.arrow	/Users/stars/Documents/Weiwei/website/weiweihsu.github.io/_sass/tale/_pagination.scss	/^  .arrow {$/;"	function	line:25
+&:hover	/Users/stars/Documents/Weiwei/website/weiweihsu.github.io/_sass/tale/_pagination.scss	/^    &:hover,$/;"	function	line:30
+&:focus	/Users/stars/Documents/Weiwei/website/weiweihsu.github.io/_sass/tale/_pagination.scss	/^    &:focus {$/;"	function	line:31
+.left	/Users/stars/Documents/Weiwei/website/weiweihsu.github.io/_sass/tale/_pagination.scss	/^  .left {$/;"	function	line:37
+.right	/Users/stars/Documents/Weiwei/website/weiweihsu.github.io/_sass/tale/_pagination.scss	/^  .right {$/;"	function	line:41
+.post	/Users/stars/Documents/Weiwei/website/weiweihsu.github.io/_sass/tale/_post.scss	/^.post {$/;"	function	line:1
+&-info	/Users/stars/Documents/Weiwei/website/weiweihsu.github.io/_sass/tale/_post.scss	/^  &-info {$/;"	function	line:4
+span	/Users/stars/Documents/Weiwei/website/weiweihsu.github.io/_sass/tale/_post.scss	/^    span {$/;"	function	line:10
+&-title	/Users/stars/Documents/Weiwei/website/weiweihsu.github.io/_sass/tale/_post.scss	/^  &-title {$/;"	function	line:15
+&-line	/Users/stars/Documents/Weiwei/website/weiweihsu.github.io/_sass/tale/_post.scss	/^  &-line {$/;"	function	line:23
+p	/Users/stars/Documents/Weiwei/website/weiweihsu.github.io/_sass/tale/_post.scss	/^  p {$/;"	function	line:30
+a:hover	/Users/stars/Documents/Weiwei/website/weiweihsu.github.io/_sass/tale/_post.scss	/^  a:hover {$/;"	function	line:35
+img	/Users/stars/Documents/Weiwei/website/weiweihsu.github.io/_sass/tale/_post.scss	/^  img {$/;"	function	line:39
+img + em	/Users/stars/Documents/Weiwei/website/weiweihsu.github.io/_sass/tale/_post.scss	/^  img + em {$/;"	function	line:43
+img.emoji	/Users/stars/Documents/Weiwei/website/weiweihsu.github.io/_sass/tale/_post.scss	/^  img.emoji {$/;"	function	line:53
+*	/Users/stars/Documents/Weiwei/website/weiweihsu.github.io/_sass/tale/_base.scss	/^* {$/;"	function	line:1
+html	/Users/stars/Documents/Weiwei/website/weiweihsu.github.io/_sass/tale/_base.scss	/^html,$/;"	function	line:6
+body	/Users/stars/Documents/Weiwei/website/weiweihsu.github.io/_sass/tale/_base.scss	/^body {$/;"	function	line:7
+html	/Users/stars/Documents/Weiwei/website/weiweihsu.github.io/_sass/tale/_base.scss	/^html {$/;"	function	line:13
+@media (min-width: 600px)	/Users/stars/Documents/Weiwei/website/weiweihsu.github.io/_sass/tale/_base.scss	/^  @media (min-width: 600px) {$/;"	function	line:18
+body	/Users/stars/Documents/Weiwei/website/weiweihsu.github.io/_sass/tale/_base.scss	/^body {$/;"	function	line:23
+h1	/Users/stars/Documents/Weiwei/website/weiweihsu.github.io/_sass/tale/_base.scss	/^h1,$/;"	function	line:27
+h2	/Users/stars/Documents/Weiwei/website/weiweihsu.github.io/_sass/tale/_base.scss	/^h2,$/;"	function	line:28
+h3	/Users/stars/Documents/Weiwei/website/weiweihsu.github.io/_sass/tale/_base.scss	/^h3,$/;"	function	line:29
+h4	/Users/stars/Documents/Weiwei/website/weiweihsu.github.io/_sass/tale/_base.scss	/^h4,$/;"	function	line:30
+h5	/Users/stars/Documents/Weiwei/website/weiweihsu.github.io/_sass/tale/_base.scss	/^h5,$/;"	function	line:31
+h6	/Users/stars/Documents/Weiwei/website/weiweihsu.github.io/_sass/tale/_base.scss	/^h6 {$/;"	function	line:32
+a	/Users/stars/Documents/Weiwei/website/weiweihsu.github.io/_sass/tale/_base.scss	/^a {$/;"	function	line:38
+blockquote	/Users/stars/Documents/Weiwei/website/weiweihsu.github.io/_sass/tale/_base.scss	/^blockquote {$/;"	function	line:43
+p:last-child	/Users/stars/Documents/Weiwei/website/weiweihsu.github.io/_sass/tale/_base.scss	/^  p:last-child {$/;"	function	line:49
+@media (min-width: 600px)	/Users/stars/Documents/Weiwei/website/weiweihsu.github.io/_sass/tale/_base.scss	/^  @media (min-width: 600px) {$/;"	function	line:53
+img	/Users/stars/Documents/Weiwei/website/weiweihsu.github.io/_sass/tale/_base.scss	/^img {$/;"	function	line:58
+td	/Users/stars/Documents/Weiwei/website/weiweihsu.github.io/_sass/tale/_base.scss	/^td {$/;"	function	line:64
+mark	/Users/stars/Documents/Weiwei/website/weiweihsu.github.io/_sass/tale/_base.scss	/^mark {$/;"	function	line:68
+.collection	/Users/stars/Documents/Weiwei/website/weiweihsu.github.io/_sass/tale/_base.scss	/^.collection {$/;"	function	line:78
+.article	/Users/stars/Documents/Weiwei/website/weiweihsu.github.io/_sass/tale/_base.scss	/^.article {$/;"	function	line:82
+&-title	/Users/stars/Documents/Weiwei/website/weiweihsu.github.io/_sass/tale/_base.scss	/^  &-title {$/;"	function	line:83
+&:hover .article-line	/Users/stars/Documents/Weiwei/website/weiweihsu.github.io/_sass/tale/_base.scss	/^  &:hover .article-line,$/;"	function	line:92
+&:focus .article-line	/Users/stars/Documents/Weiwei/website/weiweihsu.github.io/_sass/tale/_base.scss	/^  &:focus .article-line {$/;"	function	line:93
+&:last-child	/Users/stars/Documents/Weiwei/website/weiweihsu.github.io/_sass/tale/_base.scss	/^  &:last-child {$/;"	function	line:96
+&-stamp	/Users/stars/Documents/Weiwei/website/weiweihsu.github.io/_sass/tale/_base.scss	/^  &-stamp {$/;"	function	line:102
+&-line	/Users/stars/Documents/Weiwei/website/weiweihsu.github.io/_sass/tale/_base.scss	/^  &-line {$/;"	function	line:110
+&-time	/Users/stars/Documents/Weiwei/website/weiweihsu.github.io/_sass/tale/_base.scss	/^  &-time {$/;"	function	line:122
+&-reading-time	/Users/stars/Documents/Weiwei/website/weiweihsu.github.io/_sass/tale/_base.scss	/^  &-reading-time {$/;"	function	line:130

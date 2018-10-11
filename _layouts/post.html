@@ -1,0 +1,25 @@
+---
+layout: default
+---
+
+<div class="post">
+  <div class="post-info">
+    Written while drinking
+    {% if page.drink %}
+        {{ page.drink }}
+    {% else %}
+        {{ site.author.drink }}
+    {% endif %}
+
+    {% if page.date %}
+      <br>
+      <span>during the week of&nbsp;</span><time datetime="{{ page.date }}">{{ page.date | date: "%B %d, %Y" }}</time>
+    {% endif %}
+  </div>
+
+  <h5 class="post-title">{{ page.title }}</h5>
+  <div class="post-line"></div>
+
+  {{ content }}
+
+</div>
