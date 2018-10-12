@@ -12,7 +12,7 @@ I care tremondously about cultivating community, climate change, long-term (tech
 <mark> &nbsp; Background &nbsp; </mark>
 
 <div class="collection-bodypart">
-I am an American-born Taiwanese, raised in busy Shanghai. I hold a BFA in Interaction Design from
+I am an American-born Taiwanese, raised in busy Shanghai. I hold a BFA in Interaction Design with distinction from
 <a href="https://www.cca.edu">California College of the Arts</a>.
 
 At CCA, I was very fortunate to learn from those who helped shape the Internet. They helped me understand that the digital landscape is not limited to the screen rectangles that we are used to, and guided me to understand the origin of the Internet as well as Interaction Design. I will be forever greatful for the teachers and friends that I've met during my time there.
@@ -22,7 +22,7 @@ At CCA, I was very fortunate to learn from those who helped shape the Internet. 
 <mark> &nbsp; Breaks &nbsp; </mark>
 
 <div class="collection-bodypart">
-In Summer and Winter of 2015, I joined an accelerator and co-working space, <a href="http://www.thexnode.com">XNode</a>, as their first Design Intern and San Francisco representative in Shanghai. During my time there, I initiated and delivered weekly design digests to the team for internal growth, produced creative promotional materials, and wrote articles for their publication for external use as well. Through those commitments, I learned to facilitate the conversations that we as a team would want to have, because what people act on depends on what people converse about.
+In the Summer and Winter of 2015, I joined an accelerator and co-working space, <a href="http://www.thexnode.com">XNode</a>, as their first Design Intern and San Francisco representative in Shanghai. During my time there, I initiated and delivered weekly design digests to the team for internal growth, produced creative promotional materials, and wrote articles for their publication for external use as well. Through those commitments, I learned to facilitate the conversations that we as a team would want to have, because what people act on depends on what people converse about.
 
 In Summer of 2017, I was an Interaction Design intern at <a href="https://www.fjordnet.com">Fjord</a>. During my time there, I focused on researching and modeling information systems for medical and government sectors.
 </div>
