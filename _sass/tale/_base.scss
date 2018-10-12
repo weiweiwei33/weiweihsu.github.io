@@ -76,7 +76,15 @@ mark {
 }
 
 .collection {
-  padding: 0 0 0 1rem;
+  &-bodypart {padding: 0 0 0 1rem;
+  }
+
+  &-title {
+    font-size: 1.1rem;
+    font-family: $sans-serif;
+    font-weight: 700;
+    padding: 0 0 0.2rem;
+  }
 }
 
 .article {
