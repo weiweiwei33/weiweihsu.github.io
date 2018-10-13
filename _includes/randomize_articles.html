@@ -15,11 +15,11 @@
         });
         return $(shuffled);
     };
-    $('.randomize').shuffle();
-    $('.randomize:visible img').each(function() {
+    $('.randomize_articles').shuffle();
+    $('.randomize_articles:visible img').each(function() {
         if($(this).attr('data-src')) $(this).attr('src',$(this).attr('data-src'));
     });
-    $('.randomize:visible *').each(function() {
+    $('.randomize_articles:visible *').each(function() {
         if($(this).attr('data-style')) $(this).attr('style',$(this).attr('data-style'));
     });
 </script>
