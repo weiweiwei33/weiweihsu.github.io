@@ -4,3 +4,22 @@
 !_TAG_PROGRAM_NAME	Exuberant Ctags	//
 !_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
 !_TAG_PROGRAM_VERSION	5.8	//
+gtag	_includes/head.html	/^  function gtag(){dataLayer.push(arguments);}$/;"	f
+gtag	_site/2017-09-15/there's-something-to-be-done.html	/^  function gtag(){dataLayer.push(arguments);}$/;"	f
+gtag	_site/2017-09-29/do-your-apps-expire.html	/^  function gtag(){dataLayer.push(arguments);}$/;"	f
+gtag	_site/2017-12-13/putting-band-aids-on-the-digital.html	/^  function gtag(){dataLayer.push(arguments);}$/;"	f
+gtag	_site/2018-01-26/behind-cca-unofficial-mascot.html	/^  function gtag(){dataLayer.push(arguments);}$/;"	f
+gtag	_site/2018-06-20/designing-for-aclu-norcal.html	/^  function gtag(){dataLayer.push(arguments);}$/;"	f
+gtag	_site/2018-09-15/weeknote-1.html	/^  function gtag(){dataLayer.push(arguments);}$/;"	f
+gtag	_site/2018-09-21/weeknote-2.html	/^  function gtag(){dataLayer.push(arguments);}$/;"	f
+gtag	_site/2018-09-28/weeknote-3.html	/^  function gtag(){dataLayer.push(arguments);}$/;"	f
+gtag	_site/2018-10-05/weeknote-4.html	/^  function gtag(){dataLayer.push(arguments);}$/;"	f
+gtag	_site/2018-10-14/weeknote-5.html	/^  function gtag(){dataLayer.push(arguments);}$/;"	f
+gtag	_site/2018-10-21/weeknote-6.html	/^  function gtag(){dataLayer.push(arguments);}$/;"	f
+gtag	_site/2018-10-28/weeknote-7.html	/^  function gtag(){dataLayer.push(arguments);}$/;"	f
+gtag	_site/about/index.html	/^  function gtag(){dataLayer.push(arguments);}$/;"	f
+gtag	_site/collection/index.html	/^  function gtag(){dataLayer.push(arguments);}$/;"	f
+gtag	_site/index.html	/^  function gtag(){dataLayer.push(arguments);}$/;"	f
+gtag	_site/pages/weeknotes/page2/index.html	/^  function gtag(){dataLayer.push(arguments);}$/;"	f
+gtag	_site/pages/weeknotes/page3/index.html	/^  function gtag(){dataLayer.push(arguments);}$/;"	f
+gtag	_site/weeknotes.html	/^  function gtag(){dataLayer.push(arguments);}$/;"	f
