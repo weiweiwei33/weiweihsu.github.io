@@ -18,6 +18,8 @@ gtag	_site/2018-10-14/weeknote-5.html	/^  function gtag(){dataLayer.push(argumen
 gtag	_site/2018-10-21/weeknote-6.html	/^  function gtag(){dataLayer.push(arguments);}$/;"	f
 gtag	_site/2018-10-28/weeknote-7.html	/^  function gtag(){dataLayer.push(arguments);}$/;"	f
 gtag	_site/2018-11-04/weeknote-8.html	/^  function gtag(){dataLayer.push(arguments);}$/;"	f
+gtag	_site/2018-11-10/weeknote-9.html	/^  function gtag(){dataLayer.push(arguments);}$/;"	f
+gtag	_site/2018-11-18/weeknote-10.html	/^  function gtag(){dataLayer.push(arguments);}$/;"	f
 gtag	_site/about/index.html	/^  function gtag(){dataLayer.push(arguments);}$/;"	f
 gtag	_site/collection/index.html	/^  function gtag(){dataLayer.push(arguments);}$/;"	f
 gtag	_site/index.html	/^  function gtag(){dataLayer.push(arguments);}$/;"	f
