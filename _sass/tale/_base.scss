@@ -148,4 +148,20 @@ mark {
 
   }
 
+  &-new {
+	position: absolute;
+  width: 100px;
+  left: 23%;
+  top: 808px;
+	z-index: 100;
+  transform: rotate(-20deg);
+  }
+
+}
+
+@media screen and (max-width: 1300px) {
+  .article-new {
+    visibility: hidden;
+    display: none;
+  }
 }

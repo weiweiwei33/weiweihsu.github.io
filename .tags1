@@ -4,3 +4,38 @@
 !_TAG_PROGRAM_NAME	Exuberant Ctags	//
 !_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
 !_TAG_PROGRAM_VERSION	5.8	//
+*	/Users/stars/Documents/Weiwei/website/weiweihsu.github.io/_sass/tale/_base.scss	/^* {$/;"	function	line:1
+html	/Users/stars/Documents/Weiwei/website/weiweihsu.github.io/_sass/tale/_base.scss	/^html,$/;"	function	line:6
+body	/Users/stars/Documents/Weiwei/website/weiweihsu.github.io/_sass/tale/_base.scss	/^body {$/;"	function	line:7
+html	/Users/stars/Documents/Weiwei/website/weiweihsu.github.io/_sass/tale/_base.scss	/^html {$/;"	function	line:13
+@media (min-width: 600px)	/Users/stars/Documents/Weiwei/website/weiweihsu.github.io/_sass/tale/_base.scss	/^  @media (min-width: 600px) {$/;"	function	line:18
+body	/Users/stars/Documents/Weiwei/website/weiweihsu.github.io/_sass/tale/_base.scss	/^body {$/;"	function	line:23
+h1	/Users/stars/Documents/Weiwei/website/weiweihsu.github.io/_sass/tale/_base.scss	/^h1,$/;"	function	line:27
+h2	/Users/stars/Documents/Weiwei/website/weiweihsu.github.io/_sass/tale/_base.scss	/^h2,$/;"	function	line:28
+h3	/Users/stars/Documents/Weiwei/website/weiweihsu.github.io/_sass/tale/_base.scss	/^h3,$/;"	function	line:29
+h4	/Users/stars/Documents/Weiwei/website/weiweihsu.github.io/_sass/tale/_base.scss	/^h4,$/;"	function	line:30
+h5	/Users/stars/Documents/Weiwei/website/weiweihsu.github.io/_sass/tale/_base.scss	/^h5,$/;"	function	line:31
+h6	/Users/stars/Documents/Weiwei/website/weiweihsu.github.io/_sass/tale/_base.scss	/^h6 {$/;"	function	line:32
+a	/Users/stars/Documents/Weiwei/website/weiweihsu.github.io/_sass/tale/_base.scss	/^a {$/;"	function	line:38
+blockquote	/Users/stars/Documents/Weiwei/website/weiweihsu.github.io/_sass/tale/_base.scss	/^blockquote {$/;"	function	line:43
+p:last-child	/Users/stars/Documents/Weiwei/website/weiweihsu.github.io/_sass/tale/_base.scss	/^  p:last-child {$/;"	function	line:49
+@media (min-width: 600px)	/Users/stars/Documents/Weiwei/website/weiweihsu.github.io/_sass/tale/_base.scss	/^  @media (min-width: 600px) {$/;"	function	line:53
+img	/Users/stars/Documents/Weiwei/website/weiweihsu.github.io/_sass/tale/_base.scss	/^img {$/;"	function	line:58
+td	/Users/stars/Documents/Weiwei/website/weiweihsu.github.io/_sass/tale/_base.scss	/^td {$/;"	function	line:64
+mark	/Users/stars/Documents/Weiwei/website/weiweihsu.github.io/_sass/tale/_base.scss	/^mark {$/;"	function	line:68
+.collection	/Users/stars/Documents/Weiwei/website/weiweihsu.github.io/_sass/tale/_base.scss	/^.collection {$/;"	function	line:78
+&-bodypart	/Users/stars/Documents/Weiwei/website/weiweihsu.github.io/_sass/tale/_base.scss	/^  &-bodypart {$/;"	function	line:79
+&-title	/Users/stars/Documents/Weiwei/website/weiweihsu.github.io/_sass/tale/_base.scss	/^  &-title {$/;"	function	line:83
+&-list	/Users/stars/Documents/Weiwei/website/weiweihsu.github.io/_sass/tale/_base.scss	/^  &-list {$/;"	function	line:90
+.article	/Users/stars/Documents/Weiwei/website/weiweihsu.github.io/_sass/tale/_base.scss	/^.article {$/;"	function	line:96
+&-title	/Users/stars/Documents/Weiwei/website/weiweihsu.github.io/_sass/tale/_base.scss	/^  &-title {$/;"	function	line:97
+&:hover .article-line	/Users/stars/Documents/Weiwei/website/weiweihsu.github.io/_sass/tale/_base.scss	/^  &:hover .article-line,$/;"	function	line:106
+&:focus .article-line	/Users/stars/Documents/Weiwei/website/weiweihsu.github.io/_sass/tale/_base.scss	/^  &:focus .article-line {$/;"	function	line:107
+&:last-child	/Users/stars/Documents/Weiwei/website/weiweihsu.github.io/_sass/tale/_base.scss	/^  &:last-child {$/;"	function	line:110
+&-stamp	/Users/stars/Documents/Weiwei/website/weiweihsu.github.io/_sass/tale/_base.scss	/^  &-stamp {$/;"	function	line:116
+&-line	/Users/stars/Documents/Weiwei/website/weiweihsu.github.io/_sass/tale/_base.scss	/^  &-line {$/;"	function	line:124
+&-time	/Users/stars/Documents/Weiwei/website/weiweihsu.github.io/_sass/tale/_base.scss	/^  &-time {$/;"	function	line:136
+&-reading-time	/Users/stars/Documents/Weiwei/website/weiweihsu.github.io/_sass/tale/_base.scss	/^  &-reading-time {$/;"	function	line:144
+&-new	/Users/stars/Documents/Weiwei/website/weiweihsu.github.io/_sass/tale/_base.scss	/^  &-new {$/;"	function	line:151
+@media screen and (max-width: 1300px)	/Users/stars/Documents/Weiwei/website/weiweihsu.github.io/_sass/tale/_base.scss	/^@media screen and (max-width: 1300px) {$/;"	function	line:162
+.article-new	/Users/stars/Documents/Weiwei/website/weiweihsu.github.io/_sass/tale/_base.scss	/^  .article-new {$/;"	function	line:163
