@@ -1,0 +1,228 @@
+<!DOCTYPE html>
+<html lang="en">
+
+  <head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  
+
+  <title>
+    
+      Events, Catching up, Like-minded people | #19 &middot; Weiwei Hsu
+    
+  </title>
+
+  <!-- CSS -->
+  <link rel="stylesheet" href="/assets/main.css">
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Libre+Baskerville:400,400i,700">
+
+  <!-- Favicon -->
+  <link rel="icon" type="image/png" sizes="32x32" href="/assets/favicon-32x32.png">
+  <link rel="icon" type="image/png" sizes="16x16" href="/assets/favicon-16x16.png">
+  <link rel="apple-touch-icon" sizes="180x180" href="/assets/apple-touch-icon.png">
+
+  <!-- RSS -->
+  <link type="application/atom+xml" rel="alternate" href="http://localhost:4000/feed.xml" title="Weiwei Hsu" />
+  
+  <!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-91457620-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-91457620-1');
+</script>
+
+
+</head>
+
+
+  <body>
+    <nav class="nav">
+      <div class="nav-container">
+        <a href="/">
+          <h2 class="nav-title">Weiwei Hsu</h2>
+        </a>
+        <ul>
+          <li><a href="/weeknotes">Weeknotes</a></li>
+          <li><a href="/collection/">Collection</a></li>
+          <!-- <li><a href="/china">China</a></li> -->
+          <li><a href="http://tinyletter.com/speculatvglitch">Newsletter</a></li>
+          <li><a href="/about">About</a></li>
+
+        </ul>
+      </div>
+    </nav>
+
+    <main>
+      <div class="post">
+  <div class="post-info">
+    Written while drinking
+    
+        matcha
+    
+
+    
+      <br>
+      <span>during the week of&nbsp;</span><time datetime="2019-02-10 00:00:00 -0800">February 10, 2019</time>
+    
+  </div>
+
+  <h5 class="post-title">Events, Catching up, Like-minded people | #19</h5>
+  <div class="post-line"></div>
+
+  <p>Missed a week of weeknotes, so here’s a long one.</p>
+
+<p>These past two weeks were a lot of absorbing and digesting.</p>
+
+<p>I attended the first social systems game night in San Francisco, it was very fun to play games with people who have similar interests. Since there were ~30 people, we were divided into smaller groups, and it was fascinating to hear every group’s game results.</p>
+
+<p>I also attended the first Micromobility Conference, out of curiousity, and personal interest in urban systems. It was very refreshing to be with a large group of people that aren’t primarily there to discuss design or engineering.</p>
+
+<p>In general, both of these events made me want to attend more first-of-its-kind event/conference more in the future.</p>
+
+<p>–</p>
+
+<p>These past two weeks were also full of meeting new people and catching up with old friends.</p>
+
+<p>Had dinner with some of my college friends. It’s fun to go down a memory-viewing-mode and discuss some of the things that happened in college. I always find it nice to meet up.</p>
+
+<p>Met with a few groups that work for non-profit, animation company, and independent researchers. It is so refreshing and delightful to meet new people that share similar interests and goals.</p>
+
+<p>Addtionally, I’m very greatful to those who offered their time to share advice, skills, and tips. Some of the conversations helped me understand that I may be better suited for operational work (with some design work invovled), some of the conversations helped me understand the possible products/services that an individual or a small team of 2-3 can build; beyond sass and physical products.</p>
+
+<p>–</p>
+
+<p>It’s surprising to reunite with someone that I met a few years ago for a workshop, and realizing that we’ve been thinking about similar things for the past few months.</p>
+
+<p>It also is quite magical to find or start a tribe where people are all at similar career phase, and all share similar and weird goals.</p>
+
+<p>–</p>
+
+<p>Thanks to a friend, I’ve learned quite a bit about European design culture over the past few days. It was great to learn that many design/technology people are funded by governmental grants, and that provides a completely different incentive structure for people to think and plan for their career.</p>
+
+<p>–</p>
+
+<p>I think I’m now at a point where I cannot stop thinking about a model that can help people to gain creative autonomy.</p>
+
+
+</div>
+
+    </main>
+
+    <footer>
+      <span>
+        &copy; <time datetime="2019-02-14 14:23:03 -0800">2019</time> Weiwei. Coded with Jekyll.
+      </span>
+    </footer>
+
+    <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.3/umd/popper.min.js" integrity="sha384-ZMP7rVo3mIykV+2+9J3UJ46jBk0WLaUAdn689aCwoqbBJiSnjAK/l8WvCWPIPm49" crossorigin="anonymous"></script>
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/js/bootstrap.min.js" integrity="sha384-ChfqqxuZUCnJSK3+MXmPNIyE6ZbWh2IMqE241rYiqJxyMiZ6OW/JmZQ5stwEULTy" crossorigin="anonymous"></script>
+    <script>
+    $.fn.shuffle = function() {
+        var allElems = this.get(),
+            getRandom = function(max) {
+                return Math.floor(Math.random() * max);
+            },
+            shuffled = $.map(allElems, function(){
+                var random = getRandom(allElems.length),
+                    randEl = $(allElems[random]).clone(true)[0];
+                allElems.splice(random, 1);
+                return randEl;
+            });
+        this.each(function(i){
+            $(this).replaceWith($(shuffled[i]));
+        });
+        return $(shuffled);
+    };
+    $('.randomize_articles').shuffle();
+    $('.randomize_articles:visible img').each(function() {
+        if($(this).attr('data-src')) $(this).attr('src',$(this).attr('data-src'));
+    });
+    $('.randomize_articles:visible *').each(function() {
+        if($(this).attr('data-style')) $(this).attr('style',$(this).attr('data-style'));
+    });
+</script>
+
+    <script>
+    $.fn.shuffle = function() {
+        var allElems = this.get(),
+            getRandom = function(max) {
+                return Math.floor(Math.random() * max);
+            },
+            shuffled = $.map(allElems, function(){
+                var random = getRandom(allElems.length),
+                    randEl = $(allElems[random]).clone(true)[0];
+                allElems.splice(random, 1);
+                return randEl;
+            });
+        this.each(function(i){
+            $(this).replaceWith($(shuffled[i]));
+        });
+        return $(shuffled);
+    };
+    $('.randomize_books').shuffle();
+    $('.randomize_books:visible img').each(function() {
+        if($(this).attr('data-src')) $(this).attr('src',$(this).attr('data-src'));
+    });
+    $('.randomize_books:visible *').each(function() {
+        if($(this).attr('data-style')) $(this).attr('style',$(this).attr('data-style'));
+    });
+</script>
+
+    <script>
+    $.fn.shuffle = function() {
+        var allElems = this.get(),
+            getRandom = function(max) {
+                return Math.floor(Math.random() * max);
+            },
+            shuffled = $.map(allElems, function(){
+                var random = getRandom(allElems.length),
+                    randEl = $(allElems[random]).clone(true)[0];
+                allElems.splice(random, 1);
+                return randEl;
+            });
+        this.each(function(i){
+            $(this).replaceWith($(shuffled[i]));
+        });
+        return $(shuffled);
+    };
+    $('.randomize_groups').shuffle();
+    $('.randomize_groups:visible img').each(function() {
+        if($(this).attr('data-src')) $(this).attr('src',$(this).attr('data-src'));
+    });
+    $('.randomize_groups:visible *').each(function() {
+        if($(this).attr('data-style')) $(this).attr('style',$(this).attr('data-style'));
+    });
+</script>
+
+    <script>
+    $.fn.shuffle = function() {
+        var allElems = this.get(),
+            getRandom = function(max) {
+                return Math.floor(Math.random() * max);
+            },
+            shuffled = $.map(allElems, function(){
+                var random = getRandom(allElems.length),
+                    randEl = $(allElems[random]).clone(true)[0];
+                allElems.splice(random, 1);
+                return randEl;
+            });
+        this.each(function(i){
+            $(this).replaceWith($(shuffled[i]));
+        });
+        return $(shuffled);
+    };
+    $('.randomize_podcasts').shuffle();
+    $('.randomize_podcasts:visible img').each(function() {
+        if($(this).attr('data-src')) $(this).attr('src',$(this).attr('data-src'));
+    });
+    $('.randomize_podcasts:visible *').each(function() {
+        if($(this).attr('data-style')) $(this).attr('style',$(this).attr('data-style'));
+    });
+</script>
+
+  </body>
+</html>
