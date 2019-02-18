@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  Becoming Courageous, Together
+title:  A Permission-less Career
 author: Weiwei Hsu
 drink: tea
 categories: blog

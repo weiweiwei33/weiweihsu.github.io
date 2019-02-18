@@ -8,10 +8,6 @@ external-url:
 reading-time: 4min
 ---
 
-to-do:
-[ ] make certain sentences bold
-
-
 This post is a post-mortem of a 7-day summer-camp/workshop I ran during the summer of freshman and sophomore year, called Secret Project Taiwan.
 
 Whenever people ask me which project I'm the proudest of, I have never hesitated in saying: "It's [Secret Project Taiwan](https://web.archive.org/web/20170628055307/https://www.cca.edu/news/2015/11/24/student-takes-secret-project-abroad), a summer-camp-like thing I did four years ago".
@@ -27,9 +23,9 @@ Over the past four years, I never really wrote about what the project was, and w
 Throughout college, one of the most life-changing programs for me was called Secret Project at CCA, directed by [John Bielenberg](https://en.wikipedia.org/wiki/John_Bielenberg) and [Marc O'Brien](https://marcobrien.net). The program encouraged everyone to think wrong and to challenge the status quo.
 
 It was through Secret Project Blitzes (which were weekend workshops and spring break trips), I realized how powerful it is to dream, and to imagine, together with others:
-We towed an airstream from California to Nevada to Utah and back. We got to collaborate with students from all majors, at all levels. We worked with several non-profit to brainstorm new products, marketing channels, etc. We dreamed of buying a container ship and sailing around the world (which, someone is doing a version of [this](https://www.patreon.com/100)).
+We towed an airstream from California to Nevada to Utah and back. We got to collaborate with students from all majors, at all levels. We worked with several non-profits to brainstorm new products, marketing channels, etc. We dreamed of buying a container ship and sailing around the world (which, someone is doing a version of [this](https://www.patreon.com/100)).
 
-Having gone through public and private schools in China, Secret Project was the opposite of "listen to your teachers, do your homework, maybe be just a little creative" culture I was used to. Participating in the Secret Project gave me ideas to run a version of it in Taiwan, where my parents are from. During the summer of 2015 and 2016, I produced and co-facilitated a 7-day workshop known as Secret Project Taiwan(SPTW), during which ~15 college students came together to think of wild ideas, make small bets, and test them out together, on a 500-acre large farm south-east of Taipei. Everyone signed up for this summer camp with the intention to practice brainstorming and pitching ideas, but it ended up being much more than that.
+Having gone through public and private schools in China, Secret Project was the opposite of "listen to your teachers, do your homework, maybe be just a little creative" culture I was used to. Participating in the Secret Project gave me ideas to run a version of it in Taiwan, where my parents are from. During the summer of 2015 and 2016, I produced and co-facilitated a 7-day workshop known as Secret Project Taiwan (SPTW), during which ~15 college students came together to think of wild ideas, make small bets, and test them out together, on a 500-acre large farm south-east of Taipei. Everyone signed up for this summer camp with the intention to practice brainstorming and pitching ideas, but it ended up being much more than that.
 
 <br><br>
 
