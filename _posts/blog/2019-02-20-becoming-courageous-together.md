@@ -3,7 +3,7 @@ layout: post
 title:  Becoming Courageous, Together
 author: Weiwei Hsu
 drink: tea
-categories:
+categories: blog
 external-url:
 reading-time: 4min
 ---

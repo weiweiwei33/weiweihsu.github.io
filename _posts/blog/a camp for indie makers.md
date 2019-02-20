@@ -3,10 +3,13 @@ layout: post
 title:  A Permission-less Career
 author: Weiwei Hsu
 drink: tea
-categories: blog
+categories:
 external-url:
 reading-time: 5min
 ---
+
+Include gumroad story
+And the Tim O'Reily story
 
 
 ### Making a leap of faith
