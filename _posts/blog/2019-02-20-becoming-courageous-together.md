@@ -98,4 +98,4 @@ I'm very much looking forward to what might come out of this exploration.
 
 Thank you Christina Liu, Tomo Kihara, and William Felker for giving thoughtful feedback and comments.
 <br><br>
-Extra special thanks to my parents, John Bielenberg, Marc O'Brien, Christina Liu, Bill Chien, and Damon Lam for being supportive of this project.
+Extra special thanks to my parents, John Bielenberg, Marc O'Brien, Christina Liu, Heather Mewton, Bill Chien, and Damon Lam for being supportive of this project.
