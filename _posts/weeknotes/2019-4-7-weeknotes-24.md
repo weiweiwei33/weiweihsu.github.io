@@ -2,8 +2,8 @@
 layout: post
 title:  " | #24"
 author: "Weiwei Hsu"
-drink: genmaicha
+drink: water
 categories: weeknotes
 ---
-2019-4-7-weeknotes-24
+
 ![cactus made out of paper]({{site.baseurl}}/assets/images/cactus.jpg)
