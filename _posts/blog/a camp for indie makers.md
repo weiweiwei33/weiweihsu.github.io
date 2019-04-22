@@ -11,6 +11,11 @@ reading-time: 5min
 Include gumroad story
 And the Tim O'Reily story
 
+Parents have always had multiple sources of income
+
+Something's been keeping me up at night: what's the path to gaining creative Independence and financial Independence?
+
+Earnings sharing agreement
 
 ### Making a leap of faith
 After evaluating and exploring different paths, I think I've settled on something I would like to try.
