@@ -34,6 +34,7 @@ gtag	_site/2019-02-20/becoming-courageous-together.html	/^  function gtag(){data
 gtag	_site/2019-03-10/weeknotes-21.html	/^  function gtag(){dataLayer.push(arguments);}$/;"	f
 gtag	_site/2019-03-17/weeknotes-22.html	/^  function gtag(){dataLayer.push(arguments);}$/;"	f
 gtag	_site/2019-03-31/weeknotes-23.html	/^  function gtag(){dataLayer.push(arguments);}$/;"	f
+gtag	_site/2019-04-21/the-space-of-computing.html	/^  function gtag(){dataLayer.push(arguments);}$/;"	f
 gtag	_site/2019-04-21/weeknotes-24.html	/^  function gtag(){dataLayer.push(arguments);}$/;"	f
 gtag	_site/about/index.html	/^  function gtag(){dataLayer.push(arguments);}$/;"	f
 gtag	_site/collection/index.html	/^  function gtag(){dataLayer.push(arguments);}$/;"	f
@@ -43,4 +44,5 @@ gtag	_site/pages/weeknotes/page3/index.html	/^  function gtag(){dataLayer.push(a
 gtag	_site/pages/weeknotes/page4/index.html	/^  function gtag(){dataLayer.push(arguments);}$/;"	f
 gtag	_site/pages/weeknotes/page5/index.html	/^  function gtag(){dataLayer.push(arguments);}$/;"	f
 gtag	_site/pages/weeknotes/page6/index.html	/^  function gtag(){dataLayer.push(arguments);}$/;"	f
+gtag	_site/pages/weeknotes/page7/index.html	/^  function gtag(){dataLayer.push(arguments);}$/;"	f
 gtag	_site/weeknotes.html	/^  function gtag(){dataLayer.push(arguments);}$/;"	f
