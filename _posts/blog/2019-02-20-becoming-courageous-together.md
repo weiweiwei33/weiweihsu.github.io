@@ -45,7 +45,7 @@ As a result, SPTW was a hotbed for experiments and weird and wild ideas.
 
 That being said, my co-facilitators Will, Bill, and I did put some loose structure in place. Below is a screenshot of the schedule we created. While it may look intimidating, they were all fun (and occasionally nerve-wracking) activities. For example, Be Bold was a session dedicated to "moonshot ideas", Let Go was a session on "parking" our earlier ideas to come up with new ones, Small Bets was a session on creating MVPs. These are all activities part of the Think Wrong exercise, which you can learn more [here](https://www.youtube.com/watch?v=srq7BBemFY4).
 
-We also added our own flavor to the week. We introduced PechaKucha to everyone, and we all had to pitch each other our ideas with 10 slides that would each last 10 seconds. We all learned to dance to Mark Ronson and Bruno Mars' Uptown Funk. We wrote a contract that said "I will leave humanity better then I found it," and everyone signed it. We introduced Storytime for people to share a weird project or story with others.
+We also added our own flavor to the week. We introduced PechaKucha to everyone, and we all had to pitch to each other our ideas with 10 slides that would each last 10 seconds. We all learned to dance to Mark Ronson and Bruno Mars' Uptown Funk. We wrote a contract that said "I will leave humanity better then I found it," and everyone signed it. We introduced Storytime for people to share a weird project or story with others.
 
 <br>
 ![A screenshot of SPTW's schedule]({{site.baseurl}}/assets/images/sptw-schedule.png)
