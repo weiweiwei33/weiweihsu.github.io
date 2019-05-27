@@ -5,7 +5,7 @@ author: "Chester"
 permalink: /about/
 ---
 
-I care tremondously about cultivating community, climate change, long-term (technology) research, and education and my life-long goal is to put equal effort into these four areas.
+I care tremondously about cultivating community, climate change, long-term (technology) research & development, and education and my life-long goal is to put equal effort into these four areas.
 
 <br>
 
