@@ -7,6 +7,27 @@ categories: blog
 external-url:
 reading-time: 4min
 ---
+<head>
+<!-- Primary Meta Tags -->
+<title>Starting Tiny and Often, at Tiny Factories</title>
+<meta name="title" content="Becoming Courageous, Together">
+<meta name="description" content="Starting next month, I will become independent and aim to launch a product a month for the next 12 months.">
+
+<!-- Open Graph / Facebook -->
+<meta property="og:type" content="website">
+<meta property="og:url" content="http://weiweihsu.com/2019-02-20/becoming-courageous-together">
+<meta property="og:title" content="Starting Tiny and Often, at Tiny Factories">
+<meta property="og:description" content="This post is a post-mortem of a 7-day summer-camp/workshop I ran">
+<meta property="og:image" content="http://weiweihsu.com/assets/images/sptw-ninja.png">
+
+<!-- Twitter -->
+<meta property="twitter:card" content="summary_large_image">
+<meta property="twitter:url" content="http://weiweihsu.com/2019-02-20/becoming-courageous-together">
+<meta property="twitter:title" content="Becoming Courageous, Together">
+<meta property="twitter:description" content="This post is a post-mortem of a 7-day summer-camp/workshop I ran">
+<meta property="twitter:image" content="http://weiweihsu.com/assets/images/sptw-ninja.png">
+</head>
+
 
 This post is a post-mortem of a 7-day summer-camp/workshop I ran during the summer of freshman and sophomore year, called Secret Project Taiwan.
 

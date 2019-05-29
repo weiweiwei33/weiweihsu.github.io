@@ -7,13 +7,30 @@ categories:
 external-url:
 reading-time: 5min
 ---
--[] add images
--[] add meta tags
+<head>
+<!-- Primary Meta Tags -->
+<title>Starting Tiny and Often, at Tiny Factories</title>
+<meta name="title" content="Starting Tiny and Often, at Tiny Factories">
+<meta name="description" content="Starting next month, I will become independent and aim to launch a product a month for the next 12 months.">
 
+<!-- Open Graph / Facebook -->
+<meta property="og:type" content="website">
+<meta property="og:url" content="http://weiweihsu.com/2019-05-26-starting-tiny-and-often-at-tiny-factories">
+<meta property="og:title" content="Starting Tiny and Often, at Tiny Factories">
+<meta property="og:description" content="Starting next month, I will become independent and aim to launch a product a month for the next 12 months.">
+<meta property="og:image" content="https://github.com/weiweihsu/weiweihsu.github.io/blob/master/assets/images/tf_opengraph.png?raw=true">
+
+<!-- Twitter -->
+<meta property="twitter:card" content="summary_large_image">
+<meta property="twitter:url" content="http://weiweihsu.com/2019-05-26-starting-tiny-and-often-at-tiny-factories">
+<meta property="twitter:title" content="Starting Tiny and Often, at Tiny Factories">
+<meta property="twitter:description" content="Starting next month, I will become independent and aim to launch a product a month for the next 12 months.">
+<meta property="twitter:image" content="https://github.com/weiweihsu/weiweihsu.github.io/blob/master/assets/images/tf_opengraph.png?raw=true">
+</head>
 
 It's been a year since I've graduated from college, and I've grown in ways I didn't anticipate to. Through doing contract work at various organizations, I now have a better understanding of what I desire in the long-term and how I might get there.
 
-I'm giving myself a year to give my personal quests a shot. Starting next month, I will become independent and aim to launch a product a month for the next 12 months. I've decided to do this in an attempt to respond to two questions I've had for a while:
+I'm giving myself a year to give my personal quests a shot. Starting next month, I will aim to launch a product a month for the next 12 months. I've decided to do this in an attempt to respond to two questions I've had for a while:
 
 ### 1. Gaps between ideals and reality
 
@@ -29,29 +46,39 @@ In order to narrow the gap between ideals and reality, ideals need to be introdu
 
 A company that inspired this thinking was [Looking Glass Factory](https://lookingglassfactory.com) and their journey to build holographic displays. They started by offering volumetric 3d prints, and snowballed their product into something that's closer to their initial goal.
 
-##### **image**
+<br><br>
+![Looking Glass Factory's product roadmap]({{site.baseurl}}/assets/images/tf_lookingglass.jpg)
+
+<br>
 
 ### 2. Creating on our own terms
 
 This may sound naive, but one of the surprises I faced transitioning from school to the professional world was my lack of creative independence. When starting out at an entry-level position, you (obviously) don't get to make the rules and call the shots. However, I find that I work better when I work and operate in an environment that's permission-less. My best projects all stemmed from asking the question "What if?" and going full-speed ahead and trying things out. Understandably, at work, there are also several financial and organizational constraints that requires projects and experimental ideas to evolve at a different pace. While there's nothing wrong with that, I began to ask myself: "What does it take to build a permission-less career?"
 
-##### **image**
+<br><br>
+![A product I shipped with friends a year ago, called BBCube.]({{site.baseurl}}/assets/images/tf_bbcube.jpg)
+*Ex: Behind-the-scenes of shipping [BBCube](https://www.kickstarter.com/projects/1324099197/quickstarterbbcube-a-shouting-game-for-civilized-p?ref=project_link), a successfully crowdfunded tabletop game full of loud and frenzied collaboration and communication. *
+<br>
 
 ### Making a leap of faith
 
 After evaluating and exploring different paths, I think I've settled on something I would like to try. I've found a few peers who are also interested in gaining creative independence. Together, we will experiment with a collaborative incubator model where we will help each other transition into exploring and launching indie tools full-time. In order to avoid some of the unnecessary stress and competitive culture that other environments may have, we've also agreed on a revenue-sharing model that will encourage all of us to collaborate and support each other. (This was partially inspired by the model that [Otherlab](https://otherlab.com), [Indie.vc](https://www.indie.vc), and [Earnest Capital](https://earnestcapital.com) operates with.)
 
-##### **image**
+<br><br>
+![A series of small scale products and workshops we have worked on in the past.]({{site.baseurl}}/assets/images/tf_bbcube.jpg)
+*Small scale products and workshops we have worked on in the past.*
+<br>
 
-Small scale products and workshops we have worked on in the past.
 
 The idea here is that, [Tomo Kihara](https://www.tomokihara.com), [Will Felker](https://gndclouds.cc), and I will work inter-dependently to make and launch software, hardware, softgoods, workshops (or pretty much anything that can be "purchased"), every month, under the name [Tiny Factories](https://tinyfactories.space). With this model, we hope that we will be able to blend the boundaries of making, learning, and communicating in order to explore our relationship with and collective contribution to the world.
 
 ### Becoming courageous, together
 
-##### **image**
+<br><br>
+![A tweet from Ryan Hoover]({{site.baseurl}}/assets/images/tf_ryanhoover.png)
+*A tweet from Ryan Hoover*
+<br>
 
-A tweet from Ryan Hoover
 
 Recently, Founder of Product Hunt Ryan Hoover [tweeted](https://twitter.com/rrhoover/status/1127639391365627904)" I wish more people worked on things they truly enjoyed." There are countless reasons why so few of us are living a lifestyle we truly enjoy. While acknowledging that it is already a privilege to be able to think about this, I often wonder what it takes for people to switch careers or lifestyle to achieve that enjoyment.
 
@@ -59,9 +86,11 @@ Most people, including me, have many ideas or (career) paths that we would like 
 
 During the summer of 2015 and 2016, I tested this out with a group of similar-age strangers in Taiwan. Those were the best two summers I've had in my life. You can learn more about that [here](http://weiweihsu.com/2019-02-20/becoming-courageous-together).
 
-##### **image**
+<br><br>
+![A group photo of Secret Project Taiwan 2016]({{site.baseurl}}/assets/images/sptw-360-2.jpg)
+*Secret Project Taiwan 2016:  A week-long workshop where 15 college students came together to think of wild ideas, make small bets, and test them out together, on a 500-acre large farm south-east of Taipei*
+<br>
 
-Secret Project Taiwan 2016:  A week-long workshop where 15 college students came together to think of wild ideas, make small bets, and test them out together, on a 500-acre large farm south-east of Taipei
 
 ### Learn to build in public
 
@@ -94,8 +123,11 @@ If you have any thoughts, comments on this, do send me an email or a DM. Regardl
 
 If you would like to follow along, you can subscribe to our newsletter here. If you are able to support our work financially, you can become a patron here.
 
+<br>
+
 ---
 
+<br>
 ### Thank you
 
 Special thanks to Andy Shimmin and Melissa Kim for sharing thoughtful comments on many versions of this draft.
