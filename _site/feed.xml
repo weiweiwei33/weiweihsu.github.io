@@ -1,4 +1,26 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.4">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2019-06-16T17:36:01-07:00</updated><id>http://localhost:4000/</id><title type="html">Weiwei Hsu</title><subtitle>be courageous</subtitle><author><name>Weiwei</name><email>wei@weiweihsu.com</email></author><entry><title type="html">Organization, Resin | #26</title><link href="http://localhost:4000/2019-05-26/weeknotes-26" rel="alternate" type="text/html" title="Organization, Resin | #26" /><published>2019-05-26T00:00:00-07:00</published><updated>2019-05-26T00:00:00-07:00</updated><id>http://localhost:4000/2019-05-26/weeknotes-26</id><content type="html" xml:base="http://localhost:4000/2019-05-26/weeknotes-26">&lt;p&gt;This past few weeks, I’ve been interviewing different people about community and technology research. I feel that I’ve learned a ton about interviewing, what it means to cultivate a community, how can long-term work relate to the real world, the importance to address organizational challenges, and many more.&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.4">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2019-06-17T13:41:39-07:00</updated><id>http://localhost:4000/</id><title type="html">Weiwei Hsu</title><subtitle>be courageous</subtitle><author><name>Weiwei</name><email>wei@weiweihsu.com</email></author><entry><title type="html">New words, Milk tea, Hiking | #27</title><link href="http://localhost:4000/2019-06-17/weeknotes-27" rel="alternate" type="text/html" title="New words, Milk tea, Hiking | #27" /><published>2019-06-17T00:00:00-07:00</published><updated>2019-06-17T00:00:00-07:00</updated><id>http://localhost:4000/2019-06-17/weeknotes-27</id><content type="html" xml:base="http://localhost:4000/2019-06-17/weeknotes-27">&lt;p&gt;When I first set up this website for writing weeknotes, I thought I could jot down notes while linking different thoughts with different hashtags. In retrospect that’s not really possible, because half baked thoughts are just really loose. However, what I’ve noticed is that, by writing more frequently, I’m able to think more clearly in terms of when I started thinking about a new thought.&lt;/p&gt;
+
+&lt;p&gt;I’ve been thinking about how to come up with new terms. New phrases are often needed to describe a new combination of activity or thinking, but it’s hard to understand what will stick. Metaphors or mashing two words together often work well. Some friends and I tried to brainstorm around something that we are working on, and it’s really hard to come up with a new name!&lt;/p&gt;
+
+&lt;p&gt;–&lt;/p&gt;
+
+&lt;p&gt;I started growing mushrooms about 10 days ago. And it’s going pretty well given that it’s my first time? I wish there wasn’t the heat wave in bay area cause the mushrooms starting looking weird because of the heat wave.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/images/mushroom-kit.jpeg&quot; alt=&quot;mushroom kit&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;–&lt;/p&gt;
+
+&lt;p&gt;Milk tea with brown sugar has been pretty popular in China lately. I never tried it when I was there earlier in the year. I bought one a few weeks for the first time and they are surprinsgly good given how ordinary the ingredients are.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/images/brownsugar_tea.jpeg&quot; alt=&quot;milk tea with brown sugar&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;–&lt;/p&gt;
+
+&lt;p&gt;I went on a hike with college roommates last week and it was really fun! We got to fly the drone a little more and just spend time in a signal-free environment. Sometimes it’s hard to remind myself how fun it can be to hideaway from cities for a bit.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/images/hiking.jpeg&quot; alt=&quot;hiking with friends&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;We also got to play with some moment lens and it’s really fun to see tiny details in the world. I’ve been comparing different cameras lately and looking at the type of cameras different type of people use. It’s fascinating to see the wide range of cameras out there.&lt;/p&gt;</content><author><name>Weiwei Hsu</name></author><summary type="html">When I first set up this website for writing weeknotes, I thought I could jot down notes while linking different thoughts with different hashtags. In retrospect that’s not really possible, because half baked thoughts are just really loose. However, what I’ve noticed is that, by writing more frequently, I’m able to think more clearly in terms of when I started thinking about a new thought.</summary></entry><entry><title type="html">Organization, Resin | #26</title><link href="http://localhost:4000/2019-05-26/weeknotes-26" rel="alternate" type="text/html" title="Organization, Resin | #26" /><published>2019-05-26T00:00:00-07:00</published><updated>2019-05-26T00:00:00-07:00</updated><id>http://localhost:4000/2019-05-26/weeknotes-26</id><content type="html" xml:base="http://localhost:4000/2019-05-26/weeknotes-26">&lt;p&gt;This past few weeks, I’ve been interviewing different people about community and technology research. I feel that I’ve learned a ton about interviewing, what it means to cultivate a community, how can long-term work relate to the real world, the importance to address organizational challenges, and many more.&lt;/p&gt;
 
 &lt;p&gt;I was having a conversation with someone and we talked about the differences between a lab and a group that invents a new medium (writing, book, printing press, personal computer, essentially a new way to communicate without being bounded by time and space (?)). I thought that that’s a fascinating distinction. Historically speaking, a technology lab is a place where people gather to investigate a computing-related questions. What they do with the results of that investigation is sometimes less important (most of the time a different stakeholder go do something with that). In the case where Dynamicland claims to be inventing a new medium, it needs to be operating in a way that’s different from how a lab operates. By claiming to be inventing a new medium, you are also suggesting that what you invent will be threaded into our daily activities.&lt;/p&gt;
 
@@ -250,36 +272,4 @@ Extra special thanks to my parents, John Bielenberg, Marc O’Brien, Christina L
   &lt;li&gt;How do we get buy-ins from people, or what is the ‘killer app’?&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;p&gt;To an extent, the public library or books as a medium had a ‘killer app’ called the bible, disposable paper in general had a ‘killer app’ where it enabled people to communiate with each other through mail and postal services.&lt;/p&gt;</content><author><name>Weiwei Hsu</name></author><summary type="html">This is my 20th weeknotes. It feels like I’ve been writing weeknotes for half a year now but I suppose I’m still a few weeks short from that.</summary></entry><entry><title type="html">Events, Catching up, Like-minded people | #19</title><link href="http://localhost:4000/2019-02-10/weeknotes-19" rel="alternate" type="text/html" title="Events, Catching up, Like-minded people | #19" /><published>2019-02-10T00:00:00-08:00</published><updated>2019-02-10T00:00:00-08:00</updated><id>http://localhost:4000/2019-02-10/weeknotes-19</id><content type="html" xml:base="http://localhost:4000/2019-02-10/weeknotes-19">&lt;p&gt;Missed a week of weeknotes, so here’s a long one.&lt;/p&gt;
-
-&lt;p&gt;These past two weeks were a lot of absorbing and digesting.&lt;/p&gt;
-
-&lt;p&gt;I attended the first social systems game night in San Francisco, it was very fun to play games with people who have similar interests. Since there were ~30 people, we were divided into smaller groups, and it was fascinating to hear every group’s game results.&lt;/p&gt;
-
-&lt;p&gt;I also attended the first Micromobility Conference, out of curiousity, and personal interest in urban systems. It was very refreshing to be with a large group of people that aren’t primarily there to discuss design or engineering.&lt;/p&gt;
-
-&lt;p&gt;In general, both of these events made me want to attend more first-of-its-kind event/conference more in the future.&lt;/p&gt;
-
-&lt;p&gt;–&lt;/p&gt;
-
-&lt;p&gt;These past two weeks were also full of meeting new people and catching up with old friends.&lt;/p&gt;
-
-&lt;p&gt;Had dinner with some of my college friends. It’s fun to go down a memory-viewing-mode and discuss some of the things that happened in college. I always find it nice to meet up.&lt;/p&gt;
-
-&lt;p&gt;Met with a few groups that work for non-profit, animation company, and independent researchers. It is so refreshing and delightful to meet new people that share similar interests and goals.&lt;/p&gt;
-
-&lt;p&gt;Addtionally, I’m very greatful to those who offered their time to share advice, skills, and tips. Some of the conversations helped me understand that I may be better suited for operational work (with some design work invovled), some of the conversations helped me understand the possible products/services that an individual or a small team of 2-3 can build; beyond sass and physical products.&lt;/p&gt;
-
-&lt;p&gt;–&lt;/p&gt;
-
-&lt;p&gt;It’s surprising to reunite with someone that I met a few years ago for a workshop, and realizing that we’ve been thinking about similar things for the past few months.&lt;/p&gt;
-
-&lt;p&gt;It also is quite magical to find or start a tribe where people are all at similar career phase, and all share similar and weird goals.&lt;/p&gt;
-
-&lt;p&gt;–&lt;/p&gt;
-
-&lt;p&gt;Thanks to a friend, I’ve learned quite a bit about European design culture over the past few days. It was great to learn that many design/technology people are funded by governmental grants, and that provides a completely different incentive structure for people to think and plan for their career.&lt;/p&gt;
-
-&lt;p&gt;–&lt;/p&gt;
-
-&lt;p&gt;I think I’m now at a point where I cannot stop thinking about a model that can help people to gain creative autonomy.&lt;/p&gt;</content><author><name>Weiwei Hsu</name></author><summary type="html">Missed a week of weeknotes, so here’s a long one.</summary></entry></feed>
+&lt;p&gt;To an extent, the public library or books as a medium had a ‘killer app’ called the bible, disposable paper in general had a ‘killer app’ where it enabled people to communiate with each other through mail and postal services.&lt;/p&gt;</content><author><name>Weiwei Hsu</name></author><summary type="html">This is my 20th weeknotes. It feels like I’ve been writing weeknotes for half a year now but I suppose I’m still a few weeks short from that.</summary></entry></feed>
