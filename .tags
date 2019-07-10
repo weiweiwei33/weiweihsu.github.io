@@ -39,6 +39,8 @@ gtag	_site/2019-04-21/weeknotes-24.html	/^  function gtag(){dataLayer.push(argum
 gtag	_site/2019-05-12/weeknotes-25.html	/^  function gtag(){dataLayer.push(arguments);}$/;"	f
 gtag	_site/2019-05-26/weeknotes-26.html	/^  function gtag(){dataLayer.push(arguments);}$/;"	f
 gtag	_site/2019-06-17/weeknotes-27.html	/^  function gtag(){dataLayer.push(arguments);}$/;"	f
+gtag	_site/2019-06-23/weeknotes-28.html	/^  function gtag(){dataLayer.push(arguments);}$/;"	f
+gtag	_site/2019-06-30/weeknotes-29.html	/^  function gtag(){dataLayer.push(arguments);}$/;"	f
 gtag	_site/about/index.html	/^  function gtag(){dataLayer.push(arguments);}$/;"	f
 gtag	_site/collection/index.html	/^  function gtag(){dataLayer.push(arguments);}$/;"	f
 gtag	_site/index.html	/^  function gtag(){dataLayer.push(arguments);}$/;"	f
@@ -48,4 +50,5 @@ gtag	_site/pages/weeknotes/page4/index.html	/^  function gtag(){dataLayer.push(a
 gtag	_site/pages/weeknotes/page5/index.html	/^  function gtag(){dataLayer.push(arguments);}$/;"	f
 gtag	_site/pages/weeknotes/page6/index.html	/^  function gtag(){dataLayer.push(arguments);}$/;"	f
 gtag	_site/pages/weeknotes/page7/index.html	/^  function gtag(){dataLayer.push(arguments);}$/;"	f
+gtag	_site/pages/weeknotes/page8/index.html	/^  function gtag(){dataLayer.push(arguments);}$/;"	f
 gtag	_site/weeknotes.html	/^  function gtag(){dataLayer.push(arguments);}$/;"	f
