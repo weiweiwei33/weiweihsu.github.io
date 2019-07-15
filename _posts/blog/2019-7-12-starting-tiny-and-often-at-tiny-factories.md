@@ -1,9 +1,126 @@
 ---
 layout: post
-title:  Starting Tiny, and Often at Tiny Factories
+title:  Starting Tiny, and Often
 author: Weiwei Hsu
 drink: water
 categories: blog
-external-url: https://hackernoon.com/starting-tiny-and-often-at-tiny-factories-a067fc73e3db
+external-url:
 reading-time: 9min
 ---
+
+
+*It’s been a year since I’ve graduated from college, and I’ve grown in ways I didn’t anticipate to. Through doing contract work at various organizations, I now have a better understanding of what I desire in the long-term and how I might get there.*
+<br><br>
+---
+<br>
+
+Starting this month, I will be launching a product a month for the next 12 months. I’ve decided to do this in an attempt to respond to two questions I’ve had for a while:
+<br><br>
+## 1. Gaps between ideals and reality
+
+Urban planning, people-computer interaction, and education are all topics that I’m broadly interested in and would like to contribute to in my lifetime. One thing that has struck me is how many strong recommendations and investigations have been proposed and conducted in the past few decades, even centuries. Yet, most of those (utopian) proposals are never realized. I’ve been asking myself: “How can we begin to narrow the gap between ideals and reality, and the gap between academic and industry?” I don’t have an answer yet, but I have 2 hypotheses that I’d like to test out:
+
+### → **Ideals as cultural movement**
+
+In order to narrow the gap between ideals and reality, ideals need to become a cultural movement or a lifestyle (for example: [The Minimalists](https://www.theminimalists.com/)), in a language that non-experts can understand, internalize, and even become an ambassador of. This requires us to expand upon our current sets of vocabularies.
+
+It is often hard to invent new vocabularies, but having new vocabularies (and hence new lifestyle) takes on a crucial role in expanding what we perceive as possible. Two movements/lifestyle that is relatively new is the minimalism (thanks to [The Minimalists](https://www.theminimalists.com/), Marie Kondo, and others), as well as the maker movement (thanks to Fablab, MAKE, and others). What’s successful about both of these movements is that the name is rather catchy, and easy to remember and to interpret.
+
+Another way to underline the importance of branding and communication work is to think about the emotions you feel when you hear [net neutrality] vs [internet discrimination], and the difference between [uploading a folder to the cloud] vs [sending a folder to a data server] (many people I’ve talked to seriously thought they were uploading data to the clouds in the sky).
+
+### → **Ideals as bite-sized initiatives**
+
+In order to narrow the gap between ideals and reality, ideals need to be introduced to the world in bite-size. Often times, it is hard for people to relate to a truly new (and different) future and it is even harder for people to integrate that future into their lives in a short period of time. As a result, ideals should be introduced in smaller chunks, so that it’s “digestible”.
+
+A company that inspired this thinking was [Looking Glass Factory](https://lookingglassfactory.com/) and their journey to build holographic displays. They started by offering volumetric 3d prints, and snowballed their product into something that’s closer to their initial goal.
+
+![]({{site.baseurl}}/assets/images/tf_lookingglass.jpg)
+
+
+In short, there’s quite a bit of branding and communication work that’s required to translate an ideal into something comprehendible, and actionable.
+<br><br>
+## 2. Creating on our own terms
+
+This may sound naive, but one of the surprises I faced transitioning from school to the professional world was my lack of creative independence. When starting out at an entry-level position, you (obviously) don’t get to make the rules and call the shots. However, I find that I work better when I work and operate in an environment that’s permission-less. My best projects all stemmed from asking the question “What if?” and going full-speed ahead and trying things out. Understandably, at work, there are also several financial and organizational constraints that requires projects and experimental ideas to evolve at a different pace. While there’s nothing wrong with that, I began to ask myself:
+
+<br>
+> “What does it take to build a permission-less career?”
+
+<br>
+
+![Ex: Behind-the-scenes of shipping BBCube, a successfully crowdfunded tabletop game full of loud and frenzied collaboration and communication.]({{site.baseurl}}/assets/images/tf_bbcube.jpg)
+
+
+<br><br>
+## Making a leap of faith
+
+After evaluating and exploring different paths, I think I’ve settled on something I would like to try. I’ve found a few peers who are also interested in gaining creative independence. Together, we will experiment with a collaborative incubator model where we will help each other transition into exploring and launching indie products full-time. In order to avoid some of the unnecessary stress and competitive culture that other environments may have, we’ve also agreed on a revenue-sharing model that will encourage all of us to collaborate and support each other. (This was partially inspired by the model that [Otherlab](https://medium.com/u/7b22f38ff495), [Indie.vc](https://medium.com/u/2932d151e989), and [Earnest Capital](https://earnestcapital.com/) operates with.)
+
+![Small scale products and workshops we have worked on in the past.]({{site.baseurl}}/assets/images/tf_products.png)
+
+The idea here is that, [Tomo Kihara](https://medium.com/u/3627bb308c03), [William Felker](https://medium.com/u/5d5ef26897a1), me and other like-minded people will work inter-dependently to make and launch software, hardware, softgoods, workshops, every month, under the name [Tiny Factories](https://tinyfactories.space/). With this model, we hope that we will be able to blend the boundaries of making, learning, and communicating in order to explore our relationship with and collective contribution to the world.
+<br><br>
+## Becoming courageous, together
+
+![A tweet from Ryan Hoover]({{site.baseurl}}/assets/images/tf_ryanhoover.png)
+
+Recently, Founder of Product Hunt [Ryan Hoover](https://medium.com/u/c2146664c8e4) [tweeted](https://twitter.com/rrhoover/status/1127639391365627904) “I wish more people worked on things they truly enjoyed.” There are countless reasons why so few of us are living a lifestyle we truly enjoy. While acknowledging that it is already a privilege to be able to think about this, I often wonder what it takes for people to switch careers or lifestyle to achieve that enjoyment.
+
+Most people, including me, have many ideas or (career) paths that we would like to explore. However, those paths often require making a risky change in life that very few end up pursuing what they are truly interested in, early in their life. If making a leap of faith is easier with other people, then why not find a group of people to do it together?
+
+During the summer of 2015 and 2016, I tested this out with a group of similar-age strangers in Taiwan. Those were the best two summers I’ve had in my life. You can learn more about that [here](http://weiweihsu.com/2019-02-20/becoming-courageous-together).
+
+![Secret Project Taiwan 2016: A week-long workshop where 15 college students came together to think of wild ideas, make small bets, and test them out together, on a 500-acre large farm south-east of Taipei]({{site.baseurl}}/assets/images/tf_sptw16.jpg)
+<br><br>
+## Learn to build in public
+
+As someone who has been living in the Bay Area for 4+ years, I find that most people prefer to make a *big reveal* rather than sharing as they are building. There are several psychological reasons behind that. However, I’m interested in being more transparent, and sharing both the ups and the downs of my journey of becoming (or failing to become) creatively and financially independent.
+
+I’m very much looking forward to this opportunity for me to explore a wide range of projects: products/services that are physical, analogue, digital, general-purpose, single-purpose, self-serve, useful, useless, timely, timeless, and many more.
+
+For every product, I’m also planning to release a video that captures and shares the details of a project in ways a blog post or a tweet cannot encapsulate. I’ve always had an interest in videos and animations and this will be a chance for me to learn all of that!
+<br><br>
+## Is this meaningful?
+
+A while ago, someone asked me, and I para-phrase:” On your Twitter profile, you said that you are interested in self-actualization, urban systems, and augmenting human intellect. How does, say, launching a design plugin, align with those goals and interests?” It is a great question.
+
+On a recent [podcast](https://www.breaker.audio/venture-stories/e/46331227), [Tim O’Reilly](https://medium.com/u/8bd20f383de4) discussed the importance to expand the vocabularies (and hence mindsets) we have. One of my meta-goal here is to expand the vocabularies regarding two aspects:
+
+- Possible career paths: Though my medium-term goal is to work on energy-first and privacy-first projects, I believe I will be more useful if I can practice making, launching, improving, marketing, selling products in a monthly-cycle, because all of those are muscles that I need to exercise, ideally as early and as often. This will not only create opportunities for practicing launching into different markets, but also leave room for products to breathe, and grow organically over time.
+- Ways to communicate with the larger world: Technology is going to be even more intertwined in our lives. One pattern I’ve noticed is that a digital product or service is often treated as a 100% technology project. It’s only until recently, that more and more people are realizing that as much as a product is a technology project, it’s also a social project, a cultural project, a political project, an environmental project, and [insert a humanity characteristic], so I think it is important for me (and for others) to learn and take risk at a scale that doesn’t cost other people’s lives.
+
+As much as there’s a larger goal here, I will be starting small. What I do in the next 6 or even 12 months may look no where near the goals I’ve described here. We will see.
+<br><br>
+## Closing thoughts
+
+Often times, I hear the phrase “go big or go home”. I’ve been wondering, what if, for some of the work that I do, I want to neither go big nor go home? This might be fairly counter-intuitive given where I live right now. However, I believe there are a lot of people who are interested in creating/investigating on their own terms, and the common connotation is that you can only do so by saving a ton and later burn through those savings comfortably. I would like to see an alternative future where anyone who would like to create on their own terms can do so by having some support structure.
+
+> Everyone should have a chance in unlocking their own creative potential, as early as they’d like.
+
+There’s always a journey, or a hike before you can reach where you are aiming for. To be honest, I’m very nervous and excited about this; there are many skills that are needed for launching successful products that I don’t have yet. However, I feel that this is a now or never thing. While I’m still young, and have little strings attached, I want to do something I’m unlikely to do in 20 years. If this is even mildly successful, I will then focus on more complex projects/products that require more dedicated attention.
+<br><br>
+## Join us at Tiny Factories!
+
+There are still a lot to figure out, and that’s why we’ve created a space for us to experiment and learn a lot in a rather short period of time.
+
+If you are a designer, coder, illustrator or anyone who make stuff and is interested in joining the online group or join the onsite camp, do sign up via **[this form](https://tiny-factories.typeform.com/to/hotpAx)**! And if you want to hear about what Tiny Factories is up to, follow our **[newsletter](https://camp.us20.list-manage.com/subscribe/post?u=46af769d909161af00534514a&id=46c661d0ff).**
+
+---
+<br><br>
+## Thank you
+
+Special thanks to Andy Shimmin and Melissa Kim for sharing thoughtful comments on many versions of this draft.
+
+Shoutout to Tomo Kihara and Will Felker for agreeing to become courageous together. Let’s see where we will go from here!
+
+I wouldn’t be here without my former colleagues and work environments. I’m very grateful to have had the opportunity to work with many talented people during my past internship and positions.
+<br><br>
+## Related reading
+
+This is a series of articles that led to or helped shape my thinking
+
+- [Tim O’Reilly](https://medium.com/u/8bd20f383de4) wrote about [The Fundamental Problem with Silicon Valley’s Favorite Growth Strategy](https://qz.com/1540608/the-problem-with-silicon-valleys-obsession-with-blitzscaling-growth/)
+- [Sahil Lavingia](https://medium.com/u/8df60704dc5b) wrote about [Reflecting on My Failure to Build a Billion-Dollar Company](https://medium.com/s/story/reflecting-on-my-failure-to-build-a-billion-dollar-company-b0c31d7db0e7)
+- Jon Yongfook wrote about [12 Startups in 12 Months](https://www.yongfook.com/12-startups-in-12-months.html)
+- I co-wrote about [Behind CCA’s Unofficial Mascot](https://blog.usejournal.com/behind-ccas-unofficial-mascot-da63d68f15c)
+- I wrote about [Becoming Courageous, Together](http://weiweihsu.com/2019-02-20/becoming-courageous-together)
