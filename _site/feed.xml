@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.4">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2019-07-15T15:05:03-07:00</updated><id>http://localhost:4000/</id><title type="html">Weiwei Hsu</title><subtitle>be courageous</subtitle><author><name>Weiwei</name><email>wei@weiweihsu.com</email></author><entry><title type="html">Starting Tiny, and Often</title><link href="http://localhost:4000/2019-07-12/starting-tiny-and-often-at-tiny-factories" rel="alternate" type="text/html" title="Starting Tiny, and Often" /><published>2019-07-12T00:00:00-07:00</published><updated>2019-07-12T00:00:00-07:00</updated><id>http://localhost:4000/2019-07-12/starting-tiny-and-often-at-tiny-factories</id><content type="html" xml:base="http://localhost:4000/2019-07-12/starting-tiny-and-often-at-tiny-factories">&lt;!-- Primary Meta Tags --&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.4">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2019-07-15T15:08:29-07:00</updated><id>http://localhost:4000/</id><title type="html">Weiwei Hsu</title><subtitle>be courageous</subtitle><author><name>Weiwei</name><email>wei@weiweihsu.com</email></author><entry><title type="html">Starting Tiny, and Often</title><link href="http://localhost:4000/2019-07-12/starting-tiny-and-often-at-tiny-factories" rel="alternate" type="text/html" title="Starting Tiny, and Often" /><published>2019-07-12T00:00:00-07:00</published><updated>2019-07-12T00:00:00-07:00</updated><id>http://localhost:4000/2019-07-12/starting-tiny-and-often-at-tiny-factories</id><content type="html" xml:base="http://localhost:4000/2019-07-12/starting-tiny-and-often-at-tiny-factories">&lt;!-- Primary Meta Tags --&gt;
 &lt;title&gt;Starting Tiny, and Often&lt;/title&gt;
 &lt;meta name=&quot;title&quot; content=&quot;Starting Tiny, and Often&quot; /&gt;
 
@@ -13,7 +13,7 @@
 
 &lt;meta property=&quot;og:description&quot; content=&quot;Starting this month, I will be launching a product a month for the next 12 months. I’ve decided to do this in an attempt to respond to two questions I’ve had for a while: &quot; /&gt;
 
-&lt;meta property=&quot;og:image&quot; content=&quot;https://github.com/weiweihsu/weiweihsu.github.io/blob/master/assets/images/tf_opengraph.png&quot; /&gt;
+&lt;meta property=&quot;og:image&quot; content=&quot;http://weiweihsu.com/assets/images/tf_opengraph.png&quot; /&gt;
 
 &lt;!-- Twitter --&gt;
 &lt;meta property=&quot;twitter:card&quot; content=&quot;summary_large_image&quot; /&gt;
@@ -24,7 +24,7 @@
 
 &lt;meta property=&quot;twitter:description&quot; content=&quot;Starting this month, I will be launching a product a month for the next 12 months. I’ve decided to do this in an attempt to respond to two questions I’ve had for a while: &quot; /&gt;
 
-&lt;meta property=&quot;twitter:image&quot; content=&quot;https://github.com/weiweihsu/weiweihsu.github.io/blob/master/assets/images/tf_opengraph.png&quot; /&gt;
+&lt;meta property=&quot;twitter:image&quot; content=&quot;http://weiweihsu.com/assets/images/tf_opengraph.png&quot; /&gt;
 
 &lt;p&gt;&lt;em&gt;It’s been a year since I’ve graduated from college, and I’ve grown in ways I didn’t anticipate to. Through doing contract work at various organizations, I now have a better understanding of what I desire in the long-term and how I might get there.&lt;/em&gt;
 &lt;br /&gt;&lt;br /&gt;
