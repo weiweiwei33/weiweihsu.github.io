@@ -53,8 +53,8 @@ In order to narrow the gap between ideals and reality, ideals need to be introdu
 
 A company that inspired this thinking was [Looking Glass Factory](https://lookingglassfactory.com/) and their journey to build holographic displays. They started by offering volumetric 3d prints, and snowballed their product into something that’s closer to their initial goal.
 
-![]({{site.baseurl}}/assets/images/tf_lookingglass.jpg)
-
+![Looking glass product roadmap]({{site.baseurl}}/assets/images/tf_lookingglass.jpg)
+*Looking Glass Factory's Product Roadmap*
 
 In short, there’s quite a bit of branding and communication work that’s required to translate an ideal into something comprehendible, and actionable.
 <br><br>
@@ -67,21 +67,23 @@ This may sound naive, but one of the surprises I faced transitioning from school
 
 <br>
 
-![Ex: Behind-the-scenes of shipping BBCube, a successfully crowdfunded tabletop game full of loud and frenzied collaboration and communication.]({{site.baseurl}}/assets/images/tf_bbcube.jpg)
-
+![Preparing for product launches for a game]({{site.baseurl}}/assets/images/tf_bbcube.jpg)
+*Ex: Behind-the-scenes of shipping BBCube, a successfully crowdfunded tabletop game full of loud and frenzied collaboration and communication.*
 
 <br><br>
 ## Making a leap of faith
 
 After evaluating and exploring different paths, I think I’ve settled on something I would like to try. I’ve found a few peers who are also interested in gaining creative independence. Together, we will experiment with a collaborative incubator model where we will help each other transition into exploring and launching indie products full-time. In order to avoid some of the unnecessary stress and competitive culture that other environments may have, we’ve also agreed on a revenue-sharing model that will encourage all of us to collaborate and support each other. (This was partially inspired by the model that [Otherlab](https://medium.com/u/7b22f38ff495), [Indie.vc](https://medium.com/u/2932d151e989), and [Earnest Capital](https://earnestcapital.com/) operates with.)
 
-![Small scale products and workshops we have worked on in the past.]({{site.baseurl}}/assets/images/tf_products.png)
+![a series of small products]({{site.baseurl}}/assets/images/tf_products.png)
+*Small scale products and workshops we have worked on in the past.*
 
 The idea here is that, [Tomo Kihara](https://medium.com/u/3627bb308c03), [William Felker](https://medium.com/u/5d5ef26897a1), me and other like-minded people will work inter-dependently to make and launch software, hardware, softgoods, workshops, every month, under the name [Tiny Factories](https://tinyfactories.space/). With this model, we hope that we will be able to blend the boundaries of making, learning, and communicating in order to explore our relationship with and collective contribution to the world.
 <br><br>
 ## Becoming courageous, together
 
 ![A tweet from Ryan Hoover]({{site.baseurl}}/assets/images/tf_ryanhoover.png)
+*A tweet from Ryan Hoover, founder of Product Hunt*
 
 Recently, Founder of Product Hunt [Ryan Hoover](https://medium.com/u/c2146664c8e4) [tweeted](https://twitter.com/rrhoover/status/1127639391365627904) “I wish more people worked on things they truly enjoyed.” There are countless reasons why so few of us are living a lifestyle we truly enjoy. While acknowledging that it is already a privilege to be able to think about this, I often wonder what it takes for people to switch careers or lifestyle to achieve that enjoyment.
 
@@ -89,7 +91,8 @@ Most people, including me, have many ideas or (career) paths that we would like 
 
 During the summer of 2015 and 2016, I tested this out with a group of similar-age strangers in Taiwan. Those were the best two summers I’ve had in my life. You can learn more about that [here](http://weiweihsu.com/2019-02-20/becoming-courageous-together).
 
-![Secret Project Taiwan 2016: A week-long workshop where 15 college students came together to think of wild ideas, make small bets, and test them out together, on a 500-acre large farm south-east of Taipei]({{site.baseurl}}/assets/images/tf_sptw16.jpg)
+![group photo]({{site.baseurl}}/assets/images/tf_sptw16.jpg)
+*Secret Project Taiwan 2016: A week-long workshop where 15 college students came together to think of wild ideas, make small bets, and test them out together, on a 500-acre large farm south-east of Taipei*
 <br><br>
 ## Learn to build in public
 
