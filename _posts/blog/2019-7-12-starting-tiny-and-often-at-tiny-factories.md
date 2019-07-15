@@ -8,6 +8,25 @@ external-url:
 reading-time: 9min
 ---
 
+<!-- Primary Meta Tags -->
+<title>Starting Tiny, and Often</title>
+<meta name="title" content="Starting Tiny, and Often">
+<meta name="description" content="Starting this month, I will be launching a product a month for the next 12 months. I’ve decided to do this in an attempt to respond to two questions I’ve had for a while: ">
+
+<!-- Open Graph / Facebook -->
+<meta property="og:type" content="website">
+<meta property="og:url" content="http://weiweihsu.com/2019-07-12/starting-tiny-and-often-at-tiny-factories">
+<meta property="og:title" content="Starting Tiny, and Often">
+<meta property="og:description" content="Starting this month, I will be launching a product a month for the next 12 months. I’ve decided to do this in an attempt to respond to two questions I’ve had for a while: ">
+<meta property="og:image" content="https://github.com/weiweihsu/weiweihsu.github.io/blob/master/assets/images/tf_opengraph.png">
+
+<!-- Twitter -->
+<meta property="twitter:card" content="summary_large_image">
+<meta property="twitter:url" content="http://weiweihsu.com/2019-07-12/starting-tiny-and-often-at-tiny-factories">
+<meta property="twitter:title" content="Starting Tiny, and Often">
+<meta property="twitter:description" content="Starting this month, I will be launching a product a month for the next 12 months. I’ve decided to do this in an attempt to respond to two questions I’ve had for a while: ">
+<meta property="twitter:image" content="https://github.com/weiweihsu/weiweihsu.github.io/blob/master/assets/images/tf_opengraph.png">
+
 
 *It’s been a year since I’ve graduated from college, and I’ve grown in ways I didn’t anticipate to. Through doing contract work at various organizations, I now have a better understanding of what I desire in the long-term and how I might get there.*
 <br><br>
