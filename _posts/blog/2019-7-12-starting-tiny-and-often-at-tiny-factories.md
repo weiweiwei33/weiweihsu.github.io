@@ -116,8 +116,11 @@ As much as there’s a larger goal here, I will be starting small. What I do in 
 ## Closing thoughts
 
 Often times, I hear the phrase “go big or go home”. I’ve been wondering, what if, for some of the work that I do, I want to neither go big nor go home? This might be fairly counter-intuitive given where I live right now. However, I believe there are a lot of people who are interested in creating/investigating on their own terms, and the common connotation is that you can only do so by saving a ton and later burn through those savings comfortably. I would like to see an alternative future where anyone who would like to create on their own terms can do so by having some support structure.
-
+<br><br>
 > Everyone should have a chance in unlocking their own creative potential, as early as they’d like.
+
+
+<br>
 
 There’s always a journey, or a hike before you can reach where you are aiming for. To be honest, I’m very nervous and excited about this; there are many skills that are needed for launching successful products that I don’t have yet. However, I feel that this is a now or never thing. While I’m still young, and have little strings attached, I want to do something I’m unlikely to do in 20 years. If this is even mildly successful, I will then focus on more complex projects/products that require more dedicated attention.
 <br><br>
