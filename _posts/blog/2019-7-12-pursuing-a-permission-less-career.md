@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  Starting Tiny, and Often
+title:  Pursuing a Permission-less Career
 author: Weiwei Hsu
 drink: water
 categories: blog
@@ -9,21 +9,21 @@ reading-time: 9min
 ---
 
 <!-- Primary Meta Tags -->
-<title>Starting Tiny, and Often</title>
-<meta name="title" content="Starting Tiny, and Often">
+<title>Pursuing a Permission-less Career</title>
+<meta name="title" content="Pursuing a Permission-less Career">
 <meta name="description" content="Starting this month, I will be launching a product a month for the next 12 months. I’ve decided to do this in an attempt to respond to two questions I’ve had for a while: ">
 
 <!-- Open Graph / Facebook -->
 <meta property="og:type" content="website">
 <meta property="og:url" content="http://weiweihsu.com/2019-07-12/starting-tiny-and-often-at-tiny-factories">
-<meta property="og:title" content="Starting Tiny, and Often">
+<meta property="og:title" content="Pursuing a Permission-less Career">
 <meta property="og:description" content="Starting this month, I will be launching a product a month for the next 12 months. I’ve decided to do this in an attempt to respond to two questions I’ve had for a while: ">
 <meta property="og:image" content="http://weiweihsu.com/assets/images/tf_opengraph.png">
 
 <!-- Twitter -->
 <meta property="twitter:card" content="summary_large_image">
 <meta property="twitter:url" content="http://weiweihsu.com/2019-07-12/starting-tiny-and-often-at-tiny-factories">
-<meta property="twitter:title" content="Starting Tiny, and Often">
+<meta property="twitter:title" content="Pursuing a Permission-less Career">
 <meta property="twitter:description" content="Starting this month, I will be launching a product a month for the next 12 months. I’ve decided to do this in an attempt to respond to two questions I’ve had for a while: ">
 <meta property="twitter:image" content="http://weiweihsu.com/assets/images/tf_opengraph.png">
 
