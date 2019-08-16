@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Judgements, Terrace House| #30"
+title:  "Judgements, Terrace House | #30"
 author: "Weiwei Hsu"
 drink: water
 categories: weeknotes
