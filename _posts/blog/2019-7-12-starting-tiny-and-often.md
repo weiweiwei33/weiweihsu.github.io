@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  Pursuing a Permission-less Career
+title:  Starting Tiny, and Often
 author: Weiwei Hsu
 drink: water
 categories: blog
