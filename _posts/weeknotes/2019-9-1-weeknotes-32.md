@@ -8,4 +8,4 @@ categories: weeknotes
 
 
 
-![an image of tennis court]({{site.baseurl}}/assets/images/sports.jpeg)
+![an image of plants]({{site.baseurl}}/assets/images/plant.jpeg)

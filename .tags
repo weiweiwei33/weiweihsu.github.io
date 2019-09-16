@@ -44,6 +44,8 @@ gtag	_site/2019-07-10/weeknotes-29.html	/^  function gtag(){dataLayer.push(argum
 gtag	_site/2019-07-12/starting-tiny-and-often.html	/^  function gtag(){dataLayer.push(arguments);}$/;"	f
 gtag	_site/2019-08-04/weeknotes-30.html	/^  function gtag(){dataLayer.push(arguments);}$/;"	f
 gtag	_site/2019-08-18/weeknotes-31.html	/^  function gtag(){dataLayer.push(arguments);}$/;"	f
+gtag	_site/2019-09-01/weeknotes-32.html	/^  function gtag(){dataLayer.push(arguments);}$/;"	f
+gtag	_site/2019-09-15/weeknotes-33.html	/^  function gtag(){dataLayer.push(arguments);}$/;"	f
 gtag	_site/about/index.html	/^  function gtag(){dataLayer.push(arguments);}$/;"	f
 gtag	_site/collection/index.html	/^  function gtag(){dataLayer.push(arguments);}$/;"	f
 gtag	_site/index.html	/^  function gtag(){dataLayer.push(arguments);}$/;"	f
@@ -54,4 +56,5 @@ gtag	_site/pages/weeknotes/page5/index.html	/^  function gtag(){dataLayer.push(a
 gtag	_site/pages/weeknotes/page6/index.html	/^  function gtag(){dataLayer.push(arguments);}$/;"	f
 gtag	_site/pages/weeknotes/page7/index.html	/^  function gtag(){dataLayer.push(arguments);}$/;"	f
 gtag	_site/pages/weeknotes/page8/index.html	/^  function gtag(){dataLayer.push(arguments);}$/;"	f
+gtag	_site/pages/weeknotes/page9/index.html	/^  function gtag(){dataLayer.push(arguments);}$/;"	f
 gtag	_site/weeknotes.html	/^  function gtag(){dataLayer.push(arguments);}$/;"	f
