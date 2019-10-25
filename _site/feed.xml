@@ -1,4 +1,43 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.4">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2019-10-18T11:21:25-07:00</updated><id>http://localhost:4000/</id><title type="html">Weiwei Hsu</title><subtitle>be courageous</subtitle><author><name>Weiwei</name><email>wei@weiweihsu.com</email></author><entry><title type="html">Happy, Twitter, Tahoe | #34</title><link href="http://localhost:4000/2019-10-06/weeknotes-34" rel="alternate" type="text/html" title="Happy, Twitter, Tahoe | #34" /><published>2019-10-06T00:00:00-07:00</published><updated>2019-10-06T00:00:00-07:00</updated><id>http://localhost:4000/2019-10-06/weeknotes-34</id><content type="html" xml:base="http://localhost:4000/2019-10-06/weeknotes-34">&lt;p&gt;Oh wow, I haven’t written a weeknote in a month…&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.4">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2019-10-25T14:17:03-07:00</updated><id>http://localhost:4000/</id><title type="html">Weiwei Hsu</title><subtitle>be courageous</subtitle><author><name>Weiwei</name><email>wei@weiweihsu.com</email></author><entry><title type="html">NBA, Halloween, Cabela’s| #35</title><link href="http://localhost:4000/2019-10-21/weeknotes-36" rel="alternate" type="text/html" title="NBA, Halloween, Cabela's| #35" /><published>2019-10-21T00:00:00-07:00</published><updated>2019-10-21T00:00:00-07:00</updated><id>http://localhost:4000/2019-10-21/weeknotes-36</id><content type="html" xml:base="http://localhost:4000/2019-10-21/weeknotes-36">&lt;p&gt;Went to my first NBA game (ever) this month! It’s a brand new stadium and it was so interesting to see how the stadium was designed, how motion design and sound effects were used during the game, and how different activities were fit into time-out sessions.
+&lt;img src=&quot;/assets/images/nba.jpeg&quot; alt=&quot;nba game in san francisco&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;–&lt;/p&gt;
+
+&lt;p&gt;Growing up, my mom would put out some halloween decorations in the house, but I’ve never seen halloween decorations like this!
+&lt;img src=&quot;/assets/images/halloween.png&quot; alt=&quot;halloween decoration&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;–&lt;/p&gt;
+
+&lt;p&gt;Walked into a Cabela’s (a store that has hunting and camping equipments) for the first time. On one side of the shelve there are unicorn plush toys, on the other shelve there are real guns.
+&lt;img src=&quot;/assets/images/cabela's.jpeg&quot; alt=&quot;Cabela's shelve&quot; /&gt;&lt;/p&gt;</content><author><name>Weiwei Hsu</name></author><summary type="html">Went to my first NBA game (ever) this month! It’s a brand new stadium and it was so interesting to see how the stadium was designed, how motion design and sound effects were used during the game, and how different activities were fit into time-out sessions.</summary></entry><entry><title type="html">Hundred Rabbits, Ideal Life Style | #35</title><link href="http://localhost:4000/2019-10-20/weeknotes-35" rel="alternate" type="text/html" title="Hundred Rabbits, Ideal Life Style | #35" /><published>2019-10-20T00:00:00-07:00</published><updated>2019-10-20T00:00:00-07:00</updated><id>http://localhost:4000/2019-10-20/weeknotes-35</id><content type="html" xml:base="http://localhost:4000/2019-10-20/weeknotes-35">&lt;p&gt;Several of my friends follow Hundred Rabbits: they (two people) have been sailing and creating software, recipe, games, illustrations on their off-the-grid studio (boat). They are funded by supporters on patreon and they gave a talk at XOXO on how they changed their lifestyle to adapt to living on a boat.&lt;/p&gt;
+
+&lt;p&gt;It wasn’t until watching this &lt;a href=&quot;https://www.youtube.com/watch?v=BW32yUEymvU&amp;amp;feature=youtu.be&quot;&gt;talk&lt;/a&gt; that I actually got to learn more about them. (I know, I could have put into more effort in reading and watching the content they’ve put out.)&lt;/p&gt;
+
+&lt;p&gt;There are a lot of things that we take for granted by living in cities, things i didn’t really think about until watching this talk:&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;they can’t use adobe products offline because their software need to connect to internet to check your subscription&lt;/li&gt;
+  &lt;li&gt;they create software that require little computer processing and throttle their computers’ CPU so that their electronics can be powered by solar panel&lt;/li&gt;
+  &lt;li&gt;they need to put away electronics in containers, otherwise the electronics rust easily when sailing&lt;/li&gt;
+  &lt;li&gt;any bio waste that they produce need to be stored on boat (i think)&lt;/li&gt;
+  &lt;li&gt;they take turn to sleep for 3 hours at a time because they need to monitor their sailing direction frequently&lt;/li&gt;
+  &lt;li&gt;they only use their computer when the sun is out because that’s when they can get power from the solar panel&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;This really really motivates me to think about living style and computers differently. 🍀 What’s the relationship we want to (and perhaps should) have with nature, and computers? When will the chase for faster, better, thinner, lighter devices slow down?&lt;/p&gt;
+
+&lt;p&gt;I tried to think more about what I might want as well:&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;Live in the woods or on a boat for half the year, live in cities for the other half&lt;/li&gt;
+  &lt;li&gt;Dwell in off-the-grid housing (think Gates Foudnation’s toilet challenge, but applied to all appliances and housing infrastructure)&lt;/li&gt;
+  &lt;li&gt;Have (computer) devices that are modular, and single-tasked if I desire&lt;/li&gt;
+  &lt;li&gt;Devices can do file/data hand-off easily&lt;/li&gt;
+  &lt;li&gt;Maybe only one of the device can go online, the rest stays offline or local (mesh network)&lt;/li&gt;
+  &lt;li&gt;Information I’m hanlding (writing, coding, designing etc) can be easily “imported and exported” between the digital and the real world&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;I think there’s a future where just enough technology is what we desire, but to get there, we might need hard science and technology research.&lt;/p&gt;
+
+&lt;p&gt;Jonathan Blow also writes, rants, and talks about &lt;a href=&quot;https://mobile.twitter.com/Jonathan_Blow/status/1184976190559244289&quot;&gt;this&lt;/a&gt;&lt;/p&gt;</content><author><name>Weiwei Hsu</name></author><summary type="html">Several of my friends follow Hundred Rabbits: they (two people) have been sailing and creating software, recipe, games, illustrations on their off-the-grid studio (boat). They are funded by supporters on patreon and they gave a talk at XOXO on how they changed their lifestyle to adapt to living on a boat.</summary></entry><entry><title type="html">Happy, Twitter, Tahoe | #34</title><link href="http://localhost:4000/2019-10-06/weeknotes-34" rel="alternate" type="text/html" title="Happy, Twitter, Tahoe | #34" /><published>2019-10-06T00:00:00-07:00</published><updated>2019-10-06T00:00:00-07:00</updated><id>http://localhost:4000/2019-10-06/weeknotes-34</id><content type="html" xml:base="http://localhost:4000/2019-10-06/weeknotes-34">&lt;p&gt;Oh wow, I haven’t written a weeknote in a month…&lt;/p&gt;
 
 &lt;p&gt;The four of us have been building products every week in the last month. It’s been really fun and I feel like I’m almost learning as much as I was in college.&lt;/p&gt;
 
@@ -220,38 +259,4 @@
 
 &lt;p&gt;–&lt;/p&gt;
 
-&lt;p&gt;I’ve been watching America and Britain’s got talent this past two weeks. I remember seeing snippets of them in highschool but I didn’t pay much attention to them. Lately, as I’ve been thinking about more about movements and ways to inspire others, I find the auditions on these shows being particularly relevant. The energy that the comedians, singers, dancers, magicians, and others brought to the show are infectious (in a really good way).&lt;/p&gt;</content><author><name>Weiwei Hsu</name></author><summary type="html">I’ve been thinking about the idea of performing. Something one of my teacher from college said, that left a deep impression with me, was along the line of :”If I can start a major, I would call it [Performing Arts] and we can just experiment with different ideas on stage or in real life.” I’ve always loved that idea of the process and outcomes of interaction design are performances. Whether you are pitching an idea, showing your best friends around your city, or rallying a team to accomplish a milestone, you are putting on a show.</summary></entry><entry><title type="html">New words, Milk tea, Hiking | #27</title><link href="http://localhost:4000/2019-06-17/weeknotes-27" rel="alternate" type="text/html" title="New words, Milk tea, Hiking | #27" /><published>2019-06-17T00:00:00-07:00</published><updated>2019-06-17T00:00:00-07:00</updated><id>http://localhost:4000/2019-06-17/weeknotes-27</id><content type="html" xml:base="http://localhost:4000/2019-06-17/weeknotes-27">&lt;p&gt;When I first set up this website for writing weeknotes, I thought I could jot down notes while linking different thoughts with different hashtags. In retrospect that’s not really possible, because half baked thoughts are just really loose. However, what I’ve noticed is that, by writing more frequently, I’m able to think more clearly in terms of when I started thinking about a new thought.&lt;/p&gt;
-
-&lt;p&gt;I’ve been thinking about how to come up with new terms. New phrases are often needed to describe a new combination of activity or thinking, but it’s hard to understand what will stick. Metaphors or mashing two words together often work well. Some friends and I tried to brainstorm around something that we are working on, and it’s really hard to come up with a new name!&lt;/p&gt;
-
-&lt;p&gt;–&lt;/p&gt;
-
-&lt;p&gt;I started growing mushrooms about 10 days ago. And it’s going pretty well given that it’s my first time? I wish there wasn’t the heat wave in bay area cause the mushrooms starting looking weird because of the heat wave.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/assets/images/mushroom-kit.jpeg&quot; alt=&quot;mushroom kit&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;–&lt;/p&gt;
-
-&lt;p&gt;Milk tea with brown sugar has been pretty popular in China lately. I never tried it when I was there earlier in the year. I bought one a few weeks for the first time and they are surprinsgly good given how ordinary the ingredients are.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/assets/images/brownsugar_tea.jpeg&quot; alt=&quot;milk tea with brown sugar&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;–&lt;/p&gt;
-
-&lt;p&gt;I went on a hike with college roommates last week and it was really fun! We got to fly the drone a little more and just spend time in a signal-free environment. Sometimes it’s hard to remind myself how fun it can be to hideaway from cities for a bit.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/assets/images/hiking.jpeg&quot; alt=&quot;hiking with friends&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;We also got to play with some moment lens and it’s really fun to see tiny details in the world. I’ve been comparing different cameras lately and looking at the type of cameras different type of people use. It’s fascinating to see the wide range of cameras out there.&lt;/p&gt;</content><author><name>Weiwei Hsu</name></author><summary type="html">When I first set up this website for writing weeknotes, I thought I could jot down notes while linking different thoughts with different hashtags. In retrospect that’s not really possible, because half baked thoughts are just really loose. However, what I’ve noticed is that, by writing more frequently, I’m able to think more clearly in terms of when I started thinking about a new thought.</summary></entry><entry><title type="html">Organization, Resin | #26</title><link href="http://localhost:4000/2019-05-26/weeknotes-26" rel="alternate" type="text/html" title="Organization, Resin | #26" /><published>2019-05-26T00:00:00-07:00</published><updated>2019-05-26T00:00:00-07:00</updated><id>http://localhost:4000/2019-05-26/weeknotes-26</id><content type="html" xml:base="http://localhost:4000/2019-05-26/weeknotes-26">&lt;p&gt;This past few weeks, I’ve been interviewing different people about community and technology research. I feel that I’ve learned a ton about interviewing, what it means to cultivate a community, how can long-term work relate to the real world, the importance to address organizational challenges, and many more.&lt;/p&gt;
-
-&lt;p&gt;I was having a conversation with someone and we talked about the differences between a lab and a group that invents a new medium (writing, book, printing press, personal computer, essentially a new way to communicate without being bounded by time and space (?)). I thought that that’s a fascinating distinction. Historically speaking, a technology lab is a place where people gather to investigate a computing-related questions. What they do with the results of that investigation is sometimes less important (most of the time a different stakeholder go do something with that). In the case where Dynamicland claims to be inventing a new medium, it needs to be operating in a way that’s different from how a lab operates. By claiming to be inventing a new medium, you are also suggesting that what you invent will be threaded into our daily activities.&lt;/p&gt;
-
-&lt;p&gt;–&lt;/p&gt;
-
-&lt;p&gt;In case you are wondering what would happen when you dip a receipt into resin… Here’s what the receipt looks like.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/assets/images/resinreceipt.jpeg&quot; alt=&quot;new BART trains&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;–&lt;/p&gt;
-
-&lt;p&gt;I didn’t take much photos this past two weeks.. but I will try and take more next week.&lt;/p&gt;</content><author><name>Weiwei Hsu</name></author><summary type="html">This past few weeks, I’ve been interviewing different people about community and technology research. I feel that I’ve learned a ton about interviewing, what it means to cultivate a community, how can long-term work relate to the real world, the importance to address organizational challenges, and many more.</summary></entry></feed>
+&lt;p&gt;I’ve been watching America and Britain’s got talent this past two weeks. I remember seeing snippets of them in highschool but I didn’t pay much attention to them. Lately, as I’ve been thinking about more about movements and ways to inspire others, I find the auditions on these shows being particularly relevant. The energy that the comedians, singers, dancers, magicians, and others brought to the show are infectious (in a really good way).&lt;/p&gt;</content><author><name>Weiwei Hsu</name></author><summary type="html">I’ve been thinking about the idea of performing. Something one of my teacher from college said, that left a deep impression with me, was along the line of :”If I can start a major, I would call it [Performing Arts] and we can just experiment with different ideas on stage or in real life.” I’ve always loved that idea of the process and outcomes of interaction design are performances. Whether you are pitching an idea, showing your best friends around your city, or rallying a team to accomplish a milestone, you are putting on a show.</summary></entry></feed>
