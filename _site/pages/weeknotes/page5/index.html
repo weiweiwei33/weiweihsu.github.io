@@ -113,7 +113,7 @@ Thank you for spending some time here. Stay a while if you aren't in a rush.
 
           <h1 class="article-title">Starting Tiny, and Often</h1>
           <div class="article-line"></div>
-          <time datetime="2019-07-12 00:00:00 -0700" class="article-time">July 12, 2019</time>
+          <time datetime="2019-07-12 00:00:00 +0800" class="article-time">July 12, 2019</time>
           <time class="article-reading-time">• 9min </time>
       </a>
       <br>
@@ -127,7 +127,7 @@ Thank you for spending some time here. Stay a while if you aren't in a rush.
 
           <h1 class="article-title">Defining the Dimensions of the ‘Space’ of Computing ↗</h1>
           <div class="article-line"></div>
-          <time datetime="2019-04-21 00:00:00 -0700" class="article-time">April 21, 2019</time>
+          <time datetime="2019-04-21 00:00:00 +0800" class="article-time">April 21, 2019</time>
           <time class="article-reading-time">• 10min </time>
       </a>
       <br>
@@ -141,7 +141,7 @@ Thank you for spending some time here. Stay a while if you aren't in a rush.
 
           <h1 class="article-title">Becoming Courageous, Together</h1>
           <div class="article-line"></div>
-          <time datetime="2019-02-20 00:00:00 -0800" class="article-time">February 20, 2019</time>
+          <time datetime="2019-02-20 00:00:00 +0800" class="article-time">February 20, 2019</time>
           <time class="article-reading-time">• 4min </time>
       </a>
       <br>
@@ -155,7 +155,7 @@ Thank you for spending some time here. Stay a while if you aren't in a rush.
 
           <h1 class="article-title">Designing for ACLU NorCal -- Behind the Scenes ↗</h1>
           <div class="article-line"></div>
-          <time datetime="2018-06-20 00:00:00 -0700" class="article-time">June 20, 2018</time>
+          <time datetime="2018-06-20 00:00:00 +0800" class="article-time">June 20, 2018</time>
           <time class="article-reading-time">• 6min </time>
       </a>
       <br>
@@ -169,7 +169,7 @@ Thank you for spending some time here. Stay a while if you aren't in a rush.
 
           <h1 class="article-title">Behind CCA’s Unofficial Mascot ↗</h1>
           <div class="article-line"></div>
-          <time datetime="2018-01-26 00:00:00 -0800" class="article-time">January 26, 2018</time>
+          <time datetime="2018-01-26 00:00:00 +0800" class="article-time">January 26, 2018</time>
           <time class="article-reading-time">• 12min </time>
       </a>
       <br>
@@ -183,7 +183,7 @@ Thank you for spending some time here. Stay a while if you aren't in a rush.
 
           <h1 class="article-title">Putting Band-Aids on the Digital Landscape ↗</h1>
           <div class="article-line"></div>
-          <time datetime="2017-12-13 00:00:00 -0800" class="article-time">December 13, 2017</time>
+          <time datetime="2017-12-13 00:00:00 +0800" class="article-time">December 13, 2017</time>
           <time class="article-reading-time">• 5min </time>
       </a>
       <br>
@@ -197,7 +197,7 @@ Thank you for spending some time here. Stay a while if you aren't in a rush.
 
           <h1 class="article-title">Do Your Apps Have an Expiration Date? ↗</h1>
           <div class="article-line"></div>
-          <time datetime="2017-09-29 00:00:00 -0700" class="article-time">September 29, 2017</time>
+          <time datetime="2017-09-29 00:00:00 +0800" class="article-time">September 29, 2017</time>
           <time class="article-reading-time">• 6min </time>
       </a>
       <br>
@@ -211,7 +211,7 @@ Thank you for spending some time here. Stay a while if you aren't in a rush.
 
           <h1 class="article-title">There's Something to be Done ↗</h1>
           <div class="article-line"></div>
-          <time datetime="2017-09-15 00:00:00 -0700" class="article-time">September 15, 2017</time>
+          <time datetime="2017-09-15 00:00:00 +0800" class="article-time">September 15, 2017</time>
           <time class="article-reading-time">• 3min </time>
       </a>
       <br>
@@ -240,8 +240,7 @@ Thank you for spending some time here. Stay a while if you aren't in a rush.
       <div class="catalogue-line"></div>
 
       <p>
-        
-
+        New stuff coming soon! I will try to write a longer update when I’m at the airport. Meanwhile, please enjoy this photo of the view when I skiied for the...
       </p>
 
     </div>
@@ -287,7 +286,7 @@ Menawhile, two pictures I took recently!
   <!-- 
     <a href="/2019-03-17/weeknotes-22" class="catalogue-item">
       <div>
-        <time datetime="2019-03-17 00:00:00 -0700" class="catalogue-time">March 17, 2019</time>
+        <time datetime="2019-03-17 00:00:00 +0800" class="catalogue-time">March 17, 2019</time>
         <h5 class="catalogue-title">Recording, Interview, Chair, Table | #22</h5>
         <div class="catalogue-line"></div>
 
@@ -307,7 +306,7 @@ Menawhile, two pictures I took recently!
 
     <footer>
       <span>
-        &copy; <time datetime="2020-02-12 17:30:58 -0800">2020</time> Weiwei. Coded with Jekyll.
+        &copy; <time datetime="2020-05-12 14:57:25 +0800">2020</time> Weiwei. Coded with Jekyll.
       </span>
     </footer>
 
@@ -362,6 +361,32 @@ Menawhile, two pictures I took recently!
         if($(this).attr('data-src')) $(this).attr('src',$(this).attr('data-src'));
     });
     $('.randomize_books:visible *').each(function() {
+        if($(this).attr('data-style')) $(this).attr('style',$(this).attr('data-style'));
+    });
+</script>
+
+    <script>
+    $.fn.shuffle = function() {
+        var allElems = this.get(),
+            getRandom = function(max) {
+                return Math.floor(Math.random() * max);
+            },
+            shuffled = $.map(allElems, function(){
+                var random = getRandom(allElems.length),
+                    randEl = $(allElems[random]).clone(true)[0];
+                allElems.splice(random, 1);
+                return randEl;
+            });
+        this.each(function(i){
+            $(this).replaceWith($(shuffled[i]));
+        });
+        return $(shuffled);
+    };
+    $('.randomize_tweets').shuffle();
+    $('.randomize_tweets:visible img').each(function() {
+        if($(this).attr('data-src')) $(this).attr('src',$(this).attr('data-src'));
+    });
+    $('.randomize_tweets:visible *').each(function() {
         if($(this).attr('data-style')) $(this).attr('style',$(this).attr('data-style'));
     });
 </script>

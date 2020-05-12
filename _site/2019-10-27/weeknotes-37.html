@@ -65,7 +65,7 @@
 
     
       <br>
-      <span>during the week of&nbsp;</span><time datetime="2019-10-27 00:00:00 -0700">October 27, 2019</time>
+      <span>during the week of&nbsp;</span><time datetime="2019-10-27 00:00:00 +0800">October 27, 2019</time>
     
   </div>
 
@@ -75,20 +75,20 @@
   <p>Sometimes over dinner, we would watch short (and long) drama. Lately, we made the switch to watching documentaries.</p>
 
 <p>Here are some links to the ones I’ve enjoyed lately:
-<a href="https://www.netflix.com/title/81157840">The Game Changers</a>
-<a href="https://www.netflix.com/title/80057883">Abstract</a> (Ruth Carter, and Olafur Eliasson)
-<a href="https://www.youtube.com/watch?v=_wGZc8ZjFY4">Knock Down the House</a></p>
+<br /><a href="https://www.youtube.com/watch?v=_wGZc8ZjFY4">Knock Down the House</a>
+<br /><a href="https://www.netflix.com/title/80057883">Abstract</a> (Ruth Carter, and Olafur Eliasson)
+<br /><a href="https://www.netflix.com/title/81157840">The Game Changers</a></p>
 
 <p>–</p>
 
 <p>Things I’ve been swimming in these past two weeks:
-<a href="http://www.pajamallama.be">Dev blog of the game “Flotsam”</a>
-<a href="https://indieweb.org/Posts_about_the_IndieWeb">Posts about the IndieWeb</a>
-<a href="https://www.newyorker.com/tech/annals-of-technology/can-indie-social-media-save-us">Can “Indie” Social Media Save Us?</a>
-<a href="https://www.ordinaryfolk.co/play">Motion design source files</a>
-<a href="https://placesjournal.org/explore-places/infrastructure/">Articles about infrastructure on Places Journal</a>
-<a href="https://placesjournal.org/explore-places/infrastructure/">Everything is amazing, but nothing is ours</a>
-<a href="https://rootsofprogress.org/why-did-we-wait-so-long-for-the-bicycle">Why did we wait so long for the bicycle</a></p>
+<br /><a href="http://www.pajamallama.be">Dev blog of the game “Flotsam”</a>
+<br /><a href="https://indieweb.org/Posts_about_the_IndieWeb">Posts about the IndieWeb</a>
+<br /><a href="https://www.newyorker.com/tech/annals-of-technology/can-indie-social-media-save-us">Can “Indie” Social Media Save Us?</a>
+<br /><a href="https://www.ordinaryfolk.co/play">Motion design source files</a>
+<br /><a href="https://placesjournal.org/explore-places/infrastructure/">Articles about infrastructure on Places Journal</a>
+<br /><a href="https://placesjournal.org/explore-places/infrastructure/">Everything is amazing, but nothing is ours</a>
+<br /><a href="https://rootsofprogress.org/why-did-we-wait-so-long-for-the-bicycle">Why did we wait so long for the bicycle</a></p>
 
 
 </div>
@@ -97,7 +97,7 @@
 
     <footer>
       <span>
-        &copy; <time datetime="2020-02-12 17:30:58 -0800">2020</time> Weiwei. Coded with Jekyll.
+        &copy; <time datetime="2020-05-12 14:57:25 +0800">2020</time> Weiwei. Coded with Jekyll.
       </span>
     </footer>
 
@@ -152,6 +152,32 @@
         if($(this).attr('data-src')) $(this).attr('src',$(this).attr('data-src'));
     });
     $('.randomize_books:visible *').each(function() {
+        if($(this).attr('data-style')) $(this).attr('style',$(this).attr('data-style'));
+    });
+</script>
+
+    <script>
+    $.fn.shuffle = function() {
+        var allElems = this.get(),
+            getRandom = function(max) {
+                return Math.floor(Math.random() * max);
+            },
+            shuffled = $.map(allElems, function(){
+                var random = getRandom(allElems.length),
+                    randEl = $(allElems[random]).clone(true)[0];
+                allElems.splice(random, 1);
+                return randEl;
+            });
+        this.each(function(i){
+            $(this).replaceWith($(shuffled[i]));
+        });
+        return $(shuffled);
+    };
+    $('.randomize_tweets').shuffle();
+    $('.randomize_tweets:visible img').each(function() {
+        if($(this).attr('data-src')) $(this).attr('src',$(this).attr('data-src'));
+    });
+    $('.randomize_tweets:visible *').each(function() {
         if($(this).attr('data-style')) $(this).attr('style',$(this).attr('data-style'));
     });
 </script>

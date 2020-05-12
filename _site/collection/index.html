@@ -63,7 +63,7 @@
 
 <br> <br> <br>
 
-  <div class="collection-title"> Podcasts:  </div>
+  <div class="collection-title"> Podcasts  </div>
 
     <div class="collection-bodypart">
       <ul class="collection-list">
@@ -81,24 +81,24 @@
       <br> <br>
     </div>
 
-  <div class="collection-title">My tweets:</div>
+  <div class="collection-title">My tweets</div>
     <div class="collection-bodypart">
       <ul class="collection-list">
-        <li class="randomize_groups"><a href="https://twitter.com/glitchyowl/status/1179840991466930176">Content designed for vertical viewing</a> </li>
-        <li class="randomize_groups"><a href="https://twitter.com/glitchyowl/status/1179163493943001090">Motion design for Patriot Act with Hasan Minhaj</li>
-        <li class="randomize_groups"><a href="https://twitter.com/glitchyowl/status/1103464497157529600">Alibaba's re-commerce app</a></li>
-        <li class="randomize_groups"><a href="https://twitter.com/glitchyowl/status/1144667443920379910">Animation techniques from Into the Spider-verse</a></li>
-        <li class="randomize_groups"><a href="https://twitter.com/glitchyowl/status/1098763943495970816">A comparison of revenue distribution between Tencent & Facebook</a></li>
-        <li class="randomize_groups"><a href="https://twitter.com/glitchyowl/status/1088534031220625409">Interface + Retail observations in Shanghai</a></li>
-        <li class="randomize_groups"><a href="https://twitter.com/glitchyowl/status/1082880387154468864">Mobility related observations in Shanghai</a></li>
-        <li class="randomize_groups"><a href="https://twitter.com/glitchyowl/status/1098763943495970816">A comparison between Tencent and Facebook's revenue source</a></li>
-        <li class="randomize_groups"><a href="https://twitter.com/glitchyowl/status/1179163493943001090">Motion Design for Patriot Act with Hasan Minhaj</a></li>
-        <li class="randomize_groups"><a href="https://twitter.com/glitchyowl/status/1227697758074597376">A gallery of stunning (3d) tutorials/explainers</a></li>
+        <li class="randomize_tweets"><a href="https://twitter.com/glitchyowl/status/1179840991466930176">Content designed for vertical viewing</a> </li>
+        <li class="randomize_tweets"><a href="https://twitter.com/glitchyowl/status/1179163493943001090">Motion design for Patriot Act with Hasan Minhaj</li>
+        <li class="randomize_tweets"><a href="https://twitter.com/glitchyowl/status/1103464497157529600">Alibaba's re-commerce app</a></li>
+        <li class="randomize_tweets"><a href="https://twitter.com/glitchyowl/status/1144667443920379910">Animation techniques from Into the Spider-verse</a></li>
+        <li class="randomize_tweets"><a href="https://twitter.com/glitchyowl/status/1098763943495970816">A comparison of revenue distribution between Tencent & Facebook</a></li>
+        <li class="randomize_tweets"><a href="https://twitter.com/glitchyowl/status/1088534031220625409">Interface + Retail observations in Shanghai</a></li>
+        <li class="randomize_tweets"><a href="https://twitter.com/glitchyowl/status/1082880387154468864">Mobility related observations in Shanghai</a></li>
+        <li class="randomize_tweets"><a href="https://twitter.com/glitchyowl/status/1098763943495970816">A comparison between Tencent and Facebook's revenue source</a></li>
+        <li class="randomize_tweets"><a href="https://twitter.com/glitchyowl/status/1179163493943001090">Motion Design for Patriot Act with Hasan Minhaj</a></li>
+        <li class="randomize_tweets"><a href="https://twitter.com/glitchyowl/status/1227697758074597376">A gallery of stunning (3d) tutorials/explainers</a></li>
       </ul>
       <br> <br>
     </div>
 
-  <div class="collection-title">Books:</div>
+  <div class="collection-title">Books</div>
 
     <div class="collection-bodypart">
       <ul class="collection-list">
@@ -112,7 +112,7 @@
       <br> <br>
     </div>
 
-  <div class="collection-title">Articles:</div>
+  <div class="collection-title">Articles</div>
     <div class="collection-bodypart">
       <ul class="collection-list">
         <li class="randomize_articles"><a href="https://indieweb.org/Posts_about_the_IndieWeb">Posts about the IndieWeb</a>  by a lot of people! </li>
@@ -130,7 +130,7 @@
 </div>
 
 
-<div class="collection-title">Groups:</div>
+<div class="collection-title">Groups</div>
   <div class="collection-bodypart">
     <ul class="collection-list">
       <li class="randomize_groups"><a href="http://www.dubberly.com">Dubberly Design Office</a> </li>
@@ -155,7 +155,7 @@
 
     <footer>
       <span>
-        &copy; <time datetime="2020-02-12 17:30:58 -0800">2020</time> Weiwei. Coded with Jekyll.
+        &copy; <time datetime="2020-05-12 14:57:25 +0800">2020</time> Weiwei. Coded with Jekyll.
       </span>
     </footer>
 
@@ -210,6 +210,32 @@
         if($(this).attr('data-src')) $(this).attr('src',$(this).attr('data-src'));
     });
     $('.randomize_books:visible *').each(function() {
+        if($(this).attr('data-style')) $(this).attr('style',$(this).attr('data-style'));
+    });
+</script>
+
+    <script>
+    $.fn.shuffle = function() {
+        var allElems = this.get(),
+            getRandom = function(max) {
+                return Math.floor(Math.random() * max);
+            },
+            shuffled = $.map(allElems, function(){
+                var random = getRandom(allElems.length),
+                    randEl = $(allElems[random]).clone(true)[0];
+                allElems.splice(random, 1);
+                return randEl;
+            });
+        this.each(function(i){
+            $(this).replaceWith($(shuffled[i]));
+        });
+        return $(shuffled);
+    };
+    $('.randomize_tweets').shuffle();
+    $('.randomize_tweets:visible img').each(function() {
+        if($(this).attr('data-src')) $(this).attr('src',$(this).attr('data-src'));
+    });
+    $('.randomize_tweets:visible *').each(function() {
         if($(this).attr('data-style')) $(this).attr('style',$(this).attr('data-style'));
     });
 </script>
