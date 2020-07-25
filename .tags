@@ -4,6 +4,34 @@
 !_TAG_PROGRAM_NAME	Exuberant Ctags	//
 !_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
 !_TAG_PROGRAM_VERSION	5.8	//
+Particle.position.x	_site/bubbleCursor.js	/^    this.position = { x: x, y: y };$/;"	p
+Particle.position.x	bubbleCursor.js	/^    this.position = { x: x, y: y };$/;"	p
+Particle.position.y	_site/bubbleCursor.js	/^    this.position = { x: x, y: y };$/;"	p
+Particle.position.y	bubbleCursor.js	/^    this.position = { x: x, y: y };$/;"	p
+Particle.update	_site/bubbleCursor.js	/^    this.update = function (context) {$/;"	m
+Particle.update	bubbleCursor.js	/^    this.update = function (context) {$/;"	m
+Particle.velocity.x	_site/bubbleCursor.js	/^    this.velocity = {$/;"	p
+Particle.velocity.x	bubbleCursor.js	/^    this.velocity = {$/;"	p
+bubbleCursor	_site/bubbleCursor.js	/^function bubbleCursor(options) {$/;"	f
+bubbleCursor	bubbleCursor.js	/^function bubbleCursor(options) {$/;"	f
+bubbleCursor.Particle	_site/bubbleCursor.js	/^  function Particle(x, y, canvasItem) {$/;"	c
+bubbleCursor.Particle	bubbleCursor.js	/^  function Particle(x, y, canvasItem) {$/;"	c
+bubbleCursor.addParticle	_site/bubbleCursor.js	/^  function addParticle(x, y, img) {$/;"	f
+bubbleCursor.addParticle	bubbleCursor.js	/^  function addParticle(x, y, img) {$/;"	f
+bubbleCursor.bindEvents	_site/bubbleCursor.js	/^  function bindEvents() {$/;"	f
+bubbleCursor.bindEvents	bubbleCursor.js	/^  function bindEvents() {$/;"	f
+bubbleCursor.init	_site/bubbleCursor.js	/^  function init(wrapperEl) {$/;"	f
+bubbleCursor.init	bubbleCursor.js	/^  function init(wrapperEl) {$/;"	f
+bubbleCursor.loop	_site/bubbleCursor.js	/^  function loop() {$/;"	f
+bubbleCursor.loop	bubbleCursor.js	/^  function loop() {$/;"	f
+bubbleCursor.onMouseMove	_site/bubbleCursor.js	/^  function onMouseMove(e) {$/;"	f
+bubbleCursor.onMouseMove	bubbleCursor.js	/^  function onMouseMove(e) {$/;"	f
+bubbleCursor.onTouchMove	_site/bubbleCursor.js	/^  function onTouchMove(e) {$/;"	f
+bubbleCursor.onTouchMove	bubbleCursor.js	/^  function onTouchMove(e) {$/;"	f
+bubbleCursor.onWindowResize	_site/bubbleCursor.js	/^  function onWindowResize(e) {$/;"	f
+bubbleCursor.onWindowResize	bubbleCursor.js	/^  function onWindowResize(e) {$/;"	f
+bubbleCursor.updateParticles	_site/bubbleCursor.js	/^  function updateParticles() {$/;"	f
+bubbleCursor.updateParticles	bubbleCursor.js	/^  function updateParticles() {$/;"	f
 gtag	_includes/head.html	/^  function gtag(){dataLayer.push(arguments);}$/;"	f
 gtag	_site/2017-09-15/there's-something-to-be-done.html	/^  function gtag(){dataLayer.push(arguments);}$/;"	f
 gtag	_site/2017-09-29/do-your-apps-expire.html	/^  function gtag(){dataLayer.push(arguments);}$/;"	f
@@ -55,10 +83,12 @@ gtag	_site/2020-01-15/weeknotes-39.html	/^  function gtag(){dataLayer.push(argum
 gtag	_site/2020-02-07/weeknotes-40.html	/^  function gtag(){dataLayer.push(arguments);}$/;"	f
 gtag	_site/2020-05-12/weeknotes-41.html	/^  function gtag(){dataLayer.push(arguments);}$/;"	f
 gtag	_site/2020-05-28/weeknotes-42.html	/^  function gtag(){dataLayer.push(arguments);}$/;"	f
+gtag	_site/2020-07-26/weeknotes-43.html	/^  function gtag(){dataLayer.push(arguments);}$/;"	f
 gtag	_site/about/index.html	/^  function gtag(){dataLayer.push(arguments);}$/;"	f
 gtag	_site/collection/index.html	/^  function gtag(){dataLayer.push(arguments);}$/;"	f
 gtag	_site/index.html	/^  function gtag(){dataLayer.push(arguments);}$/;"	f
 gtag	_site/pages/weeknotes/page10/index.html	/^  function gtag(){dataLayer.push(arguments);}$/;"	f
+gtag	_site/pages/weeknotes/page11/index.html	/^  function gtag(){dataLayer.push(arguments);}$/;"	f
 gtag	_site/pages/weeknotes/page2/index.html	/^  function gtag(){dataLayer.push(arguments);}$/;"	f
 gtag	_site/pages/weeknotes/page3/index.html	/^  function gtag(){dataLayer.push(arguments);}$/;"	f
 gtag	_site/pages/weeknotes/page4/index.html	/^  function gtag(){dataLayer.push(arguments);}$/;"	f
@@ -68,3 +98,5 @@ gtag	_site/pages/weeknotes/page7/index.html	/^  function gtag(){dataLayer.push(a
 gtag	_site/pages/weeknotes/page8/index.html	/^  function gtag(){dataLayer.push(arguments);}$/;"	f
 gtag	_site/pages/weeknotes/page9/index.html	/^  function gtag(){dataLayer.push(arguments);}$/;"	f
 gtag	_site/weeknotes.html	/^  function gtag(){dataLayer.push(arguments);}$/;"	f
+let.x	_site/bubbleCursor.js	/^  let cursor = { x: width \/ 2, y: width \/ 2 };$/;"	p
+let.x	bubbleCursor.js	/^  let cursor = { x: width \/ 2, y: width \/ 2 };$/;"	p
