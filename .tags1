@@ -4,12 +4,3 @@
 !_TAG_PROGRAM_NAME	Exuberant Ctags	//
 !_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
 !_TAG_PROGRAM_VERSION	5.8	//
-div	/Users/stars/Documents/Weiwei/website/weiweihsu.github.io/_layouts/comic.html	/^<div class="post">$/;"	function	line:7
-div	/Users/stars/Documents/Weiwei/website/weiweihsu.github.io/_layouts/comic.html	/^  <div class="post-line"><\/div>$/;"	function	line:8
-br	/Users/stars/Documents/Weiwei/website/weiweihsu.github.io/_layouts/comic.html	/^  <br><br>$/;"	function	line:12
-br	/Users/stars/Documents/Weiwei/website/weiweihsu.github.io/_layouts/comic.html	/^  <br><br>$/;"	function	line:15
-a	/Users/stars/Documents/Weiwei/website/weiweihsu.github.io/_layouts/comic.html	/^<a href="{{ post.url | prepend: site.baseurl }}" class="catalogue-item">$/;"	function	line:20
-div	/Users/stars/Documents/Weiwei/website/weiweihsu.github.io/_layouts/comic.html	/^  <div>$/;"	function	line:21
-h	/Users/stars/Documents/Weiwei/website/weiweihsu.github.io/_layouts/comic.html	/^    <h1 class="catalogue-title">{{ post.title }}<\/h1>$/;"	function	line:23
-div	/Users/stars/Documents/Weiwei/website/weiweihsu.github.io/_layouts/comic.html	/^    <div class="catalogue-line"><\/div>$/;"	function	line:24
-p	/Users/stars/Documents/Weiwei/website/weiweihsu.github.io/_layouts/comic.html	/^    <p>$/;"	function	line:26

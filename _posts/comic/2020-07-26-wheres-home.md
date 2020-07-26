@@ -31,12 +31,10 @@ categories: comic
 <p style= "text-align: right;"> Belonging in the in-betweens</p>
 
 
-
-
 ![photo comic]({{site.baseurl}}/assets/comic/whereshome1.jpg)
 ![photo comic]({{site.baseurl}}/assets/comic/whereshome2.jpg)
 ![photo comic]({{site.baseurl}}/assets/comic/whereshome3.jpg)
 
 
-This photo comic was made possible by the generous feedback, encouragement, and discussions with friends and internet buddies. Thank you all! 
-Andy Shimmin, Ben Tsai, Celine, Christine Lin, Eashan Reddy Kotha, Em deGrandpré, Helena Jar, Jess Zhou, Julius Tarng, Allison Sun, Leah, Nao Kondo, Rachel Ng, Spencer Chang, Stef Pi, Tara Lin, Tomo Kihara, Will Felker
+This photo comic was made possible by the generous feedback, encouragement, and discussions with friends and internet buddies. Thank you all!
+Andy Shimmin, Ben Tsai, Celine, Christine Lin, Eashan Reddy Kotha, Em deGrandpré, Helena Jar, Jess Zhou, Julius Tarng, Allison Sun, Leah, Nao Kondo, Rachel Ng, Spencer Chang, Stef Pi, Tara Lin, Tomo Kihara, Will Felker.

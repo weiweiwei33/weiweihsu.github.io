@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.4">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2020-07-26T12:51:10+08:00</updated><id>http://localhost:4000/</id><title type="html">Weiwei Hsu</title><subtitle>be courageous</subtitle><author><name>Weiwei</name><email>wei@weiweihsu.com</email></author><entry><title type="html">So.. Where’s Home?</title><link href="http://localhost:4000/2020-07-26/wheres-home" rel="alternate" type="text/html" title="So.. Where’s Home?" /><published>2020-07-26T00:00:00+08:00</published><updated>2020-07-26T00:00:00+08:00</updated><id>http://localhost:4000/2020-07-26/wheres-home</id><content type="html" xml:base="http://localhost:4000/2020-07-26/wheres-home">&lt;!-- Primary Meta Tags --&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.4">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2020-07-27T00:04:50+08:00</updated><id>http://localhost:4000/</id><title type="html">Weiwei Hsu</title><subtitle>be courageous</subtitle><author><name>Weiwei</name><email>wei@weiweihsu.com</email></author><entry><title type="html">So.. Where’s Home?</title><link href="http://localhost:4000/2020-07-26/wheres-home" rel="alternate" type="text/html" title="So.. Where’s Home?" /><published>2020-07-26T00:00:00+08:00</published><updated>2020-07-26T00:00:00+08:00</updated><id>http://localhost:4000/2020-07-26/wheres-home</id><content type="html" xml:base="http://localhost:4000/2020-07-26/wheres-home">&lt;!-- Primary Meta Tags --&gt;
 &lt;title&gt;So.. Where’s Home?
 &lt;/title&gt;
 &lt;meta name=&quot;title&quot; content=&quot;So.. Where’s Home?
@@ -9,26 +9,26 @@
 &lt;!-- Open Graph / Facebook --&gt;
 &lt;meta property=&quot;og:type&quot; content=&quot;website&quot; /&gt;
 
-&lt;meta property=&quot;og:url&quot; content=&quot;https://metatags.io/&quot; /&gt;
+&lt;meta property=&quot;og:url&quot; content=&quot;http://weiweihsu.com/2020-07-26/wheres-home&quot; /&gt;
 
 &lt;meta property=&quot;og:title&quot; content=&quot;So.. Where’s Home?
 &quot; /&gt;
 
 &lt;meta property=&quot;og:description&quot; content=&quot;Belonging in the in-betweens –– a photo comic&quot; /&gt;
 
-&lt;meta property=&quot;og:image&quot; content=&quot;https://metatags.io/assets/meta-tags-16a33a6a8531e519cc0936fbba0ad904e52d35f34a46c97a2c9f6f7dd7d336f2.png&quot; /&gt;
+&lt;meta property=&quot;og:image&quot; content=&quot;/assets/comic/whereshometag.jpg&quot; /&gt;
 
 &lt;!-- Twitter --&gt;
 &lt;meta property=&quot;twitter:card&quot; content=&quot;summary_large_image&quot; /&gt;
 
-&lt;meta property=&quot;twitter:url&quot; content=&quot;https://metatags.io/&quot; /&gt;
+&lt;meta property=&quot;twitter:url&quot; content=&quot;http://weiweihsu.com/2020-07-26/wheres-home&quot; /&gt;
 
 &lt;meta property=&quot;twitter:title&quot; content=&quot;So.. Where’s Home?
 &quot; /&gt;
 
 &lt;meta property=&quot;twitter:description&quot; content=&quot;Belonging in the in-betweens –– a photo comic&quot; /&gt;
 
-&lt;meta property=&quot;twitter:image&quot; content=&quot;https://metatags.io/assets/meta-tags-16a33a6a8531e519cc0936fbba0ad904e52d35f34a46c97a2c9f6f7dd7d336f2.png&quot; /&gt;
+&lt;meta property=&quot;twitter:image&quot; content=&quot;/assets/comic/whereshometag.jpg&quot; /&gt;
 
 &lt;p style=&quot;text-align: right;&quot;&gt; Belonging in the in-betweens&lt;/p&gt;
 
@@ -36,8 +36,8 @@
 &lt;img src=&quot;/assets/comic/whereshome2.jpg&quot; alt=&quot;photo comic&quot; /&gt;
 &lt;img src=&quot;/assets/comic/whereshome3.jpg&quot; alt=&quot;photo comic&quot; /&gt;&lt;/p&gt;
 
-&lt;p&gt;Special thanks to
-Andy Shimmin, Ben Tsai, Celine, Christine Lin, Eashan Reddy Kotha, Em deGrandpré, Helena Jar, Jess Zhou, Julius Tarng, Allison Sun, Leah, Nao Kondo, Rachel Ng, Spencer Chang, Stef Pi, Tara Lin, Tomo Kihara, Will Felker&lt;/p&gt;</content><author><name>Weiwei Hsu</name></author><summary type="html">So.. Where’s Home?</summary></entry><entry><title type="html">hmm| #42</title><link href="http://localhost:4000/2020-05-28/weeknotes-42" rel="alternate" type="text/html" title="hmm| #42" /><published>2020-05-28T00:00:00+08:00</published><updated>2020-05-28T00:00:00+08:00</updated><id>http://localhost:4000/2020-05-28/weeknotes-42</id><content type="html" xml:base="http://localhost:4000/2020-05-28/weeknotes-42">&lt;p&gt;Received this from a friend, and has been dwelling on every sentence of this, among many other things. 
+&lt;p&gt;This photo comic was made possible by the generous feedback, encouragement, and discussions with friends and internet buddies. Thank you all!
+Andy Shimmin, Ben Tsai, Celine, Christine Lin, Eashan Reddy Kotha, Em deGrandpré, Helena Jar, Jess Zhou, Julius Tarng, Allison Sun, Leah, Nao Kondo, Rachel Ng, Spencer Chang, Stef Pi, Tara Lin, Tomo Kihara, Will Felker.&lt;/p&gt;</content><author><name>Weiwei Hsu</name></author><summary type="html">So.. Where’s Home?</summary></entry><entry><title type="html">hmm| #42</title><link href="http://localhost:4000/2020-05-28/weeknotes-42" rel="alternate" type="text/html" title="hmm| #42" /><published>2020-05-28T00:00:00+08:00</published><updated>2020-05-28T00:00:00+08:00</updated><id>http://localhost:4000/2020-05-28/weeknotes-42</id><content type="html" xml:base="http://localhost:4000/2020-05-28/weeknotes-42">&lt;p&gt;Received this from a friend, and has been dwelling on every sentence of this, among many other things. 
 &lt;img src=&quot;/assets/images/mentor.jpeg&quot; alt=&quot;mentor&quot; /&gt;&lt;/p&gt;</content><author><name>Weiwei Hsu</name></author><summary type="html">Received this from a friend, and has been dwelling on every sentence of this, among many other things.</summary></entry><entry><title type="html">Hello, again| #41</title><link href="http://localhost:4000/2020-05-12/weeknotes-41" rel="alternate" type="text/html" title="Hello, again| #41" /><published>2020-05-12T00:00:00+08:00</published><updated>2020-05-12T00:00:00+08:00</updated><id>http://localhost:4000/2020-05-12/weeknotes-41</id><content type="html" xml:base="http://localhost:4000/2020-05-12/weeknotes-41">&lt;p&gt;And all of a sudden, it’s May… A lot has happened in the past few months, in my life, in this world…&lt;/p&gt;
 
 &lt;p&gt;What can I say, I really feel like I was in a coma around the end of 2019 (and beginning of 2020). Things were rough for me, and I had a really hard time talking myself out of dark valley I was in. For several weeks, I listened to the song “Don’t give up on me” everyday, because I really felt like the world had given up on me.&lt;/p&gt;
