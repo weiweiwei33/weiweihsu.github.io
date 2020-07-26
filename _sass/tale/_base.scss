@@ -11,6 +11,13 @@ body {
   background-color: $default-background;
 }
 
+::selection {
+  background: #F0D8FF; /* WebKit/Blink Browsers */
+}
+::-moz-selection {
+  background: #F0D8FF; /* Gecko Browsers */
+}
+
 html {
   font-family: $serif-primary;
   font-size: 14px;

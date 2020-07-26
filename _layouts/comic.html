@@ -1,0 +1,38 @@
+---
+layout: default
+Title: Photo comic
+permalink: /comic/
+---
+
+<div class="post">
+  <div class="post-line"></div>
+
+  I' often re-remember the times when I wrote something everyday or every month. In order to reflect upon my work and life and inspired by Matt Webb's <a href="https://medium.com/job-garden/a-pre-history-of-weeknotes-plus-why-i-write-them-and-perhaps-why-you-should-too-week-16-31a4a5cbf7b0">article on Weeknotes</a>, I've decided scribble down thoughts and group them by weeks.'
+
+  <br><br>
+
+
+  <br><br>
+
+  As these are published in very raw form, please be generous when reacting to them.
+
+</div>
+
+{% for post in site.categories.comic %}
+<a href="{{ post.url | prepend: site.baseurl }}" class="catalogue-item">
+  <div>
+    <!-- <time datetime="{{ post.date }}" class="catalogue-time">{{ post.date | date: "%B %d, %Y" }}</time> -->
+    <h1 class="catalogue-title">{{ post.title }}</h1>
+    <div class="catalogue-line"></div>
+
+    <p>
+      {% if post.title == "So.. Where’s Home?" %}
+        {{ post.content | strip_html | truncatewords: 4 }}
+      {% else %}
+        {{ post.content | strip_html | truncatewords: 30 }}
+      {% endif %}
+    </p>
+
+  </div>
+</a>
+{% endfor %}

@@ -4,99 +4,136 @@
 !_TAG_PROGRAM_NAME	Exuberant Ctags	//
 !_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
 !_TAG_PROGRAM_VERSION	5.8	//
-Particle.position.x	_site/bubbleCursor.js	/^    this.position = { x: x, y: y };$/;"	p
-Particle.position.x	bubbleCursor.js	/^    this.position = { x: x, y: y };$/;"	p
-Particle.position.y	_site/bubbleCursor.js	/^    this.position = { x: x, y: y };$/;"	p
-Particle.position.y	bubbleCursor.js	/^    this.position = { x: x, y: y };$/;"	p
-Particle.update	_site/bubbleCursor.js	/^    this.update = function (context) {$/;"	m
-Particle.update	bubbleCursor.js	/^    this.update = function (context) {$/;"	m
-Particle.velocity.x	_site/bubbleCursor.js	/^    this.velocity = {$/;"	p
-Particle.velocity.x	bubbleCursor.js	/^    this.velocity = {$/;"	p
-bubbleCursor	_site/bubbleCursor.js	/^function bubbleCursor(options) {$/;"	f
-bubbleCursor	bubbleCursor.js	/^function bubbleCursor(options) {$/;"	f
-bubbleCursor.Particle	_site/bubbleCursor.js	/^  function Particle(x, y, canvasItem) {$/;"	c
-bubbleCursor.Particle	bubbleCursor.js	/^  function Particle(x, y, canvasItem) {$/;"	c
-bubbleCursor.addParticle	_site/bubbleCursor.js	/^  function addParticle(x, y, img) {$/;"	f
-bubbleCursor.addParticle	bubbleCursor.js	/^  function addParticle(x, y, img) {$/;"	f
-bubbleCursor.bindEvents	_site/bubbleCursor.js	/^  function bindEvents() {$/;"	f
-bubbleCursor.bindEvents	bubbleCursor.js	/^  function bindEvents() {$/;"	f
-bubbleCursor.init	_site/bubbleCursor.js	/^  function init(wrapperEl) {$/;"	f
-bubbleCursor.init	bubbleCursor.js	/^  function init(wrapperEl) {$/;"	f
-bubbleCursor.loop	_site/bubbleCursor.js	/^  function loop() {$/;"	f
-bubbleCursor.loop	bubbleCursor.js	/^  function loop() {$/;"	f
-bubbleCursor.onMouseMove	_site/bubbleCursor.js	/^  function onMouseMove(e) {$/;"	f
-bubbleCursor.onMouseMove	bubbleCursor.js	/^  function onMouseMove(e) {$/;"	f
-bubbleCursor.onTouchMove	_site/bubbleCursor.js	/^  function onTouchMove(e) {$/;"	f
-bubbleCursor.onTouchMove	bubbleCursor.js	/^  function onTouchMove(e) {$/;"	f
-bubbleCursor.onWindowResize	_site/bubbleCursor.js	/^  function onWindowResize(e) {$/;"	f
-bubbleCursor.onWindowResize	bubbleCursor.js	/^  function onWindowResize(e) {$/;"	f
-bubbleCursor.updateParticles	_site/bubbleCursor.js	/^  function updateParticles() {$/;"	f
-bubbleCursor.updateParticles	bubbleCursor.js	/^  function updateParticles() {$/;"	f
-gtag	_includes/head.html	/^  function gtag(){dataLayer.push(arguments);}$/;"	f
-gtag	_site/2017-09-15/there's-something-to-be-done.html	/^  function gtag(){dataLayer.push(arguments);}$/;"	f
-gtag	_site/2017-09-29/do-your-apps-expire.html	/^  function gtag(){dataLayer.push(arguments);}$/;"	f
-gtag	_site/2017-12-13/putting-band-aids-on-the-digital.html	/^  function gtag(){dataLayer.push(arguments);}$/;"	f
-gtag	_site/2018-01-26/behind-cca-unofficial-mascot.html	/^  function gtag(){dataLayer.push(arguments);}$/;"	f
-gtag	_site/2018-06-20/designing-for-aclu-norcal.html	/^  function gtag(){dataLayer.push(arguments);}$/;"	f
-gtag	_site/2018-09-15/weeknote-1.html	/^  function gtag(){dataLayer.push(arguments);}$/;"	f
-gtag	_site/2018-09-21/weeknote-2.html	/^  function gtag(){dataLayer.push(arguments);}$/;"	f
-gtag	_site/2018-09-28/weeknote-3.html	/^  function gtag(){dataLayer.push(arguments);}$/;"	f
-gtag	_site/2018-10-05/weeknote-4.html	/^  function gtag(){dataLayer.push(arguments);}$/;"	f
-gtag	_site/2018-10-14/weeknote-5.html	/^  function gtag(){dataLayer.push(arguments);}$/;"	f
-gtag	_site/2018-10-21/weeknote-6.html	/^  function gtag(){dataLayer.push(arguments);}$/;"	f
-gtag	_site/2018-10-28/weeknote-7.html	/^  function gtag(){dataLayer.push(arguments);}$/;"	f
-gtag	_site/2018-11-04/weeknote-8.html	/^  function gtag(){dataLayer.push(arguments);}$/;"	f
-gtag	_site/2018-11-10/weeknote-9.html	/^  function gtag(){dataLayer.push(arguments);}$/;"	f
-gtag	_site/2018-11-18/weeknote-10.html	/^  function gtag(){dataLayer.push(arguments);}$/;"	f
-gtag	_site/2018-11-25/weeknote-11.html	/^  function gtag(){dataLayer.push(arguments);}$/;"	f
-gtag	_site/2018-12-01/weeknote-12.html	/^  function gtag(){dataLayer.push(arguments);}$/;"	f
-gtag	_site/2018-12-16/weeknotes-13.html	/^  function gtag(){dataLayer.push(arguments);}$/;"	f
-gtag	_site/2018-12-23/weeknotes-14.html	/^  function gtag(){dataLayer.push(arguments);}$/;"	f
-gtag	_site/2018-12-30/weeknotes-15.html	/^  function gtag(){dataLayer.push(arguments);}$/;"	f
-gtag	_site/2019-01-06/weeknotes-16.html	/^  function gtag(){dataLayer.push(arguments);}$/;"	f
-gtag	_site/2019-01-13/weeknotes-17.html	/^  function gtag(){dataLayer.push(arguments);}$/;"	f
-gtag	_site/2019-01-27/weeknotes-18.html	/^  function gtag(){dataLayer.push(arguments);}$/;"	f
-gtag	_site/2019-02-10/weeknotes-19.html	/^  function gtag(){dataLayer.push(arguments);}$/;"	f
-gtag	_site/2019-02-17/weeknotes-20.html	/^  function gtag(){dataLayer.push(arguments);}$/;"	f
-gtag	_site/2019-02-20/becoming-courageous-together.html	/^  function gtag(){dataLayer.push(arguments);}$/;"	f
-gtag	_site/2019-03-10/weeknotes-21.html	/^  function gtag(){dataLayer.push(arguments);}$/;"	f
-gtag	_site/2019-03-17/weeknotes-22.html	/^  function gtag(){dataLayer.push(arguments);}$/;"	f
-gtag	_site/2019-03-31/weeknotes-23.html	/^  function gtag(){dataLayer.push(arguments);}$/;"	f
-gtag	_site/2019-04-21/the-space-of-computing.html	/^  function gtag(){dataLayer.push(arguments);}$/;"	f
-gtag	_site/2019-04-21/weeknotes-24.html	/^  function gtag(){dataLayer.push(arguments);}$/;"	f
-gtag	_site/2019-05-12/weeknotes-25.html	/^  function gtag(){dataLayer.push(arguments);}$/;"	f
-gtag	_site/2019-05-26/weeknotes-26.html	/^  function gtag(){dataLayer.push(arguments);}$/;"	f
-gtag	_site/2019-06-17/weeknotes-27.html	/^  function gtag(){dataLayer.push(arguments);}$/;"	f
-gtag	_site/2019-06-23/weeknotes-28.html	/^  function gtag(){dataLayer.push(arguments);}$/;"	f
-gtag	_site/2019-07-10/weeknotes-29.html	/^  function gtag(){dataLayer.push(arguments);}$/;"	f
-gtag	_site/2019-07-12/starting-tiny-and-often.html	/^  function gtag(){dataLayer.push(arguments);}$/;"	f
-gtag	_site/2019-08-04/weeknotes-30.html	/^  function gtag(){dataLayer.push(arguments);}$/;"	f
-gtag	_site/2019-08-18/weeknotes-31.html	/^  function gtag(){dataLayer.push(arguments);}$/;"	f
-gtag	_site/2019-09-01/weeknotes-32.html	/^  function gtag(){dataLayer.push(arguments);}$/;"	f
-gtag	_site/2019-09-15/weeknotes-33.html	/^  function gtag(){dataLayer.push(arguments);}$/;"	f
-gtag	_site/2019-10-06/weeknotes-34.html	/^  function gtag(){dataLayer.push(arguments);}$/;"	f
-gtag	_site/2019-10-20/weeknotes-35.html	/^  function gtag(){dataLayer.push(arguments);}$/;"	f
-gtag	_site/2019-10-21/weeknotes-36.html	/^  function gtag(){dataLayer.push(arguments);}$/;"	f
-gtag	_site/2019-10-27/weeknotes-37.html	/^  function gtag(){dataLayer.push(arguments);}$/;"	f
-gtag	_site/2019-12-19/weeknotes-38.html	/^  function gtag(){dataLayer.push(arguments);}$/;"	f
-gtag	_site/2020-01-15/weeknotes-39.html	/^  function gtag(){dataLayer.push(arguments);}$/;"	f
-gtag	_site/2020-02-07/weeknotes-40.html	/^  function gtag(){dataLayer.push(arguments);}$/;"	f
-gtag	_site/2020-05-12/weeknotes-41.html	/^  function gtag(){dataLayer.push(arguments);}$/;"	f
-gtag	_site/2020-05-28/weeknotes-42.html	/^  function gtag(){dataLayer.push(arguments);}$/;"	f
-gtag	_site/2020-07-26/weeknotes-43.html	/^  function gtag(){dataLayer.push(arguments);}$/;"	f
-gtag	_site/about/index.html	/^  function gtag(){dataLayer.push(arguments);}$/;"	f
-gtag	_site/collection/index.html	/^  function gtag(){dataLayer.push(arguments);}$/;"	f
-gtag	_site/index.html	/^  function gtag(){dataLayer.push(arguments);}$/;"	f
-gtag	_site/pages/weeknotes/page10/index.html	/^  function gtag(){dataLayer.push(arguments);}$/;"	f
-gtag	_site/pages/weeknotes/page11/index.html	/^  function gtag(){dataLayer.push(arguments);}$/;"	f
-gtag	_site/pages/weeknotes/page2/index.html	/^  function gtag(){dataLayer.push(arguments);}$/;"	f
-gtag	_site/pages/weeknotes/page3/index.html	/^  function gtag(){dataLayer.push(arguments);}$/;"	f
-gtag	_site/pages/weeknotes/page4/index.html	/^  function gtag(){dataLayer.push(arguments);}$/;"	f
-gtag	_site/pages/weeknotes/page5/index.html	/^  function gtag(){dataLayer.push(arguments);}$/;"	f
-gtag	_site/pages/weeknotes/page6/index.html	/^  function gtag(){dataLayer.push(arguments);}$/;"	f
-gtag	_site/pages/weeknotes/page7/index.html	/^  function gtag(){dataLayer.push(arguments);}$/;"	f
-gtag	_site/pages/weeknotes/page8/index.html	/^  function gtag(){dataLayer.push(arguments);}$/;"	f
-gtag	_site/pages/weeknotes/page9/index.html	/^  function gtag(){dataLayer.push(arguments);}$/;"	f
-gtag	_site/weeknotes.html	/^  function gtag(){dataLayer.push(arguments);}$/;"	f
-let.x	_site/bubbleCursor.js	/^  let cursor = { x: width \/ 2, y: width \/ 2 };$/;"	p
-let.x	bubbleCursor.js	/^  let cursor = { x: width \/ 2, y: width \/ 2 };$/;"	p
+Particle.position.x	_site/js/bubbleCursor.js	/^    this.position = { x: x, y: y };$/;"	p
+Particle.position.x	js/bubbleCursor.js	/^    this.position = { x: x, y: y };$/;"	p
+Particle.position.y	_site/js/bubbleCursor.js	/^    this.position = { x: x, y: y };$/;"	p
+Particle.position.y	js/bubbleCursor.js	/^    this.position = { x: x, y: y };$/;"	p
+Particle.update	_site/js/bubbleCursor.js	/^    this.update = function (context) {$/;"	m
+Particle.update	js/bubbleCursor.js	/^    this.update = function (context) {$/;"	m
+Particle.velocity.x	_site/js/bubbleCursor.js	/^    this.velocity = {$/;"	p
+Particle.velocity.x	js/bubbleCursor.js	/^    this.velocity = {$/;"	p
+addLoadEvent	_site/js/oldbubble.js	/^function addLoadEvent(funky) {$/;"	f
+addLoadEvent	js/oldbubble.js	/^function addLoadEvent(funky) {$/;"	f
+bubble	_site/js/oldbubble.js	/^function bubble() {$/;"	f
+bubble	js/oldbubble.js	/^function bubble() {$/;"	f
+bubbleCursor	_site/js/bubbleCursor.js	/^  function bubbleCursor(options) {$/;"	f
+bubbleCursor	js/bubbleCursor.js	/^  function bubbleCursor(options) {$/;"	f
+bubbleCursor.Particle	_site/js/bubbleCursor.js	/^  function Particle(x, y, canvasItem) {$/;"	c
+bubbleCursor.Particle	js/bubbleCursor.js	/^  function Particle(x, y, canvasItem) {$/;"	c
+bubbleCursor.addParticle	_site/js/bubbleCursor.js	/^  function addParticle(x, y, img) {$/;"	f
+bubbleCursor.addParticle	js/bubbleCursor.js	/^  function addParticle(x, y, img) {$/;"	f
+bubbleCursor.bindEvents	_site/js/bubbleCursor.js	/^  function bindEvents() {$/;"	f
+bubbleCursor.bindEvents	js/bubbleCursor.js	/^  function bindEvents() {$/;"	f
+bubbleCursor.init	_site/js/bubbleCursor.js	/^  function init(wrapperEl) {$/;"	f
+bubbleCursor.init	js/bubbleCursor.js	/^  function init(wrapperEl) {$/;"	f
+bubbleCursor.loop	_site/js/bubbleCursor.js	/^  function loop() {$/;"	f
+bubbleCursor.loop	js/bubbleCursor.js	/^  function loop() {$/;"	f
+bubbleCursor.onMouseMove	_site/js/bubbleCursor.js	/^  function onMouseMove(e) {$/;"	f
+bubbleCursor.onMouseMove	js/bubbleCursor.js	/^  function onMouseMove(e) {$/;"	f
+bubbleCursor.onTouchMove	_site/js/bubbleCursor.js	/^  function onTouchMove(e) {$/;"	f
+bubbleCursor.onTouchMove	js/bubbleCursor.js	/^  function onTouchMove(e) {$/;"	f
+bubbleCursor.onWindowResize	_site/js/bubbleCursor.js	/^  function onWindowResize(e) {$/;"	f
+bubbleCursor.onWindowResize	js/bubbleCursor.js	/^  function onWindowResize(e) {$/;"	f
+bubbleCursor.updateParticles	_site/js/bubbleCursor.js	/^  function updateParticles() {$/;"	f
+bubbleCursor.updateParticles	js/bubbleCursor.js	/^  function updateParticles() {$/;"	f
+bubbles	_site/js/oldbubble.js	/^var bubbles=66; \/\/ maximum number of bubbles on screen$/;"	v
+bubbles	js/oldbubble.js	/^var bubbles=66; \/\/ maximum number of bubbles on screen$/;"	v
+buble	_site/js/oldbubble.js	/^function buble() { if (document.getElementById) {$/;"	f
+buble	js/oldbubble.js	/^function buble() { if (document.getElementById) {$/;"	f
+createDiv	_site/js/oldbubble.js	/^function createDiv(height, width) {$/;"	f
+createDiv	js/oldbubble.js	/^function createDiv(height, width) {$/;"	f
+document.onmouseup	_site/js/oldbubble.js	/^document.onmousedown=splash;$/;"	f
+document.onmouseup	js/oldbubble.js	/^document.onmousedown=splash;$/;"	f
+gtag	_includes/head.html	/^    function gtag(){dataLayer.push(arguments);}$/;"	f
+gtag	_site/2017-09-15/there's-something-to-be-done.html	/^    function gtag(){dataLayer.push(arguments);}$/;"	f
+gtag	_site/2017-09-29/do-your-apps-expire.html	/^    function gtag(){dataLayer.push(arguments);}$/;"	f
+gtag	_site/2017-12-13/putting-band-aids-on-the-digital.html	/^    function gtag(){dataLayer.push(arguments);}$/;"	f
+gtag	_site/2018-01-26/behind-cca-unofficial-mascot.html	/^    function gtag(){dataLayer.push(arguments);}$/;"	f
+gtag	_site/2018-06-20/designing-for-aclu-norcal.html	/^    function gtag(){dataLayer.push(arguments);}$/;"	f
+gtag	_site/2018-09-15/weeknote-1.html	/^    function gtag(){dataLayer.push(arguments);}$/;"	f
+gtag	_site/2018-09-21/weeknote-2.html	/^    function gtag(){dataLayer.push(arguments);}$/;"	f
+gtag	_site/2018-09-28/weeknote-3.html	/^    function gtag(){dataLayer.push(arguments);}$/;"	f
+gtag	_site/2018-10-05/weeknote-4.html	/^    function gtag(){dataLayer.push(arguments);}$/;"	f
+gtag	_site/2018-10-14/weeknote-5.html	/^    function gtag(){dataLayer.push(arguments);}$/;"	f
+gtag	_site/2018-10-21/weeknote-6.html	/^    function gtag(){dataLayer.push(arguments);}$/;"	f
+gtag	_site/2018-10-28/weeknote-7.html	/^    function gtag(){dataLayer.push(arguments);}$/;"	f
+gtag	_site/2018-11-04/weeknote-8.html	/^    function gtag(){dataLayer.push(arguments);}$/;"	f
+gtag	_site/2018-11-10/weeknote-9.html	/^    function gtag(){dataLayer.push(arguments);}$/;"	f
+gtag	_site/2018-11-18/weeknote-10.html	/^    function gtag(){dataLayer.push(arguments);}$/;"	f
+gtag	_site/2018-11-25/weeknote-11.html	/^    function gtag(){dataLayer.push(arguments);}$/;"	f
+gtag	_site/2018-12-01/weeknote-12.html	/^    function gtag(){dataLayer.push(arguments);}$/;"	f
+gtag	_site/2018-12-16/weeknotes-13.html	/^    function gtag(){dataLayer.push(arguments);}$/;"	f
+gtag	_site/2018-12-23/weeknotes-14.html	/^    function gtag(){dataLayer.push(arguments);}$/;"	f
+gtag	_site/2018-12-30/weeknotes-15.html	/^    function gtag(){dataLayer.push(arguments);}$/;"	f
+gtag	_site/2019-01-06/weeknotes-16.html	/^    function gtag(){dataLayer.push(arguments);}$/;"	f
+gtag	_site/2019-01-13/weeknotes-17.html	/^    function gtag(){dataLayer.push(arguments);}$/;"	f
+gtag	_site/2019-01-27/weeknotes-18.html	/^    function gtag(){dataLayer.push(arguments);}$/;"	f
+gtag	_site/2019-02-10/weeknotes-19.html	/^    function gtag(){dataLayer.push(arguments);}$/;"	f
+gtag	_site/2019-02-17/weeknotes-20.html	/^    function gtag(){dataLayer.push(arguments);}$/;"	f
+gtag	_site/2019-02-20/becoming-courageous-together.html	/^    function gtag(){dataLayer.push(arguments);}$/;"	f
+gtag	_site/2019-03-10/weeknotes-21.html	/^    function gtag(){dataLayer.push(arguments);}$/;"	f
+gtag	_site/2019-03-17/weeknotes-22.html	/^    function gtag(){dataLayer.push(arguments);}$/;"	f
+gtag	_site/2019-03-31/weeknotes-23.html	/^    function gtag(){dataLayer.push(arguments);}$/;"	f
+gtag	_site/2019-04-21/the-space-of-computing.html	/^    function gtag(){dataLayer.push(arguments);}$/;"	f
+gtag	_site/2019-04-21/weeknotes-24.html	/^    function gtag(){dataLayer.push(arguments);}$/;"	f
+gtag	_site/2019-05-12/weeknotes-25.html	/^    function gtag(){dataLayer.push(arguments);}$/;"	f
+gtag	_site/2019-05-26/weeknotes-26.html	/^    function gtag(){dataLayer.push(arguments);}$/;"	f
+gtag	_site/2019-06-17/weeknotes-27.html	/^    function gtag(){dataLayer.push(arguments);}$/;"	f
+gtag	_site/2019-06-23/weeknotes-28.html	/^    function gtag(){dataLayer.push(arguments);}$/;"	f
+gtag	_site/2019-07-10/weeknotes-29.html	/^    function gtag(){dataLayer.push(arguments);}$/;"	f
+gtag	_site/2019-07-12/starting-tiny-and-often.html	/^    function gtag(){dataLayer.push(arguments);}$/;"	f
+gtag	_site/2019-08-04/weeknotes-30.html	/^    function gtag(){dataLayer.push(arguments);}$/;"	f
+gtag	_site/2019-08-18/weeknotes-31.html	/^    function gtag(){dataLayer.push(arguments);}$/;"	f
+gtag	_site/2019-09-01/weeknotes-32.html	/^    function gtag(){dataLayer.push(arguments);}$/;"	f
+gtag	_site/2019-09-15/weeknotes-33.html	/^    function gtag(){dataLayer.push(arguments);}$/;"	f
+gtag	_site/2019-10-06/weeknotes-34.html	/^    function gtag(){dataLayer.push(arguments);}$/;"	f
+gtag	_site/2019-10-20/weeknotes-35.html	/^    function gtag(){dataLayer.push(arguments);}$/;"	f
+gtag	_site/2019-10-21/weeknotes-36.html	/^    function gtag(){dataLayer.push(arguments);}$/;"	f
+gtag	_site/2019-10-27/weeknotes-37.html	/^    function gtag(){dataLayer.push(arguments);}$/;"	f
+gtag	_site/2019-12-19/weeknotes-38.html	/^    function gtag(){dataLayer.push(arguments);}$/;"	f
+gtag	_site/2020-01-15/weeknotes-39.html	/^    function gtag(){dataLayer.push(arguments);}$/;"	f
+gtag	_site/2020-02-07/weeknotes-40.html	/^    function gtag(){dataLayer.push(arguments);}$/;"	f
+gtag	_site/2020-05-12/weeknotes-41.html	/^    function gtag(){dataLayer.push(arguments);}$/;"	f
+gtag	_site/2020-05-28/weeknotes-42.html	/^    function gtag(){dataLayer.push(arguments);}$/;"	f
+gtag	_site/2020-07-26/wheres-home.html	/^    function gtag(){dataLayer.push(arguments);}$/;"	f
+gtag	_site/about/index.html	/^    function gtag(){dataLayer.push(arguments);}$/;"	f
+gtag	_site/collection/index.html	/^    function gtag(){dataLayer.push(arguments);}$/;"	f
+gtag	_site/comic.html	/^    function gtag(){dataLayer.push(arguments);}$/;"	f
+gtag	_site/index.html	/^    function gtag(){dataLayer.push(arguments);}$/;"	f
+gtag	_site/pages/weeknotes/page10/index.html	/^    function gtag(){dataLayer.push(arguments);}$/;"	f
+gtag	_site/pages/weeknotes/page11/index.html	/^    function gtag(){dataLayer.push(arguments);}$/;"	f
+gtag	_site/pages/weeknotes/page2/index.html	/^    function gtag(){dataLayer.push(arguments);}$/;"	f
+gtag	_site/pages/weeknotes/page3/index.html	/^    function gtag(){dataLayer.push(arguments);}$/;"	f
+gtag	_site/pages/weeknotes/page4/index.html	/^    function gtag(){dataLayer.push(arguments);}$/;"	f
+gtag	_site/pages/weeknotes/page5/index.html	/^    function gtag(){dataLayer.push(arguments);}$/;"	f
+gtag	_site/pages/weeknotes/page6/index.html	/^    function gtag(){dataLayer.push(arguments);}$/;"	f
+gtag	_site/pages/weeknotes/page7/index.html	/^    function gtag(){dataLayer.push(arguments);}$/;"	f
+gtag	_site/pages/weeknotes/page8/index.html	/^    function gtag(){dataLayer.push(arguments);}$/;"	f
+gtag	_site/pages/weeknotes/page9/index.html	/^    function gtag(){dataLayer.push(arguments);}$/;"	f
+gtag	_site/weeknotes.html	/^    function gtag(){dataLayer.push(arguments);}$/;"	f
+let.x	_site/js/bubbleCursor.js	/^  let cursor = { x: width \/ 2, y: width \/ 2 };$/;"	p
+let.x	js/bubbleCursor.js	/^  let cursor = { x: width \/ 2, y: width \/ 2 };$/;"	p
+mouse	_site/js/oldbubble.js	/^function mouse(e) {$/;"	f
+mouse	js/oldbubble.js	/^function mouse(e) {$/;"	f
+over_or_under	_site/js/oldbubble.js	/^var over_or_under="over"; \/\/ set to "over" for bubbles to always be on top, or "under" to allow them to float behind other objects$/;"	v
+over_or_under	js/oldbubble.js	/^var over_or_under="over"; \/\/ set to "over" for bubbles to always be on top, or "under" to allow them to float behind other objects$/;"	v
+set_scroll	_site/js/oldbubble.js	/^function set_scroll() {$/;"	f
+set_scroll	js/oldbubble.js	/^function set_scroll() {$/;"	f
+set_width	_site/js/oldbubble.js	/^function set_width() {$/;"	f
+set_width	js/oldbubble.js	/^function set_width() {$/;"	f
+shigh	_site/js/oldbubble.js	/^var shigh=600;$/;"	v
+shigh	js/oldbubble.js	/^var shigh=600;$/;"	v
+sleft	_site/js/oldbubble.js	/^var sleft=sdown=0;$/;"	v
+sleft	js/oldbubble.js	/^var sleft=sdown=0;$/;"	v
+splash	_site/js/oldbubble.js	/^function splash() {$/;"	f
+splash	js/oldbubble.js	/^function splash() {$/;"	f
+sploosh	_site/js/oldbubble.js	/^var sploosh=false;$/;"	v
+sploosh	js/oldbubble.js	/^var sploosh=false;$/;"	v
+swide	_site/js/oldbubble.js	/^var swide=800;$/;"	v
+swide	js/oldbubble.js	/^var swide=800;$/;"	v
+update_bubb	_site/js/oldbubble.js	/^function update_bubb(i) {$/;"	f
+update_bubb	js/oldbubble.js	/^function update_bubb(i) {$/;"	f
+x	_site/js/oldbubble.js	/^var x=ox=400;$/;"	v
+x	js/oldbubble.js	/^var x=ox=400;$/;"	v
+y	_site/js/oldbubble.js	/^var y=oy=300;$/;"	v
+y	js/oldbubble.js	/^var y=oy=300;$/;"	v
