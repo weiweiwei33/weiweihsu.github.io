@@ -38,5 +38,5 @@ categories: comic
 ![photo comic]({{site.baseurl}}/assets/comic/whereshome3.jpg)
 
 
-Special thanks to
+This photo comic was made possible by the generous feedback, encouragement, and discussions with friends and internet buddies. Thank you all! 
 Andy Shimmin, Ben Tsai, Celine, Christine Lin, Eashan Reddy Kotha, Em deGrandpré, Helena Jar, Jess Zhou, Julius Tarng, Allison Sun, Leah, Nao Kondo, Rachel Ng, Spencer Chang, Stef Pi, Tara Lin, Tomo Kihara, Will Felker
