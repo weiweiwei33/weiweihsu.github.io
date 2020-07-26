@@ -4,43 +4,12 @@
 !_TAG_PROGRAM_NAME	Exuberant Ctags	//
 !_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
 !_TAG_PROGRAM_VERSION	5.8	//
-*	/Users/stars/Documents/Weiwei/website/weiweihsu.github.io/_sass/tale/_base.scss	/^* {$/;"	function	line:1
-html	/Users/stars/Documents/Weiwei/website/weiweihsu.github.io/_sass/tale/_base.scss	/^html,$/;"	function	line:6
-body	/Users/stars/Documents/Weiwei/website/weiweihsu.github.io/_sass/tale/_base.scss	/^body {$/;"	function	line:7
-::selection	/Users/stars/Documents/Weiwei/website/weiweihsu.github.io/_sass/tale/_base.scss	/^::selection {$/;"	function	line:14
-::-moz-selection	/Users/stars/Documents/Weiwei/website/weiweihsu.github.io/_sass/tale/_base.scss	/^::-moz-selection {$/;"	function	line:17
-html	/Users/stars/Documents/Weiwei/website/weiweihsu.github.io/_sass/tale/_base.scss	/^html {$/;"	function	line:21
-@media (min-width: 600px)	/Users/stars/Documents/Weiwei/website/weiweihsu.github.io/_sass/tale/_base.scss	/^  @media (min-width: 600px) {$/;"	function	line:26
-body	/Users/stars/Documents/Weiwei/website/weiweihsu.github.io/_sass/tale/_base.scss	/^body {$/;"	function	line:31
-h1	/Users/stars/Documents/Weiwei/website/weiweihsu.github.io/_sass/tale/_base.scss	/^h1,$/;"	function	line:35
-h2	/Users/stars/Documents/Weiwei/website/weiweihsu.github.io/_sass/tale/_base.scss	/^h2,$/;"	function	line:36
-h3	/Users/stars/Documents/Weiwei/website/weiweihsu.github.io/_sass/tale/_base.scss	/^h3,$/;"	function	line:37
-h4	/Users/stars/Documents/Weiwei/website/weiweihsu.github.io/_sass/tale/_base.scss	/^h4,$/;"	function	line:38
-h5	/Users/stars/Documents/Weiwei/website/weiweihsu.github.io/_sass/tale/_base.scss	/^h5,$/;"	function	line:39
-h6	/Users/stars/Documents/Weiwei/website/weiweihsu.github.io/_sass/tale/_base.scss	/^h6 {$/;"	function	line:40
-a	/Users/stars/Documents/Weiwei/website/weiweihsu.github.io/_sass/tale/_base.scss	/^a {$/;"	function	line:46
-blockquote	/Users/stars/Documents/Weiwei/website/weiweihsu.github.io/_sass/tale/_base.scss	/^blockquote {$/;"	function	line:51
-p:last-child	/Users/stars/Documents/Weiwei/website/weiweihsu.github.io/_sass/tale/_base.scss	/^  p:last-child {$/;"	function	line:57
-@media (min-width: 600px)	/Users/stars/Documents/Weiwei/website/weiweihsu.github.io/_sass/tale/_base.scss	/^  @media (min-width: 600px) {$/;"	function	line:61
-img	/Users/stars/Documents/Weiwei/website/weiweihsu.github.io/_sass/tale/_base.scss	/^img {$/;"	function	line:66
-td	/Users/stars/Documents/Weiwei/website/weiweihsu.github.io/_sass/tale/_base.scss	/^td {$/;"	function	line:72
-mark	/Users/stars/Documents/Weiwei/website/weiweihsu.github.io/_sass/tale/_base.scss	/^mark {$/;"	function	line:76
-.collection	/Users/stars/Documents/Weiwei/website/weiweihsu.github.io/_sass/tale/_base.scss	/^.collection {$/;"	function	line:86
-&-bodypart	/Users/stars/Documents/Weiwei/website/weiweihsu.github.io/_sass/tale/_base.scss	/^  &-bodypart {$/;"	function	line:87
-&-title	/Users/stars/Documents/Weiwei/website/weiweihsu.github.io/_sass/tale/_base.scss	/^  &-title {$/;"	function	line:91
-&-list	/Users/stars/Documents/Weiwei/website/weiweihsu.github.io/_sass/tale/_base.scss	/^  &-list {$/;"	function	line:98
-.article	/Users/stars/Documents/Weiwei/website/weiweihsu.github.io/_sass/tale/_base.scss	/^.article {$/;"	function	line:104
-&-title	/Users/stars/Documents/Weiwei/website/weiweihsu.github.io/_sass/tale/_base.scss	/^  &-title {$/;"	function	line:105
-&:hover .article-line	/Users/stars/Documents/Weiwei/website/weiweihsu.github.io/_sass/tale/_base.scss	/^  &:hover .article-line,$/;"	function	line:114
-&:focus .article-line	/Users/stars/Documents/Weiwei/website/weiweihsu.github.io/_sass/tale/_base.scss	/^  &:focus .article-line {$/;"	function	line:115
-&:last-child	/Users/stars/Documents/Weiwei/website/weiweihsu.github.io/_sass/tale/_base.scss	/^  &:last-child {$/;"	function	line:118
-&-stamp	/Users/stars/Documents/Weiwei/website/weiweihsu.github.io/_sass/tale/_base.scss	/^  &-stamp {$/;"	function	line:124
-&-line	/Users/stars/Documents/Weiwei/website/weiweihsu.github.io/_sass/tale/_base.scss	/^  &-line {$/;"	function	line:132
-&-time	/Users/stars/Documents/Weiwei/website/weiweihsu.github.io/_sass/tale/_base.scss	/^  &-time {$/;"	function	line:144
-&-reading-time	/Users/stars/Documents/Weiwei/website/weiweihsu.github.io/_sass/tale/_base.scss	/^  &-reading-time {$/;"	function	line:152
-&-new	/Users/stars/Documents/Weiwei/website/weiweihsu.github.io/_sass/tale/_base.scss	/^  &-new {$/;"	function	line:159
-@media screen and (max-width: 1300px)	/Users/stars/Documents/Weiwei/website/weiweihsu.github.io/_sass/tale/_base.scss	/^@media screen and (max-width: 1300px) {$/;"	function	line:170
-.article-new	/Users/stars/Documents/Weiwei/website/weiweihsu.github.io/_sass/tale/_base.scss	/^  .article-new {$/;"	function	line:171
-@media screen and (max-width: 768px)	/Users/stars/Documents/Weiwei/website/weiweihsu.github.io/_sass/tale/_base.scss	/^@media screen and (max-width: 768px) {$/;"	function	line:177
-img	/Users/stars/Documents/Weiwei/website/weiweihsu.github.io/_sass/tale/_base.scss	/^  img {$/;"	function	line:178
-img + em	/Users/stars/Documents/Weiwei/website/weiweihsu.github.io/_sass/tale/_base.scss	/^img + em {$/;"	function	line:183
+div	/Users/stars/Documents/Weiwei/website/weiweihsu.github.io/_layouts/comic.html	/^<div class="post">$/;"	function	line:7
+div	/Users/stars/Documents/Weiwei/website/weiweihsu.github.io/_layouts/comic.html	/^  <div class="post-line"><\/div>$/;"	function	line:8
+br	/Users/stars/Documents/Weiwei/website/weiweihsu.github.io/_layouts/comic.html	/^  <br><br>$/;"	function	line:12
+br	/Users/stars/Documents/Weiwei/website/weiweihsu.github.io/_layouts/comic.html	/^  <br><br>Hopefully, there will be a day when they become more dynamic, partially animated, bi-directionally linked, and more. If you have suggestions and\/or want to riff on this, let me know!$/;"	function	line:15
+a	/Users/stars/Documents/Weiwei/website/weiweihsu.github.io/_layouts/comic.html	/^<a href="{{ post.url | prepend: site.baseurl }}" class="catalogue-item">$/;"	function	line:21
+div	/Users/stars/Documents/Weiwei/website/weiweihsu.github.io/_layouts/comic.html	/^  <div>$/;"	function	line:22
+h	/Users/stars/Documents/Weiwei/website/weiweihsu.github.io/_layouts/comic.html	/^    <h1 class="catalogue-title">{{ post.title }}<\/h1>$/;"	function	line:24
+div	/Users/stars/Documents/Weiwei/website/weiweihsu.github.io/_layouts/comic.html	/^    <div class="catalogue-line"><\/div>$/;"	function	line:25
+p	/Users/stars/Documents/Weiwei/website/weiweihsu.github.io/_layouts/comic.html	/^    <p>$/;"	function	line:27

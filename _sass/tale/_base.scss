@@ -174,9 +174,10 @@ mark {
   }
 }
 
-@media screen and (max-width: 768px) {
+@media screen and (min-width: 600px) {
   img {
-    width: 100%;
+    max-width: 110vw;
+    margin: 0 -20% !important;
   }
 }
 
