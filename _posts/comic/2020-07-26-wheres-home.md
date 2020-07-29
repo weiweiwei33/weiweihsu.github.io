@@ -5,8 +5,6 @@ author: "Weiwei Hsu"
 categories: comic
 ---
 <!-- Primary Meta Tags -->
-<title>So.. Where’s Home?
-</title>
 <meta name="title" content="So.. Where’s Home?
 ">
 <meta name="description" content="Belonging in the in-betweens –– a photo comic">
@@ -27,13 +25,14 @@ categories: comic
 <meta property="twitter:image" content="/assets/comic/whereshometag.jpg">
 
 
-<p style= "text-align: right;"> Belonging in the in-betweens</p>
+<p style= "text-align: right;"> Belonging in the in-between</p>
 
 
 ![photo comic]({{site.baseurl}}/assets/comic/whereshome1.jpg)
 ![photo comic]({{site.baseurl}}/assets/comic/whereshome2.jpg)
 ![photo comic]({{site.baseurl}}/assets/comic/whereshome3.jpg)
 
+Thank you for stopping by and reading through! It's my first time making a comic log and if you have any comments on the format or story, do write to me – I'd love to hear from you!
 
-This photo comic was made possible by the generous feedback, encouragement, and discussions with friends and internet buddies. Thank you all!
-Allison Sun, Andy Shimmin, Ben Tsai, Celine, Charnell McQueen, Christine Lin, Eashan Reddy Kotha, Em deGrandpré, Helena Jar, Jason Yuan, Jess Zhou, Julius Tarng, Kelly Lei, Leah, May-Li Khoe, Nao Kondo, Rachel Ng, Spencer Chang, Stef Pi, Tara Lin, Tomo Kihara, Will Felker.
+This was made possible by the generous feedback, encouragement, and discussions with friends and internet buddies. Thank you all! <br><br>
+*Allison Sun, Andy Shimmin, Ben Tsai, Celine, Charnell McQueen, Christine Lin, Eashan Reddy Kotha, Em deGrandpré, Helena Jar, Jason Yuan, Jess Zhou, Julius Tarng, Kelly Lei, Leah, May-Li Khoe, Nao Kondo, Rachel Ng, Spencer Chang, Stef Pi, Tara Lin, Tomo Kihara, Will Felker.*

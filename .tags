@@ -97,7 +97,6 @@ gtag	_site/2020-05-12/weeknotes-41.html	/^    function gtag(){dataLayer.push(arg
 gtag	_site/2020-05-28/weeknotes-42.html	/^    function gtag(){dataLayer.push(arguments);}$/;"	f
 gtag	_site/2020-07-26/wheres-home.html	/^    function gtag(){dataLayer.push(arguments);}$/;"	f
 gtag	_site/about/index.html	/^    function gtag(){dataLayer.push(arguments);}$/;"	f
-gtag	_site/collection/index.html	/^    function gtag(){dataLayer.push(arguments);}$/;"	f
 gtag	_site/comic.html	/^    function gtag(){dataLayer.push(arguments);}$/;"	f
 gtag	_site/index.html	/^    function gtag(){dataLayer.push(arguments);}$/;"	f
 gtag	_site/pages/weeknotes/page10/index.html	/^    function gtag(){dataLayer.push(arguments);}$/;"	f
@@ -110,6 +109,7 @@ gtag	_site/pages/weeknotes/page6/index.html	/^    function gtag(){dataLayer.push
 gtag	_site/pages/weeknotes/page7/index.html	/^    function gtag(){dataLayer.push(arguments);}$/;"	f
 gtag	_site/pages/weeknotes/page8/index.html	/^    function gtag(){dataLayer.push(arguments);}$/;"	f
 gtag	_site/pages/weeknotes/page9/index.html	/^    function gtag(){dataLayer.push(arguments);}$/;"	f
+gtag	_site/rolodex/index.html	/^    function gtag(){dataLayer.push(arguments);}$/;"	f
 gtag	_site/weeknotes.html	/^    function gtag(){dataLayer.push(arguments);}$/;"	f
 let.x	_site/js/bubbleCursor.js	/^  let cursor = { x: width \/ 2, y: width \/ 2 };$/;"	p
 let.x	js/bubbleCursor.js	/^  let cursor = { x: width \/ 2, y: width \/ 2 };$/;"	p
