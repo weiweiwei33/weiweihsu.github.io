@@ -35,4 +35,4 @@ categories: comic
 Thank you for stopping by and reading through! It's my first time making a comic log and if you have any comments on the format or story, do write to me – I'd love to hear from you!
 
 This was made possible by the generous feedback, encouragement, and discussions with friends and internet buddies. Thank you all! <br><br>
-*Allison Sun, Andy Shimmin, Ben Tsai, Celine, Charnell McQueen, Christine Lin, Eashan Reddy Kotha, Em deGrandpré, Helena Jar, Jason Yuan, Jess Zhou, Julius Tarng, Kelly Lei, Leah, May-Li Khoe, Nao Kondo, Rachel Ng, Spencer Chang, Stef Pi, Tara Lin, Tomo Kihara, Will Felker.*
+*Allison Sun, Andy Shimmin, Ben Tsai, Celine, Charnell McQueen, Christine Lin, Damon Lam, Eashan Reddy Kotha, Em deGrandpré, Helena Jar, Jason Yuan, Jess Zhou, Julius Tarng, Kelly Lei, Leah, May-Li Khoe, Miles Robinson, Nao Kondo, Rachel Ng, Robert M Ochshorn, Spencer Chang, Stef Pi, Tara Lin, Tomo Kihara, Will Felker.*
