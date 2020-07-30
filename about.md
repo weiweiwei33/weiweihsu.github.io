@@ -7,6 +7,10 @@ permalink: /about/
 
 I really enjoy mixing together toys, art, architecture, and community design. Sometimes, you’ll find me dreaming about the multiverse of magical disciplines, authoring environments, and inter-generational neighborhoods.
 
+For most of my days, I feel both exponentially lost and immensely motivated. However, if you know me in real life, you probably won't spot either on my face, but, you may notice it through my behavior.
+
+I enjoy sending out and receiving physical letters, so if you'd like to receive a postcard from me, email me your mailing address at wei at weiweihsu dot com.
+
 <br>
 
 <div class="collection-bodypart" style="text-align: center;">

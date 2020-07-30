@@ -174,12 +174,13 @@ mark {
   }
 }
 
-@media screen and (max-width: 600px) {
-  img {
-    max-width: 110vw;
-    margin: 0 -20% !important;
-  }
-}
+// full bleed image on mobile, doesn't work on all devices tho
+// @media screen and (max-width: 600px) {
+//   img {
+//     max-width: 110vw;
+//     margin: 0 -20% !important;
+//   }
+// }
 
 img + em {
 
