@@ -96,6 +96,7 @@ gtag	_site/2020-02-07/weeknotes-40.html	/^    function gtag(){dataLayer.push(arg
 gtag	_site/2020-05-12/weeknotes-41.html	/^    function gtag(){dataLayer.push(arguments);}$/;"	f
 gtag	_site/2020-05-28/weeknotes-42.html	/^    function gtag(){dataLayer.push(arguments);}$/;"	f
 gtag	_site/2020-07-26/wheres-home.html	/^    function gtag(){dataLayer.push(arguments);}$/;"	f
+gtag	_site/2020-09-04/roundup-august.html	/^    function gtag(){dataLayer.push(arguments);}$/;"	f
 gtag	_site/about/index.html	/^    function gtag(){dataLayer.push(arguments);}$/;"	f
 gtag	_site/comic.html	/^    function gtag(){dataLayer.push(arguments);}$/;"	f
 gtag	_site/index.html	/^    function gtag(){dataLayer.push(arguments);}$/;"	f

@@ -7,7 +7,7 @@
 div	/Users/stars/Documents/Weiwei/website/weiweihsu.github.io/_layouts/comic.html	/^<div class="post">$/;"	function	line:7
 div	/Users/stars/Documents/Weiwei/website/weiweihsu.github.io/_layouts/comic.html	/^  <div class="post-line"><\/div>$/;"	function	line:8
 br	/Users/stars/Documents/Weiwei/website/weiweihsu.github.io/_layouts/comic.html	/^  <br><br>$/;"	function	line:12
-br	/Users/stars/Documents/Weiwei/website/weiweihsu.github.io/_layouts/comic.html	/^  <br><br>Hopefully, there will be a day when they become more dynamic, partially animated, bi-directionally linked, and more. If you have suggestions and\/or want to riff on this, let me know!$/;"	function	line:15
+br	/Users/stars/Documents/Weiwei/website/weiweihsu.github.io/_layouts/comic.html	/^  <br><br>Hopefully, there will be a day where they become more dynamic, partially animated, bi-directionally linked, and more. If you have suggestions and\/or want to riff on this, let me know!$/;"	function	line:15
 a	/Users/stars/Documents/Weiwei/website/weiweihsu.github.io/_layouts/comic.html	/^<a href="{{ post.url | prepend: site.baseurl }}" class="catalogue-item">$/;"	function	line:21
 div	/Users/stars/Documents/Weiwei/website/weiweihsu.github.io/_layouts/comic.html	/^  <div>$/;"	function	line:22
 h	/Users/stars/Documents/Weiwei/website/weiweihsu.github.io/_layouts/comic.html	/^    <h1 class="catalogue-title">{{ post.title }}<\/h1>$/;"	function	line:24
