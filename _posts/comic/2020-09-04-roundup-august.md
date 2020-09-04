@@ -25,6 +25,10 @@ categories: comic
 
 <p style= "text-align: right;"> ~ a scrollable comic report of some sort?</p>
 
+<br>
+
+<br>
+August was kinda :( for me, but I played games, visited a few calming places, found some ✨🌱 things on the interweb, and started thinking about picking up a new hobby, maybe?
 
 ![photo comic]({{site.baseurl}}/assets/comic/roundup_august_1.jpg)
 ![photo comic]({{site.baseurl}}/assets/comic/roundup_august_2.jpg)
