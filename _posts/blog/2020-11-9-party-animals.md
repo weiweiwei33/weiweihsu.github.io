@@ -52,7 +52,7 @@ Our interview with Pumel was scheduled for 8 pm on a Friday. When we met with hi
 
 In this interview, Pumel shared with us more about the behind-the-scenes of "Party Animals", the development process of this game product, and his personal game design philosophy, and the current and future state of technology.
 
---
+---
 
 
 

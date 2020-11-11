@@ -27,9 +27,9 @@ categories: comic
 <br>
 Time is just a blur nowadays, but hey, gotta try and have so fun and make some friends along the way, right? And so I try to!
 
-![photo comic]({{site.baseurl}}/assets/comic/roundup_October_1.jpg)
-![photo comic]({{site.baseurl}}/assets/comic/roundup_October_2.jpg)
-![photo comic]({{site.baseurl}}/assets/comic/roundup_October_3.jpg)
+![photo comic]({{site.baseurl}}/assets/comic/roundup_october_1.jpg)
+![photo comic]({{site.baseurl}}/assets/comic/roundup_october_2.jpg)
+![photo comic]({{site.baseurl}}/assets/comic/roundup_october_3.jpg)
 
 **Links** (in no particular order)
 <br>> Imagined world from real life photos [(tweet)](https://twitter.com/ac2971/status/1302286507860873216)
