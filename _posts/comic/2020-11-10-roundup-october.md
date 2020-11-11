@@ -13,14 +13,14 @@ categories: comic
 <meta property="og:url" content="http://weiweihsu.com/2020-07-26/wheres-home">
 <meta property="og:title" content="Roundup – October 2020">
 <meta property="og:description" content="A comic-y report on October">
-<meta property="og:image" content="/assets/comic/roundup_October_tag.jpg">
+<meta property="og:image" content="/assets/comic/roundup_october_tag.jpg">
 
 <!-- Twitter -->
 <meta property="twitter:card" content="summary_large_image">
 <meta property="twitter:url" content="http://weiweihsu.com/2020-07-26/wheres-home">
 <meta property="twitter:title" content="Roundup – October 2020">
 <meta property="twitter:description" content="A comic-y report on October">
-<meta property="twitter:image" content="/assets/comic/roundup_October_tag.jpg">
+<meta property="twitter:image" content="/assets/comic/roundup_october_tag.jpg">
 
 <br>
 
