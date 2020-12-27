@@ -31,7 +31,7 @@ reading-time: 9min
 <br>
 
 <p style="color:grey;"> Party Animals recently rose to #4 in the global ranking on Steam. It's a game made by a team of android engineers and new grads (who have not made games before). This is an interview with Pumel, the founder and producer of Party Animals. He was previously a design director at the phone company Smartisan. </p>
-<p style="color:grey; "> Originally written by 梁子 and 菲斯喵 and published on  <a href="youxiputao.com">Game Grape</a>. It's currently only available in Chinese so I thought it might be interesting to translate and share!</p>
+<p style="color:grey; "> Originally written by 梁子 and 菲斯喵 and published on  <a href="http://youxiputao.com/articles/20863">Game Grape</a>. It's currently only available in Chinese so I thought it might be interesting to translate and share!</p>
 <br><br>
 
 ---
