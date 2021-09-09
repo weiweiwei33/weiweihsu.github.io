@@ -14,7 +14,7 @@ I enjoy sending out and receiving physical letters, so if you'd like to receive 
 <br>
 
 <div class="collection-bodypart" style="text-align: center;">
-<a href="https://www.are.na/weiwei-hsu">are.na</a> . <a href="https://kinopio.club/environments-that-raise-people-s-aspirations-YeTbfSf7_o-Vz5i7XhPtx">kinopio</a> . <a href="https://twitter.com/glitchyowl">twitter</a> . <a href="https://www.instagram.com/glitchyowl_/">instagram</a> . <a href="https://unsplash.com/@glitchyowl">unsplash</a> . linkedin (jk)
+<a href="https://www.are.na/weiwei-xu">are.na</a> . <a href="https://kinopio.club/environments-that-raise-people-s-aspirations-YeTbfSf7_o-Vz5i7XhPtx">kinopio</a> . <a href="https://twitter.com/weiweiwei33">twitter</a> . <a href="https://read.cv/weiweiwei33">read.cv</a> . <a href="https://unsplash.com/@weiweiwei33">unsplash</a> . linkedin (jk)
 </div>
 <br><br>
 
@@ -26,7 +26,6 @@ I am an American-born Taiwanese who grew up in Shanghai. I studied Interaction D
 At CCA, I was very fortunate to learn from those who are co-shaping the internet and the world around us. They exposed me to a world that I didn't know existed before. I will be forever grateful to the teachers and friends that I've met during my time there.
 <br><br>
 I care tremendously about cultivating communities, climate change, long-term (technology) research & development, and education. It is my life-long goal to put equal efforts into these four areas.
-
 
 </div>
 

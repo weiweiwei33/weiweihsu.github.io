@@ -1,46 +1,61 @@
 ---
 layout: default
 ---
+
 <div class="post">
+  <div class="post-line"></div>
 
-<div class="post-line"></div>
+  In general, I strive to be fearless, but not delusional; be joyful, but not
+  naive; be thoughtful, but not stubborn; be communicative, but not commanding;
+  be credible, but not infamous.
 
-In general, I strive to be fearless, but not delusional; be joyful, but not naive; be thoughtful, but not stubborn; be communicative, but not commanding; be credible, but not infamous.
+  <br /><br />
 
-<br><br>
+  In the long-term, I want to help close the gap between ideals and reality,
+  academic and industry.
 
-In the long-term, I want to help close the gap between ideals and reality, academic and industry.
+  <br /><br />
+  Currently, I'm gardening at <a href="https://sprout.place">Sprout</a> because
+  computing environments can be and should be more fluid, playful, equitable,
+  fun, humane, expressive ++. I’m also building small products at
+  <a href="http://tinyfactories.space">Tiny Factories</a> because I believe
+  there's a future where indiepreneurs thrive.
 
-<br><br>
-Currently, I'm gardening at <a href="https://makespace.fun">MakeSpace</a> because computing environments can be and should be more fluid, playful, equitable, fun, humane, expressive ++. I’m also building small products at <a href="http://tinyfactories.space">Tiny Factories</a> because I believe there's a future where indiepreneurs thrive. 
+  <!-- In a few years, I hope to take the learnings from making, launching, marketing, selling products in a monthly-cycle and apply them to bigger projects. -->
 
-<!-- In a few years, I hope to take the learnings from making, launching, marketing, selling products in a monthly-cycle and apply them to bigger projects. -->
-
-<!-- I think a lot about relationships, interactions, and stories. I'm gradually thinking more about tactility, spaces, conversations, and urban systems.
+  <!-- I think a lot about relationships, interactions, and stories. I'm gradually thinking more about tactility, spaces, conversations, and urban systems.
 
 I write weeknotes to reflect upon my day-to-day actions. I write blog posts to summarize a feeling I have. If you'd like to converse about something, or view my design portfolio, you can email me at <a href="mailto:wei@weiweihsu.com?Subject=Hello" target="_top">wei@weiweihsu.com</a>
 
 Currently, I'm adjusting to my post-college life. I'm trying to understand <i>how</i> I can devote my time to what I want to do.  -->
 
-<br><br>
+  <br /><br />
 
-My senior thesis was on the "Space" of Computing: Computer went from being a job title for people who do calculations, to large machines that would fill up an entire room, to devices so small that they would fit into different objects and dissolve into our environment. Clearly, our conception of "computing" has changed and <i>continues</i> to change. This work identified dimensions that constitute the "space of computing". While some dimensions are less recognizable than others, defining them is an essential undertaking because defining the scope of "computing space" is to understand past, present, and future of our technological advancements, what we've already done and what we've neglected. You can view the thesis presentation <a href="https://www.youtube.com/watch?v=nVFS85Zx6uw">here</a> and the paper I co-authored <a href="https://jods.mitpress.mit.edu/pub/6pewbpry/release/1">here</a>.
+  My senior thesis was on the "Space" of Computing: Computer went from being a
+  job title for people who do calculations, to large machines that would fill up
+  an entire room, to devices so small that they would fit into different objects
+  and dissolve into our environment. Clearly, our conception of "computing" has
+  changed and <i>continues</i> to change. This work identified dimensions that
+  constitute the "space of computing". While some dimensions are less
+  recognizable than others, defining them is an essential undertaking because
+  defining the scope of "computing space" is to understand past, present, and
+  future of our technological advancements, what we've already done and what
+  we've neglected. You can view the thesis presentation
+  <a href="https://www.youtube.com/watch?v=nVFS85Zx6uw">here</a> and the paper I
+  co-authored
+  <a href="https://jods.mitpress.mit.edu/pub/6pewbpry/release/1">here</a>.
 
-<br><br>
+  <br /><br />
 
-Thank you for spending some time here. Stay a while and write me a letter if you aren't in a rush! But of course, no pressure ;)
-
+  Thank you for spending some time here. Stay a while and write me a letter if
+  you aren't in a rush! But of course, no pressure ;)
 </div>
 
-
-<div class="pagination">
-
-</div>
+<div class="pagination"></div>
 <mark> &nbsp Blog &nbsp </mark>
-<br> <br>
+<br />
+<br />
 <div class="article">
-
-
   <!-- <img id="new_post" src="https://media.giphy.com/media/cQ23qw9OduzBc4ju7U/giphy.gif"> -->
 
   <!-- <div class="article-new"> coming soon </div>
@@ -51,59 +66,48 @@ Thank you for spending some time here. Stay a while and write me a letter if you
   <br><br>
   </a> -->
 
-  {% for post in site.categories.blog  %}
-  {% if post.external-url %}
+  {% for post in site.categories.blog %} {% if post.external-url %}
 
-      <a href="{{ post.external-url }}" class="article-title">
-
-          <h1 class="article-title">{{ post.title }} ↗</h1>
-          <div class="article-line"></div>
-          <time datetime="{{ post.date }}" class="article-time">{{ post.date | date: "%B %d, %Y" }}</time>
-          <time class="article-reading-time">• {{ post.reading-time }} </time>
-      </a>
-      <br>
+  <a href="{{ post.external-url }}" class="article-title">
+    <h1 class="article-title">{{ post.title }} ↗</h1>
+    <div class="article-line"></div>
+    <time datetime="{{ post.date }}" class="article-time"
+      >{{ post.date | date: "%B %d, %Y" }}</time
+    >
+    <time class="article-reading-time">• {{ post.reading-time }} </time>
+  </a>
+  <br />
   {% else %}
 
-      <a href="{{ post.url | prepend: site.baseurl }}" class="article-title">
-
-          <h1 class="article-title">{{ post.title }}</h1>
-          <div class="article-line"></div>
-          <time datetime="{{ post.date }}" class="article-time">{{ post.date | date: "%B %d, %Y" }}</time>
-          <time class="article-reading-time">• {{ post.reading-time }} </time>
-      </a>
-      <br>
-  {% endif %}
-
-
-  {% endfor %}
-
-
+  <a href="{{ post.url | prepend: site.baseurl }}" class="article-title">
+    <h1 class="article-title">{{ post.title }}</h1>
+    <div class="article-line"></div>
+    <time datetime="{{ post.date }}" class="article-time"
+      >{{ post.date | date: "%B %d, %Y" }}</time
+    >
+    <time class="article-reading-time">• {{ post.reading-time }} </time>
+  </a>
+  <br />
+  {% endif %} {% endfor %}
 </div>
 
-<div class="pagination">
-
-</div>
-
+<div class="pagination"></div>
 
 <mark> &nbsp Weeknotes &nbsp </mark>
 
 <div class="catalogue">
-
   {% for post in site.categories.weeknotes limit:3 %}
   <a href="{{ post.url | prepend: site.baseurl }}" class="catalogue-item">
     <div>
-
       <h1 class="catalogue-title">{{ post.title }}</h1>
       <div class="catalogue-line"></div>
 
       <p>
         {{ post.content | strip_html | truncatewords: 30 }}
       </p>
-
     </div>
   </a>
   {% endfor %}
-
 
   <!-- {% for post in paginator.posts limit:1 %}
     <a href="{{ post.url | prepend: site.baseurl }}" class="catalogue-item">
@@ -121,5 +125,4 @@ Thank you for spending some time here. Stay a while and write me a letter if you
   {% endfor %} -->
 </div>
 
-<div class="pagination">
-</div>
+<div class="pagination"></div>
