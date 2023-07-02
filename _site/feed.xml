@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.9.0">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2020-12-27T14:26:50+08:00</updated><id>http://localhost:4000/</id><title type="html">Weiwei Hsu</title><subtitle>be courageous</subtitle><author><name>Weiwei</name><email>wei@weiweihsu.com</email></author><entry><title type="html">Roundup – October 2020</title><link href="http://localhost:4000/2020-11-10/roundup-october" rel="alternate" type="text/html" title="Roundup – October 2020" /><published>2020-11-10T00:00:00+08:00</published><updated>2020-11-10T00:00:00+08:00</updated><id>http://localhost:4000/2020-11-10/roundup-october</id><content type="html" xml:base="http://localhost:4000/2020-11-10/roundup-october">&lt;!-- Primary Meta Tags --&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.9.3">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2023-07-02T23:37:11+08:00</updated><id>http://localhost:4000/</id><title type="html">Weiwei Xu</title><subtitle>be courageous</subtitle><author><name>Weiwei Xu</name><email>wei@weiwei.place</email></author><entry><title type="html">Roundup – October 2020</title><link href="http://localhost:4000/2020-11-10/roundup-october" rel="alternate" type="text/html" title="Roundup – October 2020" /><published>2020-11-10T00:00:00+08:00</published><updated>2020-11-10T00:00:00+08:00</updated><id>http://localhost:4000/2020-11-10/roundup-october</id><content type="html" xml:base="http://localhost:4000/2020-11-10/roundup-october">&lt;!-- Primary Meta Tags --&gt;
 &lt;meta name=&quot;title&quot; content=&quot;Roundup – October 2020&quot; /&gt;
 
 &lt;meta name=&quot;description&quot; content=&quot;A comic-y report on October&quot; /&gt;
@@ -45,7 +45,7 @@ Time is just a blur nowadays, but hey, gotta try and have so fun and make some f
 &lt;title&gt;Party Animals - Aiming to be like Nintendo&lt;/title&gt;
 &lt;meta name=&quot;title&quot; content=&quot;Party Animals - Aiming to be like Nintendo&quot; /&gt;
 
-&lt;meta name=&quot;description&quot; content=&quot;Party Animals rose to #4 on Steam. It's a game made by a team of android engineers and new grads&quot; /&gt;
+&lt;meta name=&quot;description&quot; content=&quot;Party Animals rose to #4 on Steam. It&apos;s a game made by a team of android engineers and new grads&quot; /&gt;
 
 &lt;!-- Open Graph / Facebook --&gt;
 &lt;meta property=&quot;og:type&quot; content=&quot;website&quot; /&gt;
@@ -54,7 +54,7 @@ Time is just a blur nowadays, but hey, gotta try and have so fun and make some f
 
 &lt;meta property=&quot;og:title&quot; content=&quot;Party Animals - Aiming to be like Nintendo&quot; /&gt;
 
-&lt;meta property=&quot;og:description&quot; content=&quot;Party Animals rose to #4 on Steam. It's a game made by a team of android engineers and new grads&quot; /&gt;
+&lt;meta property=&quot;og:description&quot; content=&quot;Party Animals rose to #4 on Steam. It&apos;s a game made by a team of android engineers and new grads&quot; /&gt;
 
 &lt;meta property=&quot;og:image&quot; content=&quot;https://steamcdn-a.akamaihd.net/steam/apps/1260320/capsule_616x353.jpg?t=1603779420&quot; /&gt;
 
@@ -65,15 +65,15 @@ Time is just a blur nowadays, but hey, gotta try and have so fun and make some f
 
 &lt;meta property=&quot;twitter:title&quot; content=&quot;Party Animals - Aiming to be like Nintendo&quot; /&gt;
 
-&lt;meta property=&quot;twitter:description&quot; content=&quot;Party Animals rose to #4 on Steam. It's a game made by a team of android engineers and new grads&quot; /&gt;
+&lt;meta property=&quot;twitter:description&quot; content=&quot;Party Animals rose to #4 on Steam. It&apos;s a game made by a team of android engineers and new grads&quot; /&gt;
 
 &lt;meta property=&quot;twitter:image&quot; content=&quot;https://steamcdn-a.akamaihd.net/steam/apps/1260320/capsule_616x353.jpg?t=1603779420&quot; /&gt;
 
-&lt;p&gt;&lt;img src=&quot;/assets/partyanimals/0.png&quot; alt=&quot;Party Animal's game cover&quot; /&gt;
+&lt;p&gt;&lt;img src=&quot;/assets/partyanimals/0.png&quot; alt=&quot;Party Animal&apos;s game cover&quot; /&gt;
 &lt;br /&gt;&lt;/p&gt;
 
-&lt;p style=&quot;color:grey;&quot;&gt; Party Animals recently rose to #4 in the global ranking on Steam. It's a game made by a team of android engineers and new grads (who have not made games before). This is an interview with Pumel, the founder and producer of Party Animals. He was previously a design director at the phone company Smartisan. &lt;/p&gt;
-&lt;p style=&quot;color:grey; &quot;&gt; Originally written by 梁子 and 菲斯喵 and published on  &lt;a href=&quot;http://youxiputao.com/articles/20863&quot;&gt;Game Grape&lt;/a&gt;. It's currently only available in Chinese so I thought it might be interesting to translate and share!&lt;/p&gt;
+&lt;p style=&quot;color:grey;&quot;&gt; Party Animals recently rose to #4 in the global ranking on Steam. It&apos;s a game made by a team of android engineers and new grads (who have not made games before). This is an interview with Pumel, the founder and producer of Party Animals. He was previously a design director at the phone company Smartisan. &lt;/p&gt;
+&lt;p style=&quot;color:grey; &quot;&gt; Originally written by 梁子 and 菲斯喵 and published on  &lt;a href=&quot;http://youxiputao.com/articles/20863&quot;&gt;Game Grape&lt;/a&gt;. It&apos;s currently only available in Chinese so I thought it might be interesting to translate and share!&lt;/p&gt;
 &lt;p&gt;&lt;br /&gt;&lt;br /&gt;&lt;/p&gt;
 
 &lt;hr /&gt;
@@ -492,7 +492,7 @@ Each year, there are about 8-9,000 games launched on Steam, but only 100 of thos
 &lt;p&gt;We can give it a try and fight against game companies that we thought of as legends when we were young. It’s like, if you grew up watching Michael Jordan playing basketball. Then one day, you got sent to the court and your opponent is Michael Jordan. This is what it feels like; it’s no longer about winning or losing, you would want to give it your best shot anyway. It’s necessary to have dreams. Hey, what if dreams do come true?
 &lt;br /&gt;&lt;br /&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;/assets/partyanimals/15.jpeg&quot; alt=&quot;Party Animal's game cover&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/assets/partyanimals/15.jpeg&quot; alt=&quot;Party Animal&apos;s game cover&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;–&lt;/p&gt;
 
@@ -523,7 +523,7 @@ Each year, there are about 8-9,000 games launched on Steam, but only 100 of thos
 
 &lt;meta property=&quot;twitter:image&quot; content=&quot;/assets/comic/jujutag.jpg&quot; /&gt;
 
-&lt;p style=&quot;text-align: right;&quot;&gt;It's been a while&lt;/p&gt;
+&lt;p style=&quot;text-align: right;&quot;&gt;It&apos;s been a while&lt;/p&gt;
 
 &lt;p&gt;&lt;br /&gt;&lt;/p&gt;
 
