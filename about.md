@@ -21,7 +21,7 @@ I enjoy sending out and receiving physical letters, so if you'd like to receive 
 <mark> &nbsp; Background &nbsp; </mark>
 
 <div class="collection-bodypart">
-I am an American-born Taiwanese who grew up in Shanghai who speak more Cantonese than Taiwanese. I studied Interaction Design at <a href="https://www.cca.edu">California College of the Arts</a>. Occasionally, I think about going to grad school in Boston.
+I am an American-born Taiwanese who grew up in Shanghai, yet I know more Cantonese than Taiwanese. I studied Interaction Design at <a href="https://www.cca.edu">California College of the Arts</a>. Occasionally, I think about going to grad school in Boston.
 <br><br>
 At CCA, I was very fortunate to learn from those who has been shaping the internet and the world around us. They exposed me to a world that I didn't know existed before. I will be forever grateful to the teachers and friends that I've met during my time there.
 <br><br>
